@@ -1,4 +1,4 @@
-# Better Craftables
+![image](https://user-images.githubusercontent.com/24751415/226339670-54719540-97d9-424c-be90-6e2b0e452478.png)
 A basic Minecraft datapack that adds some improved crafting recipes to the game
 
 SpigotMC: https://www.spigotmc.org/resources/better-craftables.108728/
