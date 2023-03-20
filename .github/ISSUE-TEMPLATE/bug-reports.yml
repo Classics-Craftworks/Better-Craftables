@@ -1,0 +1,45 @@
+name: Bug Report
+description: File a bug report
+title: "[Bug]: "
+labels: ["bug"]
+assignees:
+  - TheClassic36
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this bug report!
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: A clear and concise description of what the bug is.
+      placeholder: Example: I cannot craft Amethyst Blocks back into Amethyst Shards
+    validations:
+      required: true
+  - type: dropdown
+    id: dpversion
+    attributes:
+      label: Datapack Version
+      description: Which version of Better Craftables are you running?
+      options:
+        - v1.0.1
+        - v1.0.0
+    validations:
+      required: true
+  - type: textarea
+    id: mcversion
+    attributes:
+      label: Minecraft Version
+      description: Which version of Minecraft are you running?
+      placeholder: If running a server, please type /version and paste the output here. If running on singleplayer, please type the Minecraft version here instead.
+    validations:
+      required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: Relevant log output
+      description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
+      render: shell
+    validations:
+      required: false
