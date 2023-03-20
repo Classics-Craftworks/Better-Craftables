@@ -1,7 +1,6 @@
 name: Feature Request
 description: Submit a feature request
-title: "[Bug]: "
-labels: ["bug"]
+labels: ["Enhancement"]
 assignees:
   - TheClassic36
 body:
