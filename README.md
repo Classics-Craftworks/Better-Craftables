@@ -1,7 +1,9 @@
 # Better Craftables
 A basic Minecraft datapack that adds some improved crafting recipes to the game
 
-## The Recipes
+SpigotMC: https://www.spigotmc.org/resources/better-craftables.108728/
+
+## Recipes
 
 * 1 Amethyst Block -> 4 Amethyst Shards
 
@@ -27,6 +29,9 @@ A basic Minecraft datapack that adds some improved crafting recipes to the game
 ## Versions
 * Minecraft 1.19.4 = v1.0.1 (or newer)
 * Minecraft 1.19-1.19.3 = v1.0.0
+
+## Support & Feature Requests
+Please open any support requests or feature requests on GitHub. Do not use the reviews to report bugs or suggest new recipes.
 
 ## Some things to note
 * This datapack was thrown together a while ago for a small community, I figured others may enjoy the small changes it brings.
