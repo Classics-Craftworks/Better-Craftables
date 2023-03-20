@@ -13,7 +13,7 @@ body:
     attributes:
       label: What happened?
       description: A clear and concise description of what the bug is.
-      placeholder: Example: I cannot craft Amethyst Blocks back into Amethyst Shards
+      placeholder: "Example: I cannot craft Amethyst Blocks back into Amethyst Shards"
     validations:
       required: true
   - type: dropdown
