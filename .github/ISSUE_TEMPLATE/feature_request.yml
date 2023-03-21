@@ -4,10 +4,6 @@ labels: ["Enhancement"]
 assignees:
   - TheClassic36
 body:
-  - type: markdown
-    attributes:
-      value: |
-        Thanks for taking the time to suggest new features!
   - type: textarea
     id: what-is-it
     attributes:
