@@ -1,12 +1,12 @@
 {
     "type": "minecraft:crafting_shaped",
     "pattern": [
-        "###",
-        "#B#",
-        "#R#"
+        "DDD",
+        "DBD",
+        "DRD"
     ],
     "key": {
-        "#": {
+        "D": {
             "item": "minecraft:cobbled_deepslate"
         },
         "B": {

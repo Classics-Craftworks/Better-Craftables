@@ -1,14 +1,14 @@
 {
     "type": "minecraft:crafting_shaped",
     "pattern": [
-        "/",
-        "B"
+        "S",
+        "D"
     ],
     "key": {
-        "/": {
+        "S": {
             "item": "minecraft:stick"
         },
-        "B": {
+        "D": {
             "item": "minecraft:cobbled_deepslate"
         }
     },

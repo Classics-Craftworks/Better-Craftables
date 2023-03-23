@@ -1,13 +1,13 @@
-![image](https://user-images.githubusercontent.com/24751415/226339670-54719540-97d9-424c-be90-6e2b0e452478.png)
+![image](https://i.imgur.com/amjnfkE.png)
 A basic Minecraft datapack that adds some improved crafting recipes to the game
 
 SpigotMC: https://www.spigotmc.org/resources/better-craftables.108728/
 
-## Recipes
+## Crafting Recipes
 
 * 1 Amethyst Block -> 4 Amethyst Shards
 
-![image](https://user-images.githubusercontent.com/24751415/226324689-260b1d77-63b3-4afe-afb1-cce143a8332f.png)
+![image](https://i.imgur.com/wMLqMer.png)
 
 * 9 Deepslate -> 9 Cobbled Deepslate
 
@@ -28,11 +28,21 @@ SpigotMC: https://www.spigotmc.org/resources/better-craftables.108728/
   
 * Saddle recipe
 
-![image](https://user-images.githubusercontent.com/24751415/226324768-3524ca1b-64d5-4d77-ae7f-79c41739e72c.png)
+![image](https://i.imgur.com/0INIDRV.png)
 
 * 5 String -> 1 Cobweb
 
 ![image](https://i.imgur.com/B1CIStT.png)
+
+## Smelting Recipes
+
+* 1 Block of Raw Ore -> 1 Block of Ore
+
+![image](https://i.imgur.com/UhVkqND.png)
+
+![image](https://i.imgur.com/JEUqM8O.png)
+
+![image](https://i.imgur.com/9PpdfXw.png)
 
 ## Versions
 * Minecraft 1.19.4 = v1.0.1 (or newer)

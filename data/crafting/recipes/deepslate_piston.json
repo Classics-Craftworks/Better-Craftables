@@ -1,18 +1,18 @@
 {
     "type": "minecraft:crafting_shaped",
     "pattern": [
-        "###",
-        "BiB",
+        "PPP",
+        "BIB",
         "BRB"
     ],
     "key": {
-        "#": {
+        "P": {
             "tag": "minecraft:planks"
         },
         "B": {
             "item": "minecraft:cobbled_deepslate"
         },
-        "i": {
+        "I": {
             "item": "minecraft:iron_ingot"
         },
         "R": {

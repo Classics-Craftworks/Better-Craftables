@@ -1,14 +1,14 @@
 {
     "type": "minecraft:crafting_shaped",
     "pattern": [
-        " / ",
-        "BBB"
+        " B ",
+        "DDD"
     ],
     "key": {
-        "/": {
+        "B": {
             "item": "minecraft:blaze_rod"
         },
-        "B": {
+        "D": {
             "item": "minecraft:cobbled_deepslate"
         }
     },
