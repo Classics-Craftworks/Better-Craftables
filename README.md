@@ -48,6 +48,8 @@ SpigotMC: https://www.spigotmc.org/resources/better-craftables.108728/
 * Minecraft 1.19.4 = v1.0.1 (or newer)
 * Minecraft 1.19-1.19.3 = v1.0.0
 
+Early versions for Minecraft 1.20 are available [here](https://github.com/TheClassic36/Better-Craftables/releases/tag/v1.2.1-beta).
+
 ## Support & Feature Requests
 Please open any support requests or feature requests on GitHub. Do not use the reviews to report bugs or suggest new recipes.
 
