@@ -1,0 +1,33 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "smelting:raw_copper_block",
+	  "smelting:raw_copper_block_blast"
+    ]
+  },
+  "criteria": {
+    "has_copper": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:raw_copper_block"
+          }
+        ]
+      }
+    },
+    "has_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "smelting:raw_copper_block"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_copper",
+	  "has_recipe"
+    ]
+  ]
+}
