@@ -1,8 +1,0 @@
-Changelog:
-
-v1.2.1:
-- Smelting recipes for Blocks of Raw Ore -> Blocks of Ore now appear in the Recipe Book when a player obtains a furnace, blast furnace or any Raw Ore Block for the first time
-     - Previously, these recipes would only appear in the Recipe Book after they had already been used
-- Increased the amount of XP gained from smelting Raw Ore Blocks
-- Added pack icon
-- More file cleanup
