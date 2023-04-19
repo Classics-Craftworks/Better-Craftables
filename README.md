@@ -2,6 +2,7 @@
 A basic Minecraft datapack that adds some improved crafting recipes to the game
 
 SpigotMC: https://www.spigotmc.org/resources/better-craftables.108728/
+Modrinth: https://modrinth.com/datapack/better-craftables/
 
 ## Crafting Recipes
 
