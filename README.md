@@ -58,8 +58,6 @@ Modrinth: https://modrinth.com/datapack/better-craftables/
 * Snapshot 23w16a = [v1.2.2-beta3](https://github.com/TheClassic36/Better-Craftables/releases/tag/v1.2.2-beta3)
 * Snapshot 23w12a-23w14a = [v1.2.2-beta2](https://github.com/TheClassic36/Better-Craftables/releases/tag/v1.2.2-beta)
 
-Early versions for Minecraft 1.20 are available [here](https://github.com/TheClassic36/Better-Craftables/releases/tag/v1.2.2-beta).
-
 ## Support & Feature Requests
 Please open any support requests or feature requests on GitHub. Do not use the reviews to report bugs or suggest new recipes.
 
