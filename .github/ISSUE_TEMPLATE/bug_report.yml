@@ -16,9 +16,10 @@ body:
     id: dpversion
     attributes:
       label: Datapack Version
-      description: Which version of Better Craftables are you running?
+      description: Which version of Better Craftables are you using?
       options:
-        - v1.2.2-beta1
+        - v1.2.2-beta3
+        - v1.2.2-beta2
         - v1.2.1
         - v1.2.0
         - v1.1.0
@@ -30,8 +31,8 @@ body:
     id: mcversion
     attributes:
       label: Minecraft Version
-      description: Which version of Minecraft are you running?
-      placeholder: If running a server, please type /version and paste the output here. If running on singleplayer, please type the Minecraft version here instead.
+      description: Which version of Minecraft are you using?
+      placeholder: If using a server, please type /version and paste the output here. If using on singleplayer, please type the Minecraft version here instead.
     validations:
       required: true
   - type: textarea
