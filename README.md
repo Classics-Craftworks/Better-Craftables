@@ -47,8 +47,16 @@ Modrinth: https://modrinth.com/datapack/better-craftables/
 ![image](https://i.imgur.com/9PpdfXw.png)
 
 ## Versions
+
+**Releases:**
+
 * Minecraft 1.19.4 = v1.0.1-v1.2.1
 * Minecraft 1.19-1.19.3 = v1.0.0
+
+**Snapshots:**
+
+* Snapshot 23w16a = [v1.2.2-beta3](https://github.com/TheClassic36/Better-Craftables/releases/tag/v1.2.2-beta3)
+* Snapshot 23w12a-23w14a = [v1.2.2-beta2](https://github.com/TheClassic36/Better-Craftables/releases/tag/v1.2.2-beta)
 
 Early versions for Minecraft 1.20 are available [here](https://github.com/TheClassic36/Better-Craftables/releases/tag/v1.2.2-beta).
 
