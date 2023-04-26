@@ -32,7 +32,7 @@ body:
     attributes:
       label: Minecraft Version
       description: Which version of Minecraft are you using?
-      placeholder: If using on a server, please type /version and paste the output here. If using on singleplayer, please type the Minecraft version here instead.
+      placeholder: If using on a server, please type /version and paste the output here. If using in singleplayer, please type the Minecraft version here instead.
     validations:
       required: true
   - type: textarea

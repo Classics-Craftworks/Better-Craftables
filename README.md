@@ -50,7 +50,7 @@ Modrinth: https://modrinth.com/datapack/better-craftables/
 
 **Releases:**
 
-* Minecraft 1.19.4 = v1.0.1-v1.2.1
+* Minecraft 1.19.4 = v1.2.1
 * Minecraft 1.19-1.19.3 = v1.0.0
 
 **Snapshots:**
