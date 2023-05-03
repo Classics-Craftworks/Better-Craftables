@@ -1,9 +1,9 @@
 ![image](https://i.imgur.com/amjnfkE.png)
 A basic Minecraft datapack that adds some improved crafting recipes to the game
 
-SpigotMC: https://www.spigotmc.org/resources/better-craftables.108728/
-
 Modrinth: https://modrinth.com/datapack/better-craftables/
+
+SpigotMC: https://www.spigotmc.org/resources/better-craftables.108728/
 
 ## Crafting Recipes
 
@@ -55,6 +55,7 @@ Modrinth: https://modrinth.com/datapack/better-craftables/
 
 **Snapshots:**
 
+* Snapshot 23w18a = [v1.2.2-beta4](https://github.com/TheClassic36/Better-Craftables/releases/tag/v1.2.2-beta4)
 * Snapshot 23w16a-23w17a = [v1.2.2-beta3](https://github.com/TheClassic36/Better-Craftables/releases/tag/v1.2.2-beta3)
 * Snapshot 23w12a-23w14a = [v1.2.2-beta2](https://github.com/TheClassic36/Better-Craftables/releases/tag/v1.2.2-beta)
 
