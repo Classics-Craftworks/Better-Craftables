@@ -51,13 +51,13 @@ SpigotMC: https://www.spigotmc.org/resources/better-craftables.108728/
 **Releases:**
 
 * Minecraft 1.19.4 = v1.2.1
-* Minecraft 1.19-1.19.3 = v1.0.0
+* Minecraft 1.19 - 1.19.3 = v1.0.0
 
 **Snapshots:**
 
-* Snapshot 23w18a-1.20 Pre-1 = [v1.2.2-beta4](https://github.com/TheClassic36/Better-Craftables/releases/tag/v1.2.2-beta4)
-* Snapshot 23w16a-23w17a = [v1.2.2-beta3](https://github.com/TheClassic36/Better-Craftables/releases/tag/v1.2.2-beta3)
-* Snapshot 23w12a-23w14a = [v1.2.2-beta2](https://github.com/TheClassic36/Better-Craftables/releases/tag/v1.2.2-beta)
+* Snapshot 23w18a - 1.20-pre1 = [v1.2.2-beta4](https://github.com/TheClassic36/Better-Craftables/releases/tag/v1.2.2-beta4)
+* Snapshot 23w16a - 23w17a = [v1.2.2-beta3](https://github.com/TheClassic36/Better-Craftables/releases/tag/v1.2.2-beta3)
+* Snapshot 23w12a - 23w14a = [v1.2.2-beta2](https://github.com/TheClassic36/Better-Craftables/releases/tag/v1.2.2-beta)
 
 ## Support & Feature Requests
 Please open any support requests or feature requests on GitHub. Do not use the reviews to report bugs or suggest new recipes.

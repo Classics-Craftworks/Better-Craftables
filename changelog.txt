@@ -1,0 +1,9 @@
+v1.2.2-beta5:
+
+- Changed colour of version text in pack description
+
+v1.2.2:
+
+- Bumped datapack version to X for Minecraft 1.20
+- Added line break to pack description
+- Changed colour of version text in pack description
