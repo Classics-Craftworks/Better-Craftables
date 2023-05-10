@@ -55,7 +55,7 @@ SpigotMC: https://www.spigotmc.org/resources/better-craftables.108728/
 
 **Snapshots:**
 
-* Snapshot 23w18a = [v1.2.2-beta4](https://github.com/TheClassic36/Better-Craftables/releases/tag/v1.2.2-beta4)
+* Snapshot 23w18a-1.20 Pre-1 = [v1.2.2-beta4](https://github.com/TheClassic36/Better-Craftables/releases/tag/v1.2.2-beta4)
 * Snapshot 23w16a-23w17a = [v1.2.2-beta3](https://github.com/TheClassic36/Better-Craftables/releases/tag/v1.2.2-beta3)
 * Snapshot 23w12a-23w14a = [v1.2.2-beta2](https://github.com/TheClassic36/Better-Craftables/releases/tag/v1.2.2-beta)
 
