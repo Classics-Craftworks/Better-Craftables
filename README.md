@@ -1,4 +1,5 @@
 ![image](https://i.imgur.com/NWCbWEx.png)
+
 A basic Minecraft data pack that adds some improved crafting recipes to the game
 
 Modrinth: https://modrinth.com/datapack/better-craftables/
