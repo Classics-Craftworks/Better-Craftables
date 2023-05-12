@@ -1,5 +1,5 @@
-![image](https://i.imgur.com/amjnfkE.png)
-A basic Minecraft datapack that adds some improved crafting recipes to the game
+![image](https://i.imgur.com/NWCbWEx.png)
+A basic Minecraft data pack that adds some improved crafting recipes to the game
 
 Modrinth: https://modrinth.com/datapack/better-craftables/
 
@@ -55,7 +55,7 @@ SpigotMC: https://www.spigotmc.org/resources/better-craftables.108728/
 
 **Snapshots:**
 
-* Snapshot 23w18a - 1.20-pre1 = [v1.2.2-beta4](https://github.com/TheClassic36/Better-Craftables/releases/tag/v1.2.2-beta4)
+* Snapshot 23w18a - 1.20-pre1 = [v1.2.2-beta5](https://github.com/TheClassic36/Better-Craftables/releases/tag/v1.2.2-beta5)
 * Snapshot 23w16a - 23w17a = [v1.2.2-beta3](https://github.com/TheClassic36/Better-Craftables/releases/tag/v1.2.2-beta3)
 * Snapshot 23w12a - 23w14a = [v1.2.2-beta2](https://github.com/TheClassic36/Better-Craftables/releases/tag/v1.2.2-beta)
 
@@ -63,6 +63,6 @@ SpigotMC: https://www.spigotmc.org/resources/better-craftables.108728/
 Please open any support requests or feature requests on GitHub. Do not use the reviews to report bugs or suggest new recipes.
 
 ## Some things to note
-* This datapack was thrown together a while ago for a small community, I figured others may enjoy the small changes it brings.
+* This data pack was thrown together a while ago for a small community, I figured others may enjoy the small changes it brings.
 * I don't intend to update this pack with new recipes unless they are requested/worth adding or there are changes to the game that warrant new recipes.
 * I will try to keep the pack up-to-date with the latest versions of Minecraft where possible.
