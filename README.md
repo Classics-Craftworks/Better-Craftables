@@ -61,7 +61,9 @@ SpigotMC: https://www.spigotmc.org/resources/better-craftables.108728/
 * Snapshot 23w12a - 23w14a = [v1.2.2-beta2](https://github.com/TheClassic36/Better-Craftables/releases/tag/v1.2.2-beta)
 
 ## Support & Feature Requests
-Please open any support requests or feature requests on GitHub. Do not use the reviews to report bugs or suggest new recipes.
+Please open any support requests or feature requests on GitHub or on Discord:
+
+[![](https://dcbadge.vercel.app/api/server/vZJSDjPcmu)](https://discord.gg/vZJSDjPcmu)
 
 ## Some things to note
 * This data pack was thrown together a while ago for a small community, I figured others may enjoy the small changes it brings.
