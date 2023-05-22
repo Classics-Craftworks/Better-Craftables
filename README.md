@@ -30,7 +30,7 @@ A basic Minecraft data pack that adds some improved crafting recipes to the game
   
 * Saddle recipe
 
-![image](https://i.imgur.com/0INIDRV.png)
+![image](https://i.imgur.com/QRO6n3n.png)
 
 * 5 String -> 1 Cobweb
 
