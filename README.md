@@ -50,7 +50,7 @@ A basic Minecraft data pack that adds some improved crafting recipes to the game
 
 **Releases:**
 
-* Minecraft 1.20 = [v1.2.2](https://github.com/TheClassic36/Better-Craftables/releases/tag/v1.2.2)
+* Minecraft 1.20 - 1.20.1-rc1 = [v1.2.2](https://github.com/TheClassic36/Better-Craftables/releases/tag/v1.2.2)
 * Minecraft 1.19.4 = [v1.2.1](https://github.com/TheClassic36/Better-Craftables/releases/tag/v1.2.1)
 * Minecraft 1.19 - 1.19.3 = [v1.0.0](https://github.com/TheClassic36/Better-Craftables/releases/tag/v1.0.0)
 
