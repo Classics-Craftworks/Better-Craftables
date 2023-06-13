@@ -36,7 +36,9 @@ A basic Minecraft data pack that adds some improved crafting recipes to the game
 
 ![image](https://i.imgur.com/B1CIStT.png)
 
-* Cheaper Smithing Template duplication *(3 Diamonds instead of 7, works with all templates)*
+* Cheaper Smithing Template duplication
+   * Costs 3 Diamonds instead of 7
+   * Works with all Smithing Templates, including the Netherite Upgrade Template
 
 ![image](https://i.imgur.com/Tz3DCZe.png)
 
