@@ -36,6 +36,10 @@ A basic Minecraft data pack that adds some improved crafting recipes to the game
 
 ![image](https://i.imgur.com/B1CIStT.png)
 
+* Cheaper Smithing Template duplication *(3 Diamonds instead of 7, works with all templates)*
+
+![image](https://i.imgur.com/Tz3DCZe.png)
+
 ## Smelting Recipes
 
 * 1 Block of Raw Ore -> 1 Block of Ore
@@ -50,7 +54,7 @@ A basic Minecraft data pack that adds some improved crafting recipes to the game
 
 **Releases:**
 
-* Minecraft 1.20 - 1.20.1 = [v1.2.3](https://github.com/TheClassic36/Better-Craftables/releases/tag/v1.2.2)
+* Minecraft 1.20 - 1.20.1 = [v1.3.0](https://github.com/TheClassic36/Better-Craftables/releases/tag/v1.3.0)
 * Minecraft 1.19.4 = [v1.2.1](https://github.com/TheClassic36/Better-Craftables/releases/tag/v1.2.1)
 * Minecraft 1.19 - 1.19.3 = [v1.0.0](https://github.com/TheClassic36/Better-Craftables/releases/tag/v1.0.0)
 
