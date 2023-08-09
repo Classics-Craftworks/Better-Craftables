@@ -62,11 +62,12 @@ A basic Minecraft data pack that adds some improved crafting recipes to the game
 
 **Snapshots:**
 
-**1.20.2:**
+1.20.2:
 
+* Snapshot 23w32a = [v1.3.1-beta2](https://github.com/TheClassic36/Better-Craftables/releases/tag/v1.3.1-beta2)
 * Snapshot 23w31a = [v1.3.1-beta1](https://github.com/TheClassic36/Better-Craftables/releases/tag/v1.3.1-beta1)
 
-**1.20:**
+1.20:
 
 * Snapshot 23w18a - 1.20-rc1 = [v1.2.2-beta5](https://github.com/TheClassic36/Better-Craftables/releases/tag/v1.2.2-beta5)
 * Snapshot 23w16a - 23w17a = [v1.2.2-beta3](https://github.com/TheClassic36/Better-Craftables/releases/tag/v1.2.2-beta3)
