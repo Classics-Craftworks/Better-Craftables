@@ -1,6 +1,6 @@
 ![image](https://i.imgur.com/T4bUjrA.png)
 
-A basic Minecraft data pack that adds some improved crafting recipes to the game
+A basic Minecraft data pack & mod that adds some improved crafting recipes to the game
 
 * [Modrinth](https://modrinth.com/datapack/better-craftables/)
 * [SpigotMC](https://www.spigotmc.org/resources/better-craftables.108728/)
