@@ -1,0 +1,23 @@
+v1.3.1-beta2:
+- Added credits.txt to the pack
+	- Currently only features HexedHero for the String -> Cobweb idea
+
+
+v1.4.0:
+- Blackstone can now be used in the following recipes, alongside Cobblestone and Cobbled Deepslate:
+	- Brewing Stand
+	- Dispenser
+	- Dropper
+	- Lever
+	- Observer
+	- Piston
+- Added crafting recipe for nametags
+- Updated credits.txt
+
+**Credits:**
+- Vanilla Tweaks: https://vanillatweaks.net/
+	- Blackstone Cobblestone
+	- Craftable Nametag
+- HexedHero: https://github.com/TheClassic36/Better-Craftables/issues/1
+	- String -> Cobweb idea
+(ADD CREDITS.TXT & Credits to Spigot, Modrinth & GitHub)
