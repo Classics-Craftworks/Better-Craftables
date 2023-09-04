@@ -2,8 +2,10 @@
 
 A basic Minecraft data pack & mod that adds some improved crafting recipes to the game
 
+## Downloads
+
 * [Modrinth](https://modrinth.com/datapack/better-craftables/)
-* [SpigotMC](https://www.spigotmc.org/resources/better-craftables.108728/)
+* [SpigotMC](https://www.spigotmc.org/resources/better-craftables.108728/) (Data pack only)
 * [GitHub Releases](https://github.com/TheClassic36/Better-Craftables/releases)
 
 ## Recipes
@@ -26,13 +28,8 @@ Recipes in this data pack/mod can be found on the wiki.
 1.20.2:
 
 * Snapshot 23w32a - 23w35a = [v1.3.1-beta2](https://github.com/TheClassic36/Better-Craftables/releases/tag/v1.3.1-beta2)
-* Snapshot 23w31a = [v1.3.1-beta1](https://github.com/TheClassic36/Better-Craftables/releases/tag/v1.3.1-beta1)
 
-1.20:
-
-* Snapshot 23w18a - 1.20-rc1 = [v1.2.2-beta5](https://github.com/TheClassic36/Better-Craftables/releases/tag/v1.2.2-beta5)
-* Snapshot 23w16a - 23w17a = [v1.2.2-beta3](https://github.com/TheClassic36/Better-Craftables/releases/tag/v1.2.2-beta3)
-* Snapshot 23w12a - 23w14a = [v1.2.2-beta2](https://github.com/TheClassic36/Better-Craftables/releases/tag/v1.2.2-beta)
+Older versions can be found [here](https://github.com/TheClassic36/Better-Craftables/wiki/All-Versions)
 
 ## Support & Feature Requests
 Please open any support requests or feature requests on GitHub or on Discord:
