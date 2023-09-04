@@ -4,53 +4,14 @@ A basic Minecraft data pack & mod that adds some improved crafting recipes to th
 
 * [Modrinth](https://modrinth.com/datapack/better-craftables/)
 * [SpigotMC](https://www.spigotmc.org/resources/better-craftables.108728/)
+* [GitHub Releases](https://github.com/TheClassic36/Better-Craftables/releases)
 
-## Crafting Recipes
+## Recipes
 
-* 1 Amethyst Block -> 4 Amethyst Shards
+Recipes in this data pack/mod can be found on the wiki.
 
-![image](https://i.imgur.com/wMLqMer.png)
-
-* 9 Deepslate -> 9 Cobbled Deepslate
-
-![image](https://i.imgur.com/RPojUPe.png)
-
-* 9 Stone -> 9 Cobblestone
-
-![image](https://i.imgur.com/W0BsMUE.png)
-
-* Cobbled Deepslate instead of Cobblestone in the following recipes: *(Cobblestone will still work)*
-
-  * Brewing Stand
-  * Dispenser
-  * Dropper
-  * Lever
-  * Observer
-  * Piston
-  
-* Saddle recipe
-
-![image](https://i.imgur.com/QRO6n3n.png)
-
-* 5 String -> 1 Cobweb
-
-![image](https://i.imgur.com/B1CIStT.png)
-
-* Cheaper Smithing Template duplication
-   * Costs 3 Diamonds instead of 7
-   * Works with all Smithing Templates, including the Netherite Upgrade Template
-
-![image](https://i.imgur.com/Tz3DCZe.png)
-
-## Smelting Recipes
-
-* 1 Block of Raw Ore -> 1 Block of Ore
-
-![image](https://i.imgur.com/UhVkqND.png)
-
-![image](https://i.imgur.com/JEUqM8O.png)
-
-![image](https://i.imgur.com/9PpdfXw.png)
+* [Crafting Recipes](https://github.com/TheClassic36/Better-Craftables/wiki/Crafting-Recipes)
+* [Smelting Recipes](https://github.com/TheClassic36/Better-Craftables/wiki/Smelting-Recipes)
 
 ## Versions
 
