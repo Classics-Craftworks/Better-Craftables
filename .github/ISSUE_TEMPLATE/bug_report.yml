@@ -18,7 +18,7 @@ body:
       label: Version
       description: Which version of Better Craftables are you using? If it is not listed, please update the pack.
       options:
-        - v1.3.1-beta2
+        - v1.3.1-beta3
         - v1.3.0+mod
         - v1.3.0
         - v1.2.3
@@ -40,7 +40,7 @@ body:
     attributes:
       label: Mod Launcher Version
       description: If running as a mod, which mod launcher & version are you using?
-      placeholder: Example, Fabric Loader v0.14.21 for Minecraft 1.20.1
+      placeholder: "Example: Fabric Loader v0.14.22 for Minecraft 1.20.1"
     validations:
       required: false
   - type: textarea
