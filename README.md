@@ -25,7 +25,7 @@ Recipes in this data pack/mod can be found on the wiki.
 
 **Latest Snapshot (1.20.2):**
 
-* 23w31a - 1.20.2-pre4 = [v1.3.1-beta4](https://github.com/TheClassic36/Better-Craftables/releases/tag/v1.3.1-beta4)
+* 23w31a - 1.20.2-rc1 = [v1.3.1-beta4](https://github.com/TheClassic36/Better-Craftables/releases/tag/v1.3.1-beta4)
 
 Older versions can be found [here](https://github.com/TheClassic36/Better-Craftables/wiki/Versions).
 
