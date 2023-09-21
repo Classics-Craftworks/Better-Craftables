@@ -2,6 +2,6 @@
 	"pack":{
 		"pack_format": 16,
 		"supported_formats": {"min_inclusive": 16, "max_inclusive": 18},
-		"description": "§bBetter Craftables §7v1.3.1-beta4\n§f1.20.2 Snapshots"
+		"description": "§bBetter Craftables §7v1.3.1\n§fMinecraft 1.20.2"
 	}
 }
