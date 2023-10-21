@@ -4,9 +4,9 @@ A basic Minecraft data pack & mod that adds some improved crafting recipes to th
 
 ## Downloads
 
-[![](https://img.shields.io/modrinth/dt/BLG002oq?label=Modrinth%20Downloads&style=for-the-badge&color=00AF5C&logo=modrinth)](https://modrinth.com/datapack/better-craftables/)
-[![](https://img.shields.io/github/downloads/TheClassic36/Better-Craftables/total?label=GitHub%20Downloads&style=for-the-badge&color=181717&logo=github)](https://github.com/TheClassic36/Better-Craftables/releases)
-[![](https://img.shields.io/spiget/downloads/108728?label=SpigotMC%20Downloads&style=for-the-badge&color=ED8106&logo=spigotmc)](https://www.spigotmc.org/resources/better-craftables.108728/)
+[![](https://img.shields.io/modrinth/dt/BLG002oq?label=Modrinth&style=for-the-badge&color=00AF5C&logo=modrinth)](https://modrinth.com/datapack/better-craftables/)
+[![](https://img.shields.io/github/downloads/TheClassic36/Better-Craftables/total?label=GitHub&style=for-the-badge&color=181717&logo=github)](https://github.com/TheClassic36/Better-Craftables/releases)
+[![](https://img.shields.io/spiget/downloads/108728?label=SpigotMC&style=for-the-badge&color=ED8106&logo=spigotmc)](https://www.spigotmc.org/resources/better-craftables.108728/)
 
 ## Recipes
 
