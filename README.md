@@ -4,7 +4,10 @@ A basic Minecraft data pack & mod that adds some improved crafting recipes to th
 
 ## Downloads
 
-* [Modrinth](https://modrinth.com/datapack/better-craftables/)
+[![](https://img.shields.io/modrinth/dt/BLG002oq)](https://modrinth.com/datapack/better-craftables/)
+
+Also available from: 
+
 * [SpigotMC](https://www.spigotmc.org/resources/better-craftables.108728/) (Data pack only)
 * [GitHub](https://github.com/TheClassic36/Better-Craftables/releases)
 
