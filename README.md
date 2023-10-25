@@ -26,14 +26,14 @@ Recipes in this data pack/mod can be found on the wiki.
 
 **Latest Snapshot (1.20.3):**
 
-* Snapshot 23w40a - 23w42a = [v1.3.2-beta3](https://github.com/TheClassic36/Better-Craftables/releases/tag/v1.3.2-beta3)
+* Snapshot 23w40a - 23w43a = [v1.3.2-beta4](https://github.com/TheClassic36/Better-Craftables/releases/tag/v1.3.2-beta4)
 
 Older versions can be found [here](https://github.com/TheClassic36/Better-Craftables/wiki/Versions).
 
 ## Support & Feature Requests
 Please open any support requests or feature requests on GitHub or on Discord:
 
-[![](https://dcbadge.vercel.app/api/server/vZJSDjPcmu)](https://discord.gg/vZJSDjPcmu)
+[![](https://img.shields.io/discord/1107084025442607206)](https://discord.gg/vZJSDjPcmu)
 
 ## Some things to note
 * This data pack was thrown together a while ago for a small community, I figured others may enjoy the small changes it brings.
