@@ -33,7 +33,7 @@ Older versions can be found [here](https://github.com/TheClassic36/Better-Crafta
 ## Support & Feature Requests
 Please open any support requests or feature requests on GitHub or on Discord:
 
-[![](https://img.shields.io/discord/1107084025442607206)](https://discord.gg/vZJSDjPcmu)
+[![](https://img.shields.io/discord/1107084025442607206?label=Discord&style=for-the-badge&color=5865F2&logo=discord)](https://discord.gg/vZJSDjPcmu)
 
 ## Some things to note
 * This data pack was thrown together a while ago for a small community, I figured others may enjoy the small changes it brings.
