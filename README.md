@@ -26,7 +26,7 @@ Recipes in this data pack/mod can be found on the wiki.
 
 **Latest Snapshot (1.20.3):**
 
-* Snapshot 23w40a - 23w45a = [v1.3.2-beta6](https://github.com/TheClassic36/Better-Craftables/releases/tag/v1.3.2-beta6)
+* Snapshot 23w40a - 23w46a = [v1.3.2-beta7](https://github.com/TheClassic36/Better-Craftables/releases/tag/v1.3.2-beta7)
 
 Older versions can be found [here](https://github.com/TheClassic36/Better-Craftables/wiki/Versions).
 
