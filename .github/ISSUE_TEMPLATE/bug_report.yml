@@ -39,7 +39,7 @@ body:
     attributes:
       label: Mod Launcher Version
       description: If running as a mod, which mod launcher & version are you using?
-      placeholder: "Example: Fabric Loader v0.15.0 for Minecraft 1.20.3"
+      placeholder: "Example: Fabric Loader v0.15.0 for Minecraft 1.20.4"
     validations:
       required: false
   - type: textarea
