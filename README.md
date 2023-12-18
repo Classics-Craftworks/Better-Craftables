@@ -24,10 +24,9 @@ Recipes in this data pack/mod can be found on the wiki.
 * Minecraft 1.19.4 = [v1.2.1](https://github.com/TheClassic36/Better-Craftables/releases/tag/v1.2.1)
 * Minecraft 1.19 - 1.19.3 = [v1.0.0](https://github.com/TheClassic36/Better-Craftables/releases/tag/v1.0.0)
 
-**Latest Snapshots:**
+**Latest Snapshot (1.20.5):**
 
-* 1.20.4-rc1 = [v1.3.2](https://github.com/TheClassic36/Better-Craftables/releases/tag/v1.3.2)
-* Snapshot 23w40a - 1.20.3-rc1 = [v1.3.2-beta8](https://github.com/TheClassic36/Better-Craftables/releases/tag/v1.3.2-beta8)
+* Snapshot 23w51a = [v1.3.3-beta1](https://github.com/TheClassic36/Better-Craftables/releases/tag/v1.3.3-beta1)
 
 Older versions can be found [here](https://github.com/TheClassic36/Better-Craftables/wiki/Versions).
 
