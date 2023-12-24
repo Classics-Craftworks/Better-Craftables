@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "DDD",
+        "DDD",
+        "DDD"
+    ],
+    "key": {
+        "D": {
+            "item": "minecraft:deepslate"
+        }
+    },
+    "result": {
+        "item": "minecraft:cobbled_deepslate",
+        "count": 9
+    }
+}

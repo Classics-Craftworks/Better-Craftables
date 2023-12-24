@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "DDD",
+        "RRQ",
+        "DDD"
+    ],
+    "key": {
+        "D": {
+            "item": "minecraft:cobbled_deepslate"
+        },
+        "R": {
+            "item": "minecraft:redstone"
+        },
+        "Q": {
+            "item": "minecraft:quartz"
+        }
+    },
+    "result": {
+        "item": "minecraft:observer",
+        "count": 1
+    }
+}

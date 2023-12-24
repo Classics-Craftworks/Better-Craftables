@@ -1,0 +1,9 @@
+{
+  "type": "smelting",
+  "ingredient": {
+    "item": "minecraft:raw_iron_block"
+  },
+  "result": "minecraft:iron_block",
+  "experience": 3.0,
+  "cookingtime": 800
+}

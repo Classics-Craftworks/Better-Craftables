@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "DDD",
+        "DBD",
+        "DRD"
+    ],
+    "key": {
+        "D": {
+            "item": "minecraft:cobbled_deepslate"
+        },
+        "B": {
+            "item": "minecraft:bow"
+        },
+        "R": {
+            "item": "minecraft:redstone"
+        }
+    },
+    "result": {
+        "item": "minecraft:dispenser",
+        "count": 1
+    }
+}
