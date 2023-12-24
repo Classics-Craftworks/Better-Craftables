@@ -6,5 +6,5 @@ Vanilla Tweaks
 https://vanillatweaks.net
 
 HexedHero
-- Cobweb recipe idea
+- Cobweb recipe suggestion
 https://github.com/TheClassic36/Better-Craftables/issues/1
