@@ -17,16 +17,13 @@ Recipes in this data pack/mod can be found on the wiki.
 
 ## Versions
 
-**Latest Releases:**
-
-* Minecraft 1.20.2 - 1.20.4 = [v1.4.0](https://github.com/TheClassic36/Better-Craftables/releases/tag/v1.4.0)
-* Minecraft 1.20 - 1.20.1 = [v1.3.0](https://github.com/TheClassic36/Better-Craftables/releases/tag/v1.3.0)
-* Minecraft 1.19.4 = [v1.2.1](https://github.com/TheClassic36/Better-Craftables/releases/tag/v1.2.1)
-* Minecraft 1.19 - 1.19.3 = [v1.0.0](https://github.com/TheClassic36/Better-Craftables/releases/tag/v1.0.0)
-
-**Latest Snapshot (1.20.5):**
-
-* Snapshot 23w51a - 23w51b = [v1.5.0-beta1](https://github.com/TheClassic36/Better-Craftables/releases/tag/v1.5.0-beta1)
+| Minecraft Version | Better Craftables Version |
+| :--: | :--: |
+| 23w51a - 23w51b |  [v1.5.0-beta1](https://github.com/TheClassic36/Better-Craftables/releases/tag/v1.5.0-beta1) |
+| 1.20.2 - 1.20.4 | [v1.4.0](https://github.com/TheClassic36/Better-Craftables/releases/tag/v1.4.0) |
+| 1.20 - 1.20.1 | [v1.3.0](https://github.com/TheClassic36/Better-Craftables/releases/tag/v1.3.0) |
+| 1.19.4 | [v1.2.1](https://github.com/TheClassic36/Better-Craftables/releases/tag/v1.2.1) |
+| 1.19 - 1.19.3 | [v1.0.0](https://github.com/TheClassic36/Better-Craftables/releases/tag/v1.0.0) |
 
 Older versions can be found [here](https://github.com/TheClassic36/Better-Craftables/wiki/Versions).
 
