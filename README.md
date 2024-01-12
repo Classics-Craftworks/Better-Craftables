@@ -1,4 +1,4 @@
-![image](https://i.imgur.com/T4bUjrA.png)
+![image](https://i.imgur.com/U3EpT4a.png)
 
 A basic Minecraft data pack & Fabric/Quilt mod that adds some improved crafting recipes to the game
 
@@ -19,13 +19,13 @@ Recipes in this data pack/mod can be found on the wiki.
 
 | Minecraft Version | Better Craftables Version |
 | :--: | :--: |
-| 23w51a - 23w51b |  [v1.5.0-beta1](https://github.com/TheClassic36/Better-Craftables/releases/tag/v1.5.0-beta1) |
+| 1.20.3 - 23w51b |  [v1.5.0-beta2](https://github.com/TheClassic36/Better-Craftables/releases/tag/v1.5.0-beta2) |
 | 1.20.2 - 1.20.4 | [v1.4.0](https://github.com/TheClassic36/Better-Craftables/releases/tag/v1.4.0) |
 | 1.20 - 1.20.1 | [v1.3.0](https://github.com/TheClassic36/Better-Craftables/releases/tag/v1.3.0) |
 | 1.19.4 | [v1.2.1](https://github.com/TheClassic36/Better-Craftables/releases/tag/v1.2.1) |
 | 1.19 - 1.19.3 | [v1.0.0](https://github.com/TheClassic36/Better-Craftables/releases/tag/v1.0.0) |
 
-Older versions can be found [here](https://github.com/TheClassic36/Better-Craftables/wiki/Versions).
+Other versions can be found [here](https://github.com/TheClassic36/Better-Craftables/wiki/Versions).
 
 ## Support & Feature Requests
 Please open any support requests or feature requests on GitHub or on Discord:

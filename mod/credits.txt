@@ -1,7 +1,6 @@
 CREDITS:
 
 Vanilla Tweaks
-- Blackstone Cobblestone
 - Craftable Nametag
 https://vanillatweaks.net
 
