@@ -1,0 +1,78 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "///",
+        " / ",
+        "/#/"
+    ],
+    "key": {
+        "#": [
+			{
+				"item": "minecraft:stone_slab"
+			},
+			{
+				"item": "minecraft:cobblestone_slab"
+			},
+			{
+				"item": "minecraft:mossy_cobblestone_slab"
+			},
+			{
+				"item": "minecraft:smooth_stone_slab"
+			},
+			{
+				"item": "minecraft:stone_brick_slab"
+			},
+			{
+				"item": "minecraft:mossy_stone_brick_slab"
+			},
+			{
+				"item": "minecraft:granite_slab"
+			},
+			{
+				"item": "minecraft:polished_granite_slab"
+			},
+			{
+				"item": "minecraft:diorite_slab"
+			},
+			{
+				"item": "minecraft:polished_diorite_slab"
+			},
+			{
+				"item": "minecraft:andesite_slab"
+			},
+			{
+				"item": "minecraft:polished_andesite_slab"
+			},
+			{
+				"item": "minecraft:cobbled_deepslate_slab"
+			},
+			{
+				"item": "minecraft:polished_deepslate_slab"
+			},
+			{
+				"item": "minecraft:deepslate_brick_slab"
+			},
+			{
+				"item": "minecraft:deepslate_tile_slab"
+			},
+			{
+				"item": "minecraft:blackstone_slab"
+			},
+			{
+				"item": "minecraft:polished_blackstone_slab"
+			},
+			{
+				"item": "minecraft:polished_blackstone_brick_slab"
+			}
+		],
+        "/": [
+			{
+				"item": "minecraft:stick"
+			}
+		]
+    },
+    "result": {
+        "item": "minecraft:armor_stand",
+        "count": 1
+    }
+}

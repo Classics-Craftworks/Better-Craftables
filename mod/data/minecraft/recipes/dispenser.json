@@ -38,12 +38,16 @@
 				"item": "minecraft:dripstone_block"
 			}
 		],
-        "B": {
+        "B": [
+			{
 				"item": "minecraft:bow"
-        },
-        "R": {
+			},
+		],
+        "R": [
+			{
 				"item": "minecraft:redstone"
-        }
+			}
+		]
     },
     "result": {
         "item": "minecraft:dispenser",

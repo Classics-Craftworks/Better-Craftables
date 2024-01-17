@@ -1,12 +1,15 @@
 {
     "type": "minecraft:crafting_shaped",
     "pattern": [
-        "###",
-        "#B#",
-        "#R#"
+        "III",
+        "IFI",
+        "###"
     ],
     "key": {
         "#": [
+			{
+				"item": "minecraft:smooth_stone"
+			},
 			{
 				"item": "minecraft:blackstone"
 			},
@@ -38,19 +41,19 @@
 				"item": "minecraft:dripstone_block"
 			}
 		],
-        "B": [
+        "I": [
 			{
-				"item": "minecraft:bow"
-			},
+				"item": "minecraft:iron_ingot"
+			}
 		],
-        "R": [
+        "F": [
 			{
-				"item": "minecraft:redstone"
+				"item": "minecraft:furnace"
 			}
 		]
     },
     "result": {
-        "item": "minecraft:dispenser",
+        "item": "minecraft:blast_furnace",
         "count": 1
     }
 }
