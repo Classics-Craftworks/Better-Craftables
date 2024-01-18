@@ -1,6 +1,6 @@
 ![image](https://i.imgur.com/U3EpT4a.png)
 
-A basic Minecraft data pack & Fabric/Quilt mod that adds some improved crafting recipes to the game
+A basic Minecraft data pack & Fabric/Quilt mod that adds some improved crafting recipes to the game.
 
 ## Downloads
 
@@ -19,7 +19,7 @@ Recipes in this data pack/mod can be found on the wiki.
 
 | Minecraft Version | Better Craftables Version |
 | :--: | :--: |
-| 1.20.3 - 24w03a |  [v1.5.0-beta3](https://github.com/TheClassic36/Better-Craftables/releases/tag/v1.5.0-beta3) |
+| 1.20.3 - 24w03b |  [v1.5.0-beta3](https://github.com/TheClassic36/Better-Craftables/releases/tag/v1.5.0-beta3) |
 | 1.20.2 - 1.20.4 | [v1.4.0](https://github.com/TheClassic36/Better-Craftables/releases/tag/v1.4.0) |
 | 1.20 - 1.20.1 | [v1.3.0](https://github.com/TheClassic36/Better-Craftables/releases/tag/v1.3.0) |
 | 1.19.4 | [v1.2.1](https://github.com/TheClassic36/Better-Craftables/releases/tag/v1.2.1) |
