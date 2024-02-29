@@ -53,7 +53,7 @@
 		]
     },
     "result": {
-        "item": "minecraft:blast_furnace",
+        "id": "minecraft:blast_furnace",
         "count": 1
     }
 }

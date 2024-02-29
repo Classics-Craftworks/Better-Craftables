@@ -1,9 +1,5 @@
 {
-    "type": "crafting_shaped",
-    "result": {
-        "item": "minecraft:name_tag",
-        "count": 1
-    },
+    "type": "minecraft:crafting_shaped",
     "pattern": [
         " IS",
         " PI",
@@ -19,5 +15,9 @@
         "S": {
             "item": "minecraft:string"
         }
+    },
+    "result": {
+        "id": "minecraft:name_tag",
+        "count": 1
     }
 }

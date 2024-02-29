@@ -11,7 +11,7 @@
         }
     },
     "result": {
-        "item": "minecraft:cobweb",
+        "id": "minecraft:cobweb",
         "count": 1
     }
 }

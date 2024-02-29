@@ -16,7 +16,7 @@
 		]
     },
     "result": {
-        "item": "minecraft:rooted_dirt",
+        "id": "minecraft:rooted_dirt",
         "count": 1
     }
 }

@@ -16,9 +16,9 @@ body:
     id: version
     attributes:
       label: Version
-      description: Which version of Better Craftables are you using? If it is not listed, please update the pack.
+      description: Which version of Better Craftables are you using? If it is not listed, please update the pack/mod.
       options:
-        - v1.5.0-beta7
+        - v1.5.0-beta8
         - v1.5.0-beta4
         - v1.4.0+mod
         - v1.4.0
