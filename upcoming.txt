@@ -1,0 +1,6 @@
+v1.6.0-beta1:
+
+- Added cheaper duplication recipes for the new 1.21 Bolt & Flow armour trims
+	- Cost is 3 Diamonds instead of 7
+	- Bolt can be duplicated using a Copper Block or Waxed Copper Block
+	- Flow can be duplicated using a Breeze Rod
