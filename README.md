@@ -31,3 +31,9 @@ Other versions can be found [here](https://github.com/TheClassic36/Better-Crafta
 Please open any support requests or feature requests on GitHub or on Discord:
 
 [![](https://img.shields.io/discord/1107084025442607206?label=Discord&style=for-the-badge&color=5865F2&logo=discord)](https://discord.gg/vZJSDjPcmu)
+
+## Credits
+* [Vanilla Tweaks](https://vanillatweaks.net/)
+   * Nametag recipe
+* [HexedHero](https://github.com/TheClassic36/Better-Craftables/issues/1)
+   * Cobweb recipe suggestion
