@@ -19,7 +19,7 @@ Recipes in this data pack/mod can be found on the wiki.
 
 | Minecraft Version | Better Craftables Version |
 | :--: | :--: |
-| 1.20.5 (24w10a - 24w14a) |  [v1.5.0-beta14](https://github.com/TheClassic36/Better-Craftables/releases/tag/v1.5.0-beta14) |
+| 1.20.5 (24w10a - 1.20.5-pre1) |  [v1.5.0-beta15](https://github.com/TheClassic36/Better-Craftables/releases/tag/v1.5.0-beta15) |
 | 1.20.2 - 1.20.4 | [v1.4.0](https://github.com/TheClassic36/Better-Craftables/releases/tag/v1.4.0) |
 | 1.20 - 1.20.1 | [v1.3.0](https://github.com/TheClassic36/Better-Craftables/releases/tag/v1.3.0) |
 | 1.19.4 | [v1.2.1](https://github.com/TheClassic36/Better-Craftables/releases/tag/v1.2.1) |
@@ -31,8 +31,3 @@ Other versions can be found [here](https://github.com/TheClassic36/Better-Crafta
 Please open any support requests or feature requests on GitHub or on Discord:
 
 [![](https://img.shields.io/discord/1107084025442607206?label=Discord&style=for-the-badge&color=5865F2&logo=discord)](https://discord.gg/vZJSDjPcmu)
-
-## Some things to note
-* This data pack was thrown together a while ago for a small community, I figured others may enjoy the small changes it brings.
-* I don't intend to update this pack with new recipes unless they are requested/worth adding or there are changes to the game that warrant new recipes.
-* I will try to keep the pack up-to-date with the latest versions of Minecraft where possible.
