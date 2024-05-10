@@ -1,17 +1,16 @@
 {
     "type": "minecraft:crafting_shaped",
     "pattern": [
-        "S S",
-        " S ",
-        "S S"
+        "G",
+        "G"
     ],
     "key": {
-        "S": {
-            "item": "minecraft:string"
+        "G": {
+            "item": "minecraft:short_grass"
         }
     },
     "result": {
-        "id": "minecraft:cobweb",
+        "id": "minecraft:tall_grass",
         "count": 1
     }
 }

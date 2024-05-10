@@ -1,9 +1,0 @@
-CREDITS:
-
-Vanilla Tweaks
-- Craftable Nametag
-https://vanillatweaks.net
-
-HexedHero
-- Cobweb recipe idea
-https://github.com/TheClassic36/Better-Craftables/issues/1
