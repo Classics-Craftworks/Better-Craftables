@@ -17,6 +17,8 @@ Recipes in this data pack/mod can be found on the wiki.
 
 ## Versions
 
+**For the mod version, [Fabric API](https://modrinth.com/mod/fabric-api) is required!**
+
 | Minecraft Version | Better Craftables Version |
 | :--: | :--: |
 | 1.21 (1.21-pre3) |  [v1.6.0-beta7](https://github.com/TheClassic36/Better-Craftables/releases/tag/v1.6.0-beta7) |
