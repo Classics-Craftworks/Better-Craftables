@@ -21,14 +21,14 @@ Recipes in this data pack/mod can be found on the wiki.
 
 | Minecraft Version | Better Craftables Version |
 | :--: | :--: |
-| 1.21 (1.21-pre3 - 1.21-pre4) |  [v1.6.0-beta7](https://github.com/TheClassic36/Better-Craftables/releases/tag/v1.6.0-beta7) |
+| 1.21 (1.21-pre3 - 1.21-rc1) |  [v1.6.0-beta7](https://github.com/TheClassic36/Better-Craftables/releases/tag/v1.6.0-beta7) |
 | 1.20.5 - 1.20.6 |  [v1.5.1](https://github.com/TheClassic36/Better-Craftables/releases/tag/v1.5.1) |
 | 1.20.2 - 1.20.4 | [v1.4.0](https://github.com/TheClassic36/Better-Craftables/releases/tag/v1.4.0) |
 | 1.20 - 1.20.1 | [v1.3.0](https://github.com/TheClassic36/Better-Craftables/releases/tag/v1.3.0) |
 | 1.19.4 | [v1.2.1](https://github.com/TheClassic36/Better-Craftables/releases/tag/v1.2.1) |
 | 1.19 - 1.19.3 | [v1.0.0](https://github.com/TheClassic36/Better-Craftables/releases/tag/v1.0.0) |
 
-Versions for older game updates and snapshots can be found [here](https://github.com/TheClassic36/Better-Craftables/wiki/Versions).
+Versions for older game versions and snapshots can be found [here](https://github.com/TheClassic36/Better-Craftables/wiki/Versions).
 
 ## Support & Feature Requests
 Please open any support requests or feature requests on GitHub or on Discord:
