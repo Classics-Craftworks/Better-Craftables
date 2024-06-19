@@ -3,10 +3,10 @@
   "quilt_loader": {
     "group": "org.classic36media",
     "id": "better_craftables",
-    "version": "1.6.0",
+    "version": "2.0.0",
     "metadata": {
       "name": "Better Craftables",
-      "description": "A basic mod that adds some improved crafting recipes to the game.",
+      "description": "Adds some improved crafting recipes to the game!",
       "contributors": {
         "Classic36": "Developer"
       },

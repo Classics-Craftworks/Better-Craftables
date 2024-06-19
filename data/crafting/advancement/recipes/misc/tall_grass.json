@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "crafting:tall_grass"
+    ]
+  },
+  "criteria": {
+    "has_short_grass": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:short_grass"
+          }
+        ]
+      }
+    },
+    "has_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "crafting:tall_grass"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_short_grass",
+	    "has_recipe"
+    ]
+  ]
+}

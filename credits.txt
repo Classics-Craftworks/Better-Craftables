@@ -1,9 +1,14 @@
 CREDITS:
 
 Vanilla Tweaks
-- Craftable Nametag
+- Craftable Name Tag
+- Unpackable Wool
 https://vanillatweaks.net
 
 HexedHero
 - Cobweb recipe suggestion
 https://github.com/TheClassic36/Better-Craftables/issues/1
+
+babarsc
+- Wool to String recipe suggestion
+https://github.com/TheClassic36/Better-Craftables/issues/4
