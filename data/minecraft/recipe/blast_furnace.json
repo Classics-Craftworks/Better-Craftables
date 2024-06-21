@@ -6,51 +6,15 @@
         "###"
     ],
     "key": {
-        "#": [
-			{
-				"item": "minecraft:smooth_stone"
-			},
-			{
-				"item": "minecraft:blackstone"
-			},
-			{
-				"item": "minecraft:cobbled_deepslate"
-			},
-			{
-				"item": "minecraft:andesite"
-			},
-			{
-				"item": "minecraft:granite"
-			},
-			{
-				"item": "minecraft:diorite"
-			},
-			{
-				"item": "minecraft:deepslate"
-			},
-			{
-				"item": "minecraft:cobblestone"
-			},
-			{
-				"item": "minecraft:stone"
-			},
-			{
-				"item": "minecraft:tuff"
-			},
-			{
-				"item": "minecraft:dripstone_block"
-			}
-		],
-        "I": [
-			{
-				"item": "minecraft:iron_ingot"
-			}
-		],
-        "F": [
-			{
-				"item": "minecraft:furnace"
-			}
-		]
+        "#": {
+            "tag": "crafting:alternate_stones"
+        },
+        "I": {
+			"item": "minecraft:iron_ingot"
+		},
+        "F": {
+			"item": "minecraft:furnace"
+		}
     },
     "result": {
         "id": "minecraft:blast_furnace",

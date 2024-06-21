@@ -1,20 +1,19 @@
 {
     "type": "minecraft:crafting_shaped",
     "pattern": [
-        "###",
-        " S ",
-        " S "
+        " I ",
+        "###"
     ],
     "key": {
         "#": {
             "tag": "crafting:alternate_stones"
         },
-        "S": {
-			"item": "minecraft:stick"
-        }
+		"I": {
+			"item": "minecraft:iron_ingot"
+		}
     },
     "result": {
-        "id": "minecraft:stone_pickaxe",
+        "id": "minecraft:stonecutter",
         "count": 1
     }
 }

@@ -21,7 +21,7 @@ Recipes in this data pack/mod can be found on the wiki.
 
 | Minecraft Version | Better Craftables Version |
 | :--: | :--: |
-| 1.21+ |  [v2.0.0-alpha1](https://github.com/TheClassic36/Better-Craftables/releases/tag/v2.0.0-alpha1) |
+| 1.21+ |  [v2.0.0-alpha2](https://github.com/TheClassic36/Better-Craftables/releases/tag/v2.0.0-alpha2) |
 | 1.21 |  [v1.6.0](https://github.com/TheClassic36/Better-Craftables/releases/tag/v1.6.0) |
 | 1.20.5 - 1.20.6 |  [v1.5.1](https://github.com/TheClassic36/Better-Craftables/releases/tag/v1.5.1) |
 | 1.20.2 - 1.20.4 | [v1.4.0](https://github.com/TheClassic36/Better-Craftables/releases/tag/v1.4.0) |
@@ -37,7 +37,5 @@ Please open any support or feature requests [here on GitHub](https://github.com/
 * [Vanilla Tweaks](https://vanillatweaks.net/)
 	* Craftable Name Tag
 	* Unpackable Wool
-* [HexedHero](https://github.com/TheClassic36/Better-Craftables/issues/1)
-	* Cobweb recipe suggestion
-* [babarsc](https://github.com/TheClassic36/Better-Craftables/issues/4)
-	* Wool to String recipe suggestion
+
+Other contributors can be found [here](https://github.com/TheClassic36/Better-Craftables/wiki/Credits).

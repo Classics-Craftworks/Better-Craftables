@@ -6,48 +6,15 @@
         "#R#"
     ],
     "key": {
-        "#": [
-			{
-				"item": "minecraft:blackstone"
-			},
-			{
-				"item": "minecraft:cobbled_deepslate"
-			},
-			{
-				"item": "minecraft:andesite"
-			},
-			{
-				"item": "minecraft:granite"
-			},
-			{
-				"item": "minecraft:diorite"
-			},
-			{
-				"item": "minecraft:deepslate"
-			},
-			{
-				"item": "minecraft:cobblestone"
-			},
-			{
-				"item": "minecraft:stone"
-			},
-			{
-				"item": "minecraft:tuff"
-			},
-			{
-				"item": "minecraft:dripstone_block"
-			}
-		],
-        "B": [
-			{
-				"item": "minecraft:bow"
-			}
-		],
-        "R": [
-			{
-				"item": "minecraft:redstone"
-			}
-		]
+        "#": {
+            "tag": "crafting:alternate_stones"
+        },
+        "B": {
+			"item": "minecraft:bow"
+		},
+        "R": {
+			"item": "minecraft:redstone"
+		}
     },
     "result": {
         "id": "minecraft:dispenser",

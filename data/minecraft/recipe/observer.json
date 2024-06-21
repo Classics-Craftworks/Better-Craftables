@@ -6,44 +6,15 @@
         "###"
     ],
     "key": {
-        "#": [
-			{
-				"item": "minecraft:blackstone"
-			},
-			{
-				"item": "minecraft:cobbled_deepslate"
-			},
-			{
-				"item": "minecraft:andesite"
-			},
-			{
-				"item": "minecraft:granite"
-			},
-			{
-				"item": "minecraft:diorite"
-			},
-			{
-				"item": "minecraft:deepslate"
-			},
-			{
-				"item": "minecraft:cobblestone"
-			},
-			{
-				"item": "minecraft:stone"
-			},
-			{
-				"item": "minecraft:tuff"
-			},
-			{
-				"item": "minecraft:dripstone_block"
-			}
-		],
+        "#": {
+            "tag": "crafting:alternate_stones"
+        },
         "R": {
-				"item": "minecraft:redstone"
-			},
+			"item": "minecraft:redstone"
+		},
         "Q": {
-				"item": "minecraft:quartz"
-			}
+			"item": "minecraft:quartz"
+		}
     },
     "result": {
         "id": "minecraft:observer",

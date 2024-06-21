@@ -9,43 +9,14 @@
         "P": {
             "tag": "minecraft:planks"
         },
-        "#": [
-			{
-				"item": "minecraft:blackstone"
-			},
-			{
-				"item": "minecraft:cobbled_deepslate"
-			},
-			{
-				"item": "minecraft:andesite"
-			},
-			{
-				"item": "minecraft:granite"
-			},
-			{
-				"item": "minecraft:diorite"
-			},
-			{
-				"item": "minecraft:deepslate"
-			},
-			{
-				"item": "minecraft:cobblestone"
-			},
-			{
-				"item": "minecraft:stone"
-			},
-			{
-				"item": "minecraft:tuff"
-			},
-			{
-				"item": "minecraft:dripstone_block"
-			}
-		],
+        "#": {
+            "tag": "crafting:alternate_stones"
+        },
         "I": {
-				"item": "minecraft:iron_ingot"
+			"item": "minecraft:iron_ingot"
         },
         "R": {
-				"item": "minecraft:redstone"
+			"item": "minecraft:redstone"
         }
     },
     "result": {
