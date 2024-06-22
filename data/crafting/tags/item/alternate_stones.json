@@ -1,15 +1,15 @@
 {
-  "replace": false,
-  "values": [
-    "minecraft:blackstone",
-    "minecraft:cobbled_deepslate",
-	"minecraft:andesite",
-	"minecraft:granite",
-	"minecraft:diorite",
-	"minecraft:deepslate",
-	"minecraft:cobblestone",
-	"minecraft:stone",
-	"minecraft:tuff",
-	"minecraft:dripstone_block"
-  ]
+    "replace": false,
+    "values": [
+        "minecraft:blackstone",
+        "minecraft:cobbled_deepslate",
+        "minecraft:andesite",
+        "minecraft:granite",
+        "minecraft:diorite",
+        "minecraft:deepslate",
+        "minecraft:cobblestone",
+        "minecraft:stone",
+        "minecraft:tuff",
+        "minecraft:dripstone_block"
+    ]
 }

@@ -3,23 +3,21 @@
     "pattern": [
         "///",
         " B ",
-		" N "
+        " N "
     ],
     "key": {
         "/": {
-				"item": "minecraft:stick"
-			},
+            "item": "minecraft:stick"
+        },
         "B": {
-				"item": "minecraft:gold_block"
-			},
+            "item": "minecraft:gold_block"
+        },
         "N": {
-				"item": "minecraft:gold_nugget"
-			}
+            "item": "minecraft:gold_nugget"
+        }
     },
     "result": {
         "id": "minecraft:bell",
         "count": 1
     }
 }
-
-

@@ -1,37 +1,37 @@
 {
-  "parent": "minecraft:recipes/root",
-  "rewards": {
-    "recipes": [
-      "crafting:brown_mushroom_block",
-      "crafting:red_mushroom_block",
-      "crafting:mushroom_stem"
-    ]
-  },
-  "criteria": {
-    "has_mushrooms": {
-      "trigger": "minecraft:inventory_changed",
-      "conditions": {
-        "items": [
-          {
-            "item": "minecraft:red_mushroom"
-          },
-          {
-            "item": "minecraft:brown_mushroom"
-          }
+    "parent": "minecraft:recipes/root",
+    "rewards": {
+        "recipes": [
+            "crafting:brown_mushroom_block",
+            "crafting:red_mushroom_block",
+            "crafting:mushroom_stem"
         ]
-      }
     },
-    "has_recipe": {
-      "trigger": "minecraft:recipe_unlocked",
-      "conditions": {
-        "recipe": "crafting:mushroom_stem"
-      }
-    }
-  },
-  "requirements": [
-    [
-      "has_mushrooms",
-	    "has_recipe"
+    "criteria": {
+        "has_mushrooms": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:red_mushroom"
+                    },
+                    {
+                        "item": "minecraft:brown_mushroom"
+                    }
+                ]
+            }
+        },
+        "has_recipe": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "crafting:mushroom_stem"
+            }
+        }
+    },
+    "requirements": [
+        [
+            "has_mushrooms",
+            "has_recipe"
+        ]
     ]
-  ]
 }

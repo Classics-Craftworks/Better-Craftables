@@ -1,20 +1,22 @@
 {
     "type": "minecraft:crafting_shaped",
     "pattern": [
-        "## ",
-        "#S ",
-        " S "
+        "/#/",
+        "P P"
     ],
     "key": {
         "#": {
-            "tag": "crafting:alternate_stones"
+            "tag": "crafting:alternate_stone_slabs"
         },
-        "S": {
+        "/": {
             "item": "minecraft:stick"
+        },
+        "P": {
+            "tag": "minecraft:planks"
         }
     },
     "result": {
-        "id": "minecraft:stone_axe",
+        "id": "minecraft:grindstone",
         "count": 1
     }
 }

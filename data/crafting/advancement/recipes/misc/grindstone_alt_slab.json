@@ -2,17 +2,16 @@
     "parent": "minecraft:recipes/root",
     "rewards": {
         "recipes": [
-            "smelting:raw_iron_block",
-            "smelting:raw_iron_block_blast"
+            "crafting:grindstone_alt_slab"
         ]
     },
     "criteria": {
-        "has_iron": {
+        "has_stick": {
             "trigger": "minecraft:inventory_changed",
             "conditions": {
                 "items": [
                     {
-                        "item": "minecraft:raw_iron_block"
+                        "item": "minecraft:stick"
                     }
                 ]
             }
@@ -20,13 +19,13 @@
         "has_recipe": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
-                "recipe": "smelting:raw_iron_block"
+                "recipe": "crafting:grindstone_alt_slab"
             }
         }
     },
     "requirements": [
         [
-            "has_iron",
+            "has_stick",
             "has_recipe"
         ]
     ]

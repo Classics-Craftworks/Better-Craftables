@@ -6,13 +6,11 @@
     ],
     "key": {
         "M": {
-			"item": "minecraft:brown_mushroom"
-		}
+            "item": "minecraft:brown_mushroom"
+        }
     },
     "result": {
         "id": "minecraft:brown_mushroom_block",
         "count": 1
     }
 }
-
-

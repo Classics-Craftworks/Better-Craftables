@@ -3,17 +3,15 @@
     "pattern": [
         " R ",
         "RDR",
-		" R "
+        " R "
     ],
     "key": {
         "R": {
-				"item": "minecraft:hanging_roots"
-			},
-        "D": [
-			{
-				"item": "minecraft:dirt"
-			}
-		]
+            "item": "minecraft:hanging_roots"
+        },
+        "D": {
+            "item": "minecraft:dirt"
+        }
     },
     "result": {
         "id": "minecraft:rooted_dirt",

@@ -3,18 +3,18 @@
     "pattern": [
         "C C",
         "C/C",
-		"CRC"
+        "CRC"
     ],
     "key": {
         "C": {
-				"item": "minecraft:copper_ingot"
-			},
+            "item": "minecraft:copper_ingot"
+        },
         "/": {
-				"item": "minecraft:stick"
-			},
+            "item": "minecraft:stick"
+        },
         "R": {
-				"item": "minecraft:redstone"
-			}
+            "item": "minecraft:redstone"
+        }
     },
     "result": {
         "id": "minecraft:powered_rail",

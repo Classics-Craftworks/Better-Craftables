@@ -1,29 +1,28 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "category": "misc",
-  "key": {
-    "D": {
-      "item": "minecraft:diamond"
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " T ",
+        " B ",
+        "DDD"
+    ],
+    "key": {
+        "D": {
+            "item": "minecraft:diamond"
+        },
+        "B": [
+            {
+                "item": "minecraft:copper_block"
+            },
+            {
+                "item": "minecraft:waxed_copper_block"
+            }
+        ],
+        "T": {
+            "item": "minecraft:bolt_armor_trim_smithing_template"
+        }
     },
-    "B": [
-		{
-			"item": "minecraft:copper_block"
-		},
-		{
-			"item": "minecraft:waxed_copper_block"
-		}
-	],
-    "T": {
-      "item": "minecraft:bolt_armor_trim_smithing_template"
+    "result": {
+        "count": 2,
+        "id": "minecraft:bolt_armor_trim_smithing_template"
     }
-  },
-  "pattern": [
-    " T ",
-    " B ",
-    "DDD"
-  ],
-  "result": {
-    "count": 2,
-    "id": "minecraft:bolt_armor_trim_smithing_template"
-  }
 }

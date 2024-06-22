@@ -8,9 +8,9 @@
         "#": {
             "tag": "crafting:alternate_stones"
         },
-		"I": {
-			"item": "minecraft:iron_ingot"
-		}
+        "I": {
+            "item": "minecraft:iron_ingot"
+        }
     },
     "result": {
         "id": "minecraft:stonecutter",

@@ -6,26 +6,24 @@
     ],
     "key": {
         "R": [
-			{
-				"item": "minecraft:brown_mushroom"
-			},
-			{
-				"item": "minecraft:red_mushroom"
-			}
-		],
+            {
+                "item": "minecraft:brown_mushroom"
+            },
+            {
+                "item": "minecraft:red_mushroom"
+            }
+        ],
         "B": [
-			{
-				"item": "minecraft:brown_mushroom"
-			},
-			{
-				"item": "minecraft:red_mushroom"
-			}
-		]
+            {
+                "item": "minecraft:brown_mushroom"
+            },
+            {
+                "item": "minecraft:red_mushroom"
+            }
+        ]
     },
     "result": {
         "id": "minecraft:mushroom_stem",
         "count": 1
     }
 }
-
-

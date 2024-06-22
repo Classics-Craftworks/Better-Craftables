@@ -10,11 +10,11 @@
             "tag": "crafting:alternate_stones"
         },
         "I": {
-			"item": "minecraft:iron_ingot"
-		},
+            "item": "minecraft:iron_ingot"
+        },
         "F": {
-			"item": "minecraft:furnace"
-		}
+            "item": "minecraft:furnace"
+        }
     },
     "result": {
         "id": "minecraft:blast_furnace",

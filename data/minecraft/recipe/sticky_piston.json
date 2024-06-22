@@ -6,16 +6,16 @@
     ],
     "key": {
         "P": {
-				"item": "minecraft:piston"
+            "item": "minecraft:piston"
         },
         "S": [
-			{
-				"item": "minecraft:slime_ball"
-			},
-			{
-				"item": "minecraft:honey_bottle"
-			}
-		]
+            {
+                "item": "minecraft:slime_ball"
+            },
+            {
+                "item": "minecraft:honey_bottle"
+            }
+        ]
     },
     "result": {
         "id": "minecraft:sticky_piston",

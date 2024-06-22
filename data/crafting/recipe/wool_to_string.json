@@ -5,8 +5,8 @@
         "count": 4
     },
     "ingredients": [
-    	{
-    		"tag": "minecraft:wool"
-    	}
+        {
+            "tag": "minecraft:wool"
+        }
     ]
 }

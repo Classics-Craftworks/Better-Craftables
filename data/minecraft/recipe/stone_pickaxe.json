@@ -10,7 +10,7 @@
             "tag": "crafting:alternate_stones"
         },
         "S": {
-			"item": "minecraft:stick"
+            "item": "minecraft:stick"
         }
     },
     "result": {

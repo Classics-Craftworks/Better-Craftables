@@ -13,10 +13,10 @@
             "tag": "crafting:alternate_stones"
         },
         "I": {
-			"item": "minecraft:iron_ingot"
+            "item": "minecraft:iron_ingot"
         },
         "R": {
-			"item": "minecraft:redstone"
+            "item": "minecraft:redstone"
         }
     },
     "result": {

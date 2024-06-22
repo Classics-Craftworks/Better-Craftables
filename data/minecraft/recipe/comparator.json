@@ -2,48 +2,19 @@
     "type": "minecraft:crafting_shaped",
     "pattern": [
         " T ",
-		"TQT",
+        "TQT",
         "###"
     ],
     "key": {
-        "#": [
-			{
-				"item": "minecraft:blackstone"
-			},
-			{
-				"item": "minecraft:cobbled_deepslate"
-			},
-			{
-				"item": "minecraft:andesite"
-			},
-			{
-				"item": "minecraft:granite"
-			},
-			{
-				"item": "minecraft:diorite"
-			},
-			{
-				"item": "minecraft:deepslate"
-			},
-			{
-				"item": "minecraft:cobblestone"
-			},
-			{
-				"item": "minecraft:stone"
-			},
-			{
-				"item": "minecraft:tuff"
-			},
-			{
-				"item": "minecraft:dripstone_block"
-			}
-		],
-		"T": {
-			"item": "minecraft:redstone_torch"
-		},
-		"Q": {
-			"item": "minecraft:quartz"
-		}
+        "#": {
+            "tag": "crafting:alternate_stones"
+        },
+        "T": {
+            "item": "minecraft:redstone_torch"
+        },
+        "Q": {
+            "item": "minecraft:quartz"
+        }
     },
     "result": {
         "id": "minecraft:comparator",

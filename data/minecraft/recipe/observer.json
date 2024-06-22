@@ -10,11 +10,11 @@
             "tag": "crafting:alternate_stones"
         },
         "R": {
-			"item": "minecraft:redstone"
-		},
+            "item": "minecraft:redstone"
+        },
         "Q": {
-			"item": "minecraft:quartz"
-		}
+            "item": "minecraft:quartz"
+        }
     },
     "result": {
         "id": "minecraft:observer",

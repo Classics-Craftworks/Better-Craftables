@@ -10,7 +10,7 @@
             "tag": "crafting:alternate_stones"
         },
         "R": {
-			"item": "minecraft:redstone"
+            "item": "minecraft:redstone"
         }
     },
     "result": {

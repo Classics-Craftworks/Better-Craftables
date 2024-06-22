@@ -10,11 +10,11 @@
             "tag": "crafting:alternate_stones"
         },
         "B": {
-			"item": "minecraft:bow"
-		},
+            "item": "minecraft:bow"
+        },
         "R": {
-			"item": "minecraft:redstone"
-		}
+            "item": "minecraft:redstone"
+        }
     },
     "result": {
         "id": "minecraft:dispenser",
