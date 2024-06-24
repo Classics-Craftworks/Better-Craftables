@@ -1,4 +1,4 @@
-![image](https://i.imgur.com/U3EpT4a.png)
+![image](https://i.imgur.com/5r2Gk1I.png)
 
 A basic Minecraft data pack & Fabric/Quilt mod that adds some improved crafting recipes to the game.
 
