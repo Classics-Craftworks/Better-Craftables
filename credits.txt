@@ -3,6 +3,7 @@ CREDITS:
 Vanilla Tweaks
 - Craftable Name Tag
 - Unpackable Wool
+- Craftable Gravel
 https://vanillatweaks.net
 
 ACCEPTED SUGGESTIONS:
