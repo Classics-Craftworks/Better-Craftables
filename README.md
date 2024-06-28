@@ -37,5 +37,6 @@ Please open any support or feature requests [here on GitHub](https://github.com/
 * [Vanilla Tweaks](https://vanillatweaks.net/)
 	* Craftable Name Tag
 	* Unpackable Wool
+	* Craftable Gravel
 
 Other contributors can be found [here](https://github.com/TheClassic36/Better-Craftables/wiki/Credits).
