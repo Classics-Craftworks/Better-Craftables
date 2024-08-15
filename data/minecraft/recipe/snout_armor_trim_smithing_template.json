@@ -6,18 +6,12 @@
         "DDD"
     ],
     "key": {
-        "D": {
-            "item": "minecraft:diamond"
-        },
-        "B": {
-            "item": "minecraft:blackstone"
-        },
-        "T": {
-            "item": "minecraft:snout_armor_trim_smithing_template"
-        }
+        "D": "minecraft:diamond",
+        "B": "minecraft:blackstone",
+        "T": "minecraft:snout_armor_trim_smithing_template"
     },
     "result": {
-        "count": 2,
-        "id": "minecraft:snout_armor_trim_smithing_template"
+        "id": "minecraft:snout_armor_trim_smithing_template",
+        "count": 2
     }
 }

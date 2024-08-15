@@ -5,12 +5,8 @@
         "###"
     ],
     "key": {
-        "/": {
-            "item": "minecraft:blaze_rod"
-        },
-        "#": {
-            "tag": "crafting:alternate_stones"
-        }
+        "/": "minecraft:blaze_rod",
+        "#": "#crafting:alternate_stones"
     },
     "result": {
         "id": "minecraft:brewing_stand",

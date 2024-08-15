@@ -6,18 +6,12 @@
         "DDD"
     ],
     "key": {
-        "D": {
-            "item": "minecraft:diamond"
-        },
-        "B": {
-            "item": "minecraft:terracotta"
-        },
-        "T": {
-            "item": "minecraft:raiser_armor_trim_smithing_template"
-        }
+        "D": "minecraft:diamond",
+        "B": "minecraft:terracotta",
+        "T": "minecraft:raiser_armor_trim_smithing_template"
     },
     "result": {
-        "count": 2,
-        "id": "minecraft:raiser_armor_trim_smithing_template"
+        "id": "minecraft:raiser_armor_trim_smithing_template",
+        "count": 2
     }
 }

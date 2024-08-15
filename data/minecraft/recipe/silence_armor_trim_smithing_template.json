@@ -6,18 +6,12 @@
         "DDD"
     ],
     "key": {
-        "D": {
-            "item": "minecraft:diamond"
-        },
-        "B": {
-            "item": "minecraft:cobbled_deepslate"
-        },
-        "T": {
-            "item": "minecraft:silence_armor_trim_smithing_template"
-        }
+        "D": "minecraft:diamond",
+        "B": "minecraft:cobbled_deepslate",
+        "T": "minecraft:silence_armor_trim_smithing_template"
     },
     "result": {
-        "count": 2,
-        "id": "minecraft:silence_armor_trim_smithing_template"
+        "id": "minecraft:silence_armor_trim_smithing_template",
+        "count": 2
     }
 }

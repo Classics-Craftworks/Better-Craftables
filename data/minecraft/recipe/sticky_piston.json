@@ -5,16 +5,10 @@
         "P"
     ],
     "key": {
-        "P": {
-            "item": "minecraft:piston"
-        },
+        "P": "minecraft:piston",
         "S": [
-            {
-                "item": "minecraft:slime_ball"
-            },
-            {
-                "item": "minecraft:honey_bottle"
-            }
+                "minecraft:slime_ball",
+                "minecraft:honey_bottle"
         ]
     },
     "result": {

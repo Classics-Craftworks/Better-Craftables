@@ -5,15 +5,9 @@
         "###"
     ],
     "key": {
-        "#": {
-            "tag": "crafting:alternate_stones"
-        },
-        "T": {
-            "item": "minecraft:redstone_torch"
-        },
-        "R": {
-            "item": "minecraft:redstone"
-        }
+        "#": "#crafting:alternate_stones",
+        "T": "minecraft:redstone_torch",
+        "R": "minecraft:redstone"
     },
     "result": {
         "id": "minecraft:repeater",

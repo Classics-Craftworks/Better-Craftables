@@ -5,12 +5,8 @@
         "###"
     ],
     "key": {
-        "#": {
-            "tag": "crafting:alternate_stones"
-        },
-        "I": {
-            "item": "minecraft:iron_ingot"
-        }
+        "#": "#crafting:alternate_stones",
+        "I": "minecraft:iron_ingot"
     },
     "result": {
         "id": "minecraft:stonecutter",

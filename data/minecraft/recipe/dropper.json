@@ -6,12 +6,8 @@
         "#R#"
     ],
     "key": {
-        "#": {
-            "tag": "crafting:alternate_stones"
-        },
-        "R": {
-            "item": "minecraft:redstone"
-        }
+        "#": "#crafting:alternate_stones",
+        "R": "minecraft:redstone"
     },
     "result": {
         "id": "minecraft:dropper",

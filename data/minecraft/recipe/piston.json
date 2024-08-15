@@ -6,18 +6,10 @@
         "#R#"
     ],
     "key": {
-        "P": {
-            "tag": "minecraft:planks"
-        },
-        "#": {
-            "tag": "crafting:alternate_stones"
-        },
-        "I": {
-            "item": "minecraft:iron_ingot"
-        },
-        "R": {
-            "item": "minecraft:redstone"
-        }
+        "P": "#minecraft:planks",
+        "#": "#crafting:alternate_stones",
+        "I": "minecraft:iron_ingot",
+        "R": "minecraft:redstone"
     },
     "result": {
         "id": "minecraft:piston",

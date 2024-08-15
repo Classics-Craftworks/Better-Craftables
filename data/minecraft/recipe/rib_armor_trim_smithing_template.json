@@ -6,18 +6,12 @@
         "DDD"
     ],
     "key": {
-        "D": {
-            "item": "minecraft:diamond"
-        },
-        "B": {
-            "item": "minecraft:netherrack"
-        },
-        "T": {
-            "item": "minecraft:rib_armor_trim_smithing_template"
-        }
+        "D": "minecraft:diamond",
+        "B": "minecraft:netherrack",
+        "T": "minecraft:rib_armor_trim_smithing_template"
     },
     "result": {
-        "count": 2,
-        "id": "minecraft:rib_armor_trim_smithing_template"
+        "id": "minecraft:rib_armor_trim_smithing_template",
+        "count": 2
     }
 }

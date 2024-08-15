@@ -6,15 +6,9 @@
         "#R#"
     ],
     "key": {
-        "#": {
-            "tag": "crafting:alternate_stones"
-        },
-        "B": {
-            "item": "minecraft:bow"
-        },
-        "R": {
-            "item": "minecraft:redstone"
-        }
+        "#": "#crafting:alternate_stones",
+        "B": "minecraft:bow",
+        "R": "minecraft:redstone"
     },
     "result": {
         "id": "minecraft:dispenser",

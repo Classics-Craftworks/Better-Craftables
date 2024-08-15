@@ -6,18 +6,12 @@
         "DDD"
     ],
     "key": {
-        "D": {
-            "item": "minecraft:diamond"
-        },
-        "B": {
-            "item": "minecraft:netherrack"
-        },
-        "T": {
-            "item": "minecraft:netherite_upgrade_smithing_template"
-        }
+        "D": "minecraft:diamond",
+        "B": "minecraft:netherrack",
+        "T": "minecraft:netherite_upgrade_smithing_template"
     },
     "result": {
-        "count": 2,
-        "id": "minecraft:netherite_upgrade_smithing_template"
+        "id": "minecraft:netherite_upgrade_smithing_template",
+        "count": 2
     }
 }

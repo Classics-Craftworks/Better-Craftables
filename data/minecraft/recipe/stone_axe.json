@@ -6,12 +6,8 @@
         " S "
     ],
     "key": {
-        "#": {
-            "tag": "crafting:alternate_stones"
-        },
-        "S": {
-            "item": "minecraft:stick"
-        }
+        "#": "#crafting:alternate_stones",
+        "S": "minecraft:stick"
     },
     "result": {
         "id": "minecraft:stone_axe",

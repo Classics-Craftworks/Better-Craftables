@@ -6,9 +6,7 @@
         "###"
     ],
     "key": {
-        "#": {
-            "tag": "crafting:alternate_stones"
-        }
+        "#": "#crafting:alternate_stones"
     },
     "result": {
         "id": "minecraft:furnace",

@@ -6,15 +6,9 @@
         "###"
     ],
     "key": {
-        "#": {
-            "tag": "crafting:alternate_stones"
-        },
-        "I": {
-            "item": "minecraft:iron_ingot"
-        },
-        "F": {
-            "item": "minecraft:furnace"
-        }
+        "#": "#crafting:alternate_stones",
+        "I": "minecraft:iron_ingot",
+        "F": "minecraft:furnace"
     },
     "result": {
         "id": "minecraft:blast_furnace",
