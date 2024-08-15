@@ -4,9 +4,6 @@
         "id": "minecraft:string",
         "count": 4
     },
-    "ingredients": [
-        {
-            "tag": "minecraft:wool"
-        }
-    ]
+    "ingredients":
+         "#minecraft:wool"
 }

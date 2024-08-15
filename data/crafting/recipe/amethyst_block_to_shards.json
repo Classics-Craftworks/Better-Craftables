@@ -4,9 +4,7 @@
         "A"
     ],
     "key": {
-        "A": {
-            "item": "minecraft:amethyst_block"
-        }
+        "A": "minecraft:amethyst_block"
     },
     "result": {
         "id": "minecraft:amethyst_shard",

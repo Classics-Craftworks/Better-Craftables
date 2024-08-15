@@ -6,9 +6,7 @@
         "DDD"
     ],
     "key": {
-        "D": {
-            "item": "minecraft:deepslate"
-        }
+        "D": "minecraft:deepslate"
     },
     "result": {
         "id": "minecraft:cobbled_deepslate",

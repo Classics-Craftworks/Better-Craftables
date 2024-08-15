@@ -6,9 +6,7 @@
         "SSS"
     ],
     "key": {
-        "S": {
-            "item": "minecraft:stone"
-        }
+        "S": "minecraft:stone"
     },
     "result": {
         "id": "minecraft:cobblestone",

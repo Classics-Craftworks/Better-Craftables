@@ -5,9 +5,7 @@
         "MM "
     ],
     "key": {
-        "M": {
-            "item": "minecraft:red_mushroom"
-        }
+        "M": "minecraft:red_mushroom"
     },
     "result": {
         "id": "minecraft:red_mushroom_block",

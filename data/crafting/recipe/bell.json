@@ -6,15 +6,9 @@
         " N "
     ],
     "key": {
-        "/": {
-            "item": "minecraft:stick"
-        },
-        "B": {
-            "item": "minecraft:gold_block"
-        },
-        "N": {
-            "item": "minecraft:gold_nugget"
-        }
+        "/": "minecraft:stick",
+        "B": "minecraft:gold_block",
+        "N": "minecraft:gold_nugget"
     },
     "result": {
         "id": "minecraft:bell",

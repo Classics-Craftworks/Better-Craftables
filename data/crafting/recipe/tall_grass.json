@@ -5,9 +5,7 @@
         "G"
     ],
     "key": {
-        "G": {
-            "item": "minecraft:short_grass"
-        }
+        "G": "minecraft:short_grass"
     },
     "result": {
         "id": "minecraft:tall_grass",

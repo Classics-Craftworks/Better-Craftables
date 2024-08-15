@@ -4,9 +4,7 @@
         "G"
     ],
     "key": {
-        "G": {
-            "item": "minecraft:glowstone"
-        }
+        "G": "minecraft:glowstone"
     },
     "result": {
         "id": "minecraft:glowstone_dust",

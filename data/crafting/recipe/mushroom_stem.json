@@ -6,20 +6,12 @@
     ],
     "key": {
         "R": [
-            {
-                "item": "minecraft:brown_mushroom"
-            },
-            {
-                "item": "minecraft:red_mushroom"
-            }
+                "minecraft:brown_mushroom",
+                "minecraft:red_mushroom"
         ],
         "B": [
-            {
-                "item": "minecraft:brown_mushroom"
-            },
-            {
-                "item": "minecraft:red_mushroom"
-            }
+                "minecraft:brown_mushroom",
+                "minecraft:red_mushroom"
         ]
     },
     "result": {

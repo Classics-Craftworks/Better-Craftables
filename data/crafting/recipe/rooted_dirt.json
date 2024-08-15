@@ -6,12 +6,8 @@
         " R "
     ],
     "key": {
-        "R": {
-            "item": "minecraft:hanging_roots"
-        },
-        "D": {
-            "item": "minecraft:dirt"
-        }
+        "R": "minecraft:hanging_roots",
+        "D": "minecraft:dirt"
     },
     "result": {
         "id": "minecraft:rooted_dirt",

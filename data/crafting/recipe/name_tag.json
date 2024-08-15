@@ -6,15 +6,9 @@
         "P  "
     ],
     "key": {
-        "I": {
-            "item": "minecraft:iron_ingot"
-        },
-        "P": {
-            "item": "minecraft:paper"
-        },
-        "S": {
-            "item": "minecraft:string"
-        }
+        "I": "minecraft:iron_ingot",
+        "P": "minecraft:paper",
+        "S": "minecraft:string"
     },
     "result": {
         "id": "minecraft:name_tag",
