@@ -21,7 +21,7 @@ Recipes in this data pack/mod can be found on the wiki.
 
 | Minecraft Version | Better Craftables Version |
 | :--: | :--: |
-| 1.21.2 (24w33a - 24w37a) |  [v2.1.0-beta5](https://github.com/Classic36-Media/Better-Craftables/releases/tag/v2.1.0-beta5) |
+| 1.21.2 (24w33a - 24w38a) |  [v2.1.0-beta6](https://github.com/Classic36-Media/Better-Craftables/releases/tag/v2.1.0-beta6) |
 | 1.21 - 1.21.1 |  [v2.0.0](https://github.com/Classic36-Media/Better-Craftables/releases/tag/v2.0.0) |
 | 1.20.5 - 1.20.6 |  [v1.5.1](https://github.com/Classic36-Media/Better-Craftables/releases/tag/v1.5.1) |
 | 1.20.2 - 1.20.4 | [v1.4.0](https://github.com/Classic36-Media/Better-Craftables/releases/tag/v1.4.0) |
