@@ -2,7 +2,7 @@
     "parent": "minecraft:recipes/root",
     "rewards": {
         "recipes": [
-            "crafting:tall_grass"
+            "crafting:rabbit_hide_bundle"
         ]
     },
     "criteria": {
