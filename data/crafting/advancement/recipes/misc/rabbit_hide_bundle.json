@@ -1,0 +1,32 @@
+{
+    "parent": "minecraft:recipes/root",
+    "rewards": {
+        "recipes": [
+            "crafting:tall_grass"
+        ]
+    },
+    "criteria": {
+        "has_rabbit_hide": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:rabbit_hide"
+                    }
+                ]
+            }
+        },
+        "has_recipe": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "crafting:rabbit_hide_bundle"
+            }
+        }
+    },
+    "requirements": [
+        [
+            "has_rabbit_hide",
+            "has_recipe"
+        ]
+    ]
+}
