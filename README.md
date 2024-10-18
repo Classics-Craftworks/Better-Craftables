@@ -17,7 +17,9 @@ Recipes in this data pack/mod can be found on the wiki.
 
 ## Versions
 
-**For the mod version, [Fabric API](https://modrinth.com/mod/fabric-api) is required!**
+> [!IMPORTANT]
+> [Fabric API](https://modrinth.com/mod/fabric-api) is required for the mod version of Better Craftables!
+> Make sure to install the correct version for the version of Minecraft & Better Craftables you are using.
 
 | Minecraft Version | Better Craftables Version |
 | :--: | :--: |
@@ -26,7 +28,7 @@ Recipes in this data pack/mod can be found on the wiki.
 | 1.20.5 - 1.20.6 |  [v1.5.1](https://github.com/Classic36-Media/Better-Craftables/releases/tag/v1.5.1) |
 | 1.20.2 - 1.20.4 | [v1.4.0](https://github.com/Classic36-Media/Better-Craftables/releases/tag/v1.4.0) |
 
-Versions for older game versions and snapshots can be found [here](https://github.com/Classic36-Media/Better-Craftables/wiki/Versions).
+Versions for older game updates and snapshots can be found [here](https://github.com/Classic36-Media/Better-Craftables/wiki/Versions).
 
 ## Support & Feature Requests
 Please open any support or feature requests [here on GitHub](https://github.com/Classic36-Media/Better-Craftables/issues/new/choose) or on Discord:
@@ -39,4 +41,4 @@ Please open any support or feature requests [here on GitHub](https://github.com/
 	* Unpackable Wool
 	* Craftable Gravel
 
-Other contributors can be found [here](https://github.com/Classic36-Media/Better-Craftables/wiki/Credits).
+A full list of contributors can be found [here](https://github.com/Classic36-Media/Better-Craftables/wiki/Credits).
