@@ -1,7 +1,7 @@
 {
 	"schemaVersion": 1,
 	"id": "better_craftables",
-	"version": "2.1.0",
+	"version": "3.0.0-beta",
 	"name": "Better Craftables",
 	"description": "Adds some improved crafting recipes to the game!",
 	"authors": [
@@ -9,8 +9,8 @@
 	],
 	"contact": {
 		"homepage": "https://modrinth.com/datapack/better-craftables",
-		"sources": "https://github.com/TheClassic36/Better-Craftables",
-		"issues": "https://github.com/TheClassic36/Better-Craftables/issues"
+		"sources": "https://github.com/Classic36-Media/Better-Craftables",
+		"issues": "https://github.com/Classic36-Media/Better-Craftables/issues"
 	},
 
 	"license": "MIT",
