@@ -9,7 +9,7 @@ body:
     attributes:
       label: What happened?
       description: A clear and concise description of what the bug is.
-      placeholder: "Example: By putting 1 Amethyst Block into a crafting table, I cannot craft it back into 4 Amethyst Shards."
+      placeholder: "Example: By surrounding a Blackstone block with 8 Gold Nuggets in a Crafting Table, I cannot craft it into a Gilded Blackstone block."
     validations:
       required: true
   - type: dropdown
@@ -38,7 +38,7 @@ body:
     attributes:
       label: Mod Loader Version
       description: If running as a mod, which mod loader & Fabric API version are you using?
-      placeholder: "Example: Fabric Loader v0.16.7 with Fabric API v0.106.1 for Minecraft 1.21.2"
+      placeholder: "Example: Fabric Loader v0.16.8 with Fabric API v0.107.0 for Minecraft 1.21.3"
     validations:
       required: false
   - type: textarea
