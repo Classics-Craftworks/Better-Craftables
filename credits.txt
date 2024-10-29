@@ -2,7 +2,6 @@ CREDITS:
 
 Vanilla Tweaks
 - Craftable Name Tag
-- Unpackable Wool
 - Craftable Gravel
 https://vanillatweaks.net
 
@@ -10,12 +9,8 @@ ACCEPTED SUGGESTIONS:
 
 HexedHero
 - Cobweb recipe
-https://github.com/TheClassic36/Better-Craftables/issues/1
-
-babarsc
-- Wool to String recipe
-https://github.com/TheClassic36/Better-Craftables/issues/4
+https://github.com/Classic36-Media/Better-Craftables/issues/1
 
 vgtom4
 - Honey Bottle in Sticky Piston recipe
-https://github.com/TheClassic36/Better-Craftables/issues/6
+https://github.com/Classic36-Media/Better-Craftables/issues/6
