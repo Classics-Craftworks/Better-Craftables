@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " D ",
+        "ICI",
+        " D "
+    ],
+    "key": {
+        "C": "minecraft:compass",
+        "I": "minecraft:iron_ingot",
+        "D": "minecraft:diamond"
+    },
+    "result": {
+        "id": "minecraft:recovery_compass",
+        "count": 1
+    }
+}
