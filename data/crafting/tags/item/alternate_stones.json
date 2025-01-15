@@ -10,6 +10,7 @@
         "minecraft:cobblestone",
         "minecraft:stone",
         "minecraft:tuff",
-        "minecraft:dripstone_block"
+        "minecraft:dripstone_block",
+        "minecraft:calcite"
     ]
 }
