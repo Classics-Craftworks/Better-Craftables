@@ -42,7 +42,7 @@ Please open any support or feature requests [here on GitHub](https://github.com/
 ## Credits
 * [Vanilla Tweaks](https://vanillatweaks.net/)
 	* Craftable Name Tag
-	* Unpackable Wool
 	* Craftable Gravel
+	* Rotten Flesh to Leather
 
 A full list of contributors can be found [here](https://github.com/Classic36-Media/Better-Craftables/wiki/Credits).
