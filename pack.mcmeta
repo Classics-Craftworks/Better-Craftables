@@ -1,7 +1,7 @@
 {
 	"pack":{
-		"pack_format": 62,
-		"supported_formats": {"min_inclusive": 62, "max_inclusive": 65},
-		"description": "§6Better Craftables\n§7v3.2.0-b4 §8/ §f25w02a-25w05a"
+		"pack_format": 66,
+		"supported_formats": {"min_inclusive": 66, "max_inclusive": 66},
+		"description": "§6Better Craftables\n§7v3.2.0-b5 §8/ §f25w06a"
 	}
 }
