@@ -21,9 +21,9 @@ Recipes in this data pack/mod can be found on the wiki.
 ## Versions
 
 > [!IMPORTANT]
-> [Fabric API](https://modrinth.com/mod/fabric-api) is required for the mod version of Better Craftables!
+> [Fabric API](https://modrinth.com/mod/fabric-api) is required to run the mod version of Better Craftables.
 >
-> Make sure to install the correct version of Fabric API for the version of Minecraft & Better Craftables you are using.
+> Be sure to install the correct Fabric API version that matches your Minecraft and Better Craftables versions.
 
 | Minecraft Version | Better Craftables Version |
 | :--: | :--: |
