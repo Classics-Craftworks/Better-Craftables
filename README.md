@@ -46,3 +46,7 @@ Please open any support or feature requests [here on GitHub](https://github.com/
 	* Rotten Flesh to Leather
 
 A full list of contributors can be found [here](https://github.com/Classic36-Media/Better-Craftables/wiki/Credits).
+
+***
+
+###### Not an official Minecraft product. Not approved by or associated with Mojang or Microsoft.
