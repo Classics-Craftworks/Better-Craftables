@@ -11,6 +11,7 @@
         "minecraft:stone",
         "minecraft:tuff",
         "minecraft:dripstone_block",
-        "minecraft:calcite"
+        "minecraft:calcite",
+        "minecraft:end_stone"
     ]
 }

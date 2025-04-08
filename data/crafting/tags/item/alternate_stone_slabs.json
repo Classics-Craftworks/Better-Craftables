@@ -22,6 +22,7 @@
         "minecraft:polished_blackstone_brick_slab",
         "minecraft:tuff_slab",
         "minecraft:polished_tuff_slab",
-        "minecraft:tuff_brick_slab"
+        "minecraft:tuff_brick_slab",
+        "minecraft:end_stone_brick_slab"
     ]
 }
