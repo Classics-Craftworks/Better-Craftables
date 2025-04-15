@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "##",
+        "##"
+    ],
+    "key": {
+        "#": "#crafting:tube_coral"
+    },
+    "result": {
+        "id": "minecraft:tube_coral_block",
+        "count": 1
+    }
+}
