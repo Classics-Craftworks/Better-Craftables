@@ -27,7 +27,7 @@ Recipes in this data pack/mod can be found on the wiki.
 
 | Minecraft Version | Better Craftables Version |
 | :--: | :--: |
-| 1.21.5 - 25w15a | [v4.1.0-beta1](https://github.com/Classic36-Media/Better-Craftables/releases/tag/v4.1.0-beta1) |
+| 1.21.5 - 25w16a | [v4.1.0-beta2](https://github.com/Classic36-Media/Better-Craftables/releases/tag/v4.1.0-beta2) |
 | 1.21.5 | [v4.0.0](https://github.com/Classic36-Media/Better-Craftables/releases/tag/v4.0.0) |
 | 1.21.4 | [v3.1.0](https://github.com/Classic36-Media/Better-Craftables/releases/tag/v3.1.0) |
 | 1.21.2 - 1.21.3 | [v3.0.0](https://github.com/Classic36-Media/Better-Craftables/releases/tag/v3.0.0) |
@@ -45,6 +45,7 @@ Please open any support or feature requests [here on GitHub](https://github.com/
 	* Craftable Name Tag
 	* Craftable Gravel
 	* Rotten Flesh to Leather
+	* Craftable Coral Blocks 2x2 (v4.1.0+)
 
 A full list of contributors can be found [here](https://github.com/Classic36-Media/Better-Craftables/wiki/Credits).
 
