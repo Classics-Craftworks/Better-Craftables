@@ -1,0 +1,43 @@
+{
+    "parent": "minecraft:recipes/root",
+    "rewards": {
+        "recipes": [
+            "crafting:alt_bow"
+        ]
+    },
+    "criteria": {
+        "has_string": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:string"
+                    }
+                ]
+            }
+        },
+        "has_stick": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:stick"
+                    }
+                ]
+            }
+        },
+        "has_recipe": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "crafting:alt_bow"
+            }
+        }
+    },
+    "requirements": [
+        [
+            "has_string",
+            "has_stick",
+            "has_recipe"
+        ]
+    ]
+}
