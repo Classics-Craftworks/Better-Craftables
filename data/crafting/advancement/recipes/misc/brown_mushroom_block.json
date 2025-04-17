@@ -2,9 +2,7 @@
     "parent": "minecraft:recipes/root",
     "rewards": {
         "recipes": [
-            "crafting:brown_mushroom_block",
-            "crafting:red_mushroom_block",
-            "crafting:mushroom_stem"
+            "crafting:brown_mushroom_block"
         ]
     },
     "criteria": {
@@ -12,9 +10,6 @@
             "trigger": "minecraft:inventory_changed",
             "conditions": {
                 "items": [
-                    {
-                        "item": "minecraft:red_mushroom"
-                    },
                     {
                         "item": "minecraft:brown_mushroom"
                     }
@@ -24,7 +19,7 @@
         "has_recipe": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
-                "recipe": "crafting:mushroom_stem"
+                "recipe": "crafting:brown_mushroom_block"
             }
         }
     },
