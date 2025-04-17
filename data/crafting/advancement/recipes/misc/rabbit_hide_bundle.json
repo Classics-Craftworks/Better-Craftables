@@ -16,6 +16,16 @@
                 ]
             }
         },
+        "has_string": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:string"
+                    }
+                ]
+            }
+        },
         "has_recipe": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
@@ -26,6 +36,7 @@
     "requirements": [
         [
             "has_rabbit_hide",
+            "has_string",
             "has_recipe"
         ]
     ]

@@ -16,6 +16,26 @@
                 ]
             }
         },
+        "has_iron_ingot": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:iron_ingot"
+                    }
+                ]
+            }
+        },
+        "has_string": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:string"
+                    }
+                ]
+            }
+        },
         "has_recipe": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
@@ -26,6 +46,8 @@
     "requirements": [
         [
             "has_paper",
+            "has_iron_ingot",
+            "has_string",
             "has_recipe"
         ]
     ]

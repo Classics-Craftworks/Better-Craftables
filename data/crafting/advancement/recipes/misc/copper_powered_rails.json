@@ -16,6 +16,26 @@
                 ]
             }
         },
+        "has_stick": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:stick"
+                    }
+                ]
+            }
+        },
+        "has_redstone": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:redstone"
+                    }
+                ]
+            }
+        },
         "has_recipe": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
@@ -26,6 +46,8 @@
     "requirements": [
         [
             "has_copper_ingot",
+            "has_stick",
+            "has_redstone",
             "has_recipe"
         ]
     ]

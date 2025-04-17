@@ -16,6 +16,16 @@
                 ]
             }
         },
+        "has_slab": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "tag": "crafting:alt_slabs"
+                    }
+                ]
+            }
+        },
         "has_recipe": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
@@ -26,6 +36,7 @@
     "requirements": [
         [
             "has_stick",
+            "has_slab",
             "has_recipe"
         ]
     ]
