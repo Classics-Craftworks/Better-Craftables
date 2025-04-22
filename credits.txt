@@ -1,7 +1,6 @@
 CREDITS:
 
 Vanilla Tweaks
-- Craftable Name Tag
 - Craftable Gravel
 - Rotten Flesh to Leather
 - Craftable Coral Blocks 2x2
@@ -16,3 +15,7 @@ https://github.com/Classic36-Media/Better-Craftables/issues/1
 vgtom4
 - Honey Bottle in Sticky Piston recipe
 https://github.com/Classic36-Media/Better-Craftables/issues/6
+
+Andre_601
+- Cheaper Name Tag recipe
+https://github.com/Classic36-Media/Better-Craftables/issues/9
