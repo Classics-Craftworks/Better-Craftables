@@ -16,7 +16,7 @@
                 ]
             }
         },
-        "has_iron": {
+        "has_iron_ingot": {
             "trigger": "minecraft:inventory_changed",
             "conditions": {
                 "items": [
