@@ -1,6 +1,6 @@
 ![image](https://i.imgur.com/5r2Gk1I.png)
 
-A Minecraft data pack and mod that adds some improved crafting recipes to the game.
+A Minecraft data pack and mod that adds some quality-of-life crafting and smelting recipes to the game.
 
 > [!TIP]
 > Want some unpacking recipes? Check out [Better Unpackables](https://modrinth.com/datapack/better-unpackables)!
@@ -11,12 +11,15 @@ A Minecraft data pack and mod that adds some improved crafting recipes to the ga
 [![](https://img.shields.io/github/downloads/Classic36-Media/Better-Craftables/total?label=GitHub&style=for-the-badge&color=181717&logo=github)](https://github.com/Classic36-Media/Better-Craftables/releases)
 [![](https://img.shields.io/spiget/downloads/108728?label=SpigotMC&style=for-the-badge&color=ED8106&logo=spigotmc)](https://www.spigotmc.org/resources/better-craftables.108728/)
 
-## Recipes
+## Overview
 
-Recipes in this data pack/mod can be found on the wiki.
+Better Craftables, available as a data pack, a Fabric/Quilt mod and a Forge/NeoForge mod, enhances the vanilla Minecraft experience with new recipes such as:
 
-* [Crafting Recipes](https://github.com/Classic36-Media/Better-Craftables/wiki/Crafting-Recipes)
-* [Smelting Recipes](https://github.com/Classic36-Media/Better-Craftables/wiki/Smelting-Recipes)
+* Craftable Name Tags & Saddles
+* Raw Ore Block smelting
+* Alternative recipes for Recovery Compasses, Smithing Templates and more
+
+Check out the [Crafting Recipes](https://github.com/Classic36-Media/Better-Craftables/wiki/Crafting-Recipes) and [Smelting Recipes](https://github.com/Classic36-Media/Better-Craftables/wiki/Smelting-Recipes) pages on the wiki for a full list!
 
 ## Versions
 
@@ -28,22 +31,15 @@ Recipes in this data pack/mod can be found on the wiki.
 | 1.21.2 - 1.21.3 | [v3.0.0](https://github.com/Classic36-Media/Better-Craftables/releases/tag/v3.0.0) |
 | 1.21 - 1.21.1 | [v2.0.0](https://github.com/Classic36-Media/Better-Craftables/releases/tag/v2.0.0) |
 
-Versions for older game updates and snapshots can be found [here](https://github.com/Classic36-Media/Better-Craftables/wiki/Versions).
-
-**Supported Mod Loaders:**
-
-* Fabric
-* Quilt
-* Forge
-* NeoForge
+Older versions and snapshots can be found [on Modrinth](https://modrinth.com/datapack/better-craftables/versions) or [here on GitHub](https://github.com/Classic36-Media/Better-Craftables/wiki/Versions).
 
 > [!IMPORTANT]
-> [Fabric API](https://modrinth.com/mod/fabric-api) is required to run the Fabric/Quilt mod version of Better Craftables.
->
-> Be sure to install the correct mod loader version that matches your Minecraft and Better Craftables versions.
+> Make sure you download the correct version that matches your Minecraft version and mod loader if you are using Fabric or Forge. Please note that **[Fabric API](https://modrinth.com/mod/fabric-api) is required to run the Fabric/Quilt mod version** of Better Craftables.
 
-## Support & Feature Requests
-Please open any support or feature requests [here on GitHub](https://github.com/Classic36-Media/Better-Craftables/issues/new/choose) or on Discord:
+## Support & Feedback
+Found a bug or have an idea?
+* Open a [GitHub issue](https://github.com/Classic36-Media/Better-Craftables/issues/new/choose)
+* Join Discord:
 
 [![](https://img.shields.io/discord/1107084025442607206?label=Discord&style=for-the-badge&color=5865F2&logo=discord)](https://discord.gg/vZJSDjPcmu)
 
@@ -54,7 +50,7 @@ Please open any support or feature requests [here on GitHub](https://github.com/
 	* Rotten Flesh to Leather
 	* Craftable Coral Blocks 2x2 (v4.1.0+)
 
-A full list of contributors can be found [here](https://github.com/Classic36-Media/Better-Craftables/wiki/Credits).
+A full list of contributors is available [here](https://github.com/Classic36-Media/Better-Craftables/wiki/Credits).
 
 ***
 
