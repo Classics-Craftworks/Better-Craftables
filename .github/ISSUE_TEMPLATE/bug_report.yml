@@ -20,6 +20,7 @@ body:
       description: Which version of Better Craftables are you using? If it's not listed, please consider updating!
       options:
         - v4.1.0-beta5
+        - v4.0.1+forge
         - v4.0.1+mod
         - v4.0.1
         - v3.1.0+mod
@@ -41,7 +42,7 @@ body:
     attributes:
       label: Mod Loader Version
       description: If running as a mod, which mod loader & Fabric API version are you using?
-      placeholder: "Example: Fabric Loader v0.16.14 with Fabric API v0.121.0 for Minecraft 1.21.5"
+      placeholder: "Examples: 'Fabric Loader v0.16.14 with Fabric API v0.121.0 for Minecraft 1.21.5' or 'NeoForge 21.5.0 for Minecraft 1.21.5'"
     validations:
       required: false
   - type: textarea

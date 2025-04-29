@@ -1,6 +1,6 @@
 ![image](https://i.imgur.com/5r2Gk1I.png)
 
-A basic Minecraft data pack & Fabric/Quilt mod that adds some improved crafting recipes to the game.
+A Minecraft data pack and mod that adds some improved crafting recipes to the game.
 
 > [!TIP]
 > Want some unpacking recipes? Check out [Better Unpackables](https://modrinth.com/datapack/better-unpackables)!
@@ -20,11 +20,6 @@ Recipes in this data pack/mod can be found on the wiki.
 
 ## Versions
 
-> [!IMPORTANT]
-> [Fabric API](https://modrinth.com/mod/fabric-api) is required to run the mod version of Better Craftables.
->
-> Be sure to install the correct Fabric API version that matches your Minecraft and Better Craftables versions.
-
 | Minecraft Version | Better Craftables Version |
 | :--: | :--: |
 | 1.21.5 - 25w18a | [v4.1.0-beta5](https://github.com/Classic36-Media/Better-Craftables/releases/tag/v4.1.0-beta5) |
@@ -34,6 +29,18 @@ Recipes in this data pack/mod can be found on the wiki.
 | 1.21 - 1.21.1 | [v2.0.0](https://github.com/Classic36-Media/Better-Craftables/releases/tag/v2.0.0) |
 
 Versions for older game updates and snapshots can be found [here](https://github.com/Classic36-Media/Better-Craftables/wiki/Versions).
+
+**Supported Mod Loaders:**
+
+* Fabric
+* Quilt
+* Forge
+* NeoForge
+
+> [!IMPORTANT]
+> [Fabric API](https://modrinth.com/mod/fabric-api) is required to run the Fabric/Quilt mod version of Better Craftables.
+>
+> Be sure to install the correct mod loader version that matches your Minecraft and Better Craftables versions.
 
 ## Support & Feature Requests
 Please open any support or feature requests [here on GitHub](https://github.com/Classic36-Media/Better-Craftables/issues/new/choose) or on Discord:
@@ -51,4 +58,4 @@ A full list of contributors can be found [here](https://github.com/Classic36-Med
 
 ***
 
-###### Not an official Minecraft product. Not approved by or associated with Mojang or Microsoft.
+**Not an official Minecraft product. Not approved by or associated with Mojang or Microsoft.**
