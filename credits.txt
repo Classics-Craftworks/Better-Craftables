@@ -8,14 +8,18 @@ https://vanillatweaks.net
 
 ACCEPTED SUGGESTIONS:
 
-HexedHero
+HexedHero (GitHub)
 - Cobweb recipe
 https://github.com/Classic36-Media/Better-Craftables/issues/1
 
-vgtom4
+vgtom4 (GitHub)
 - Honey Bottle in Sticky Piston recipe
 https://github.com/Classic36-Media/Better-Craftables/issues/6
 
-Andre_601
+Andre_601 (SpigotMC)
 - Cheaper Name Tag recipe
 https://github.com/Classic36-Media/Better-Craftables/issues/9
+
+danteragewolfington (Discord)
+- Cheaper Bell recipe
+https://github.com/Classic36-Media/Better-Craftables/issues/10

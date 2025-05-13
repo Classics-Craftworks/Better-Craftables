@@ -6,12 +6,12 @@
         ]
     },
     "criteria": {
-        "has_gold_block": {
+        "has_gold_ingot": {
             "trigger": "minecraft:inventory_changed",
             "conditions": {
                 "items": [
                     {
-                        "item": "minecraft:gold_block"
+                        "item": "minecraft:gold_ingot"
                     }
                 ]
             }
@@ -45,7 +45,7 @@
     },
     "requirements": [
         [
-            "has_gold_block",
+            "has_gold_ingot",
             "has_gold_nugget",
             "has_stick",
             "has_recipe"
