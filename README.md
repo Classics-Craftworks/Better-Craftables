@@ -13,11 +13,12 @@ A Minecraft data pack and mod that adds some quality-of-life crafting and smelti
 
 ## Overview
 
-Better Craftables, available as a data pack, a Fabric/Quilt mod and a Forge/NeoForge mod, enhances the vanilla Minecraft experience with new recipes such as:
+Better Craftables, available as a data pack, a Fabric/Quilt mod and a Forge/NeoForge mod, enhances the vanilla Minecraft experience with recipes such as:
 
-* Craftable Name Tags & Saddles
+* Craftable Name Tags & Bells
 * Raw Ore Block smelting
-* Alternative recipes for Recovery Compasses, Smithing Templates and more
+* Alternative recipes for Recovery Compasses and Sticky Pistons
+* Cheaper recipes for Smithing Templates
 
 Check out the [Crafting Recipes](https://github.com/Classic36-Media/Better-Craftables/wiki/Crafting-Recipes) and [Smelting Recipes](https://github.com/Classic36-Media/Better-Craftables/wiki/Smelting-Recipes) pages on the wiki for a full list!
 
@@ -25,6 +26,7 @@ Check out the [Crafting Recipes](https://github.com/Classic36-Media/Better-Craft
 
 | Minecraft Version | Better Craftables Version |
 | :--: | :--: |
+| 25w20a | [v5.0.0-beta1](https://github.com/Classic36-Media/Better-Craftables/releases/tag/v5.0.0-beta1) |
 | 1.21.5 | [v4.1.0](https://github.com/Classic36-Media/Better-Craftables/releases/tag/v4.1.0) |
 | 1.21.4 | [v3.1.0](https://github.com/Classic36-Media/Better-Craftables/releases/tag/v3.1.0) |
 | 1.21.2 - 1.21.3 | [v3.0.0](https://github.com/Classic36-Media/Better-Craftables/releases/tag/v3.0.0) |
@@ -44,7 +46,6 @@ Found a bug or have an idea?
 
 ## Credits
 * [Vanilla Tweaks](https://vanillatweaks.net/)
-	* Craftable Name Tag
 	* Craftable Gravel
 	* Rotten Flesh to Leather
 	* Craftable Coral Blocks 2x2
