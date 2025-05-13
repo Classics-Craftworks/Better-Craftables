@@ -7,7 +7,7 @@
     ],
     "key": {
         "P": "#minecraft:planks",
-        "#": "#crafting:alternate_stones",
+        "#": "#crafting:alternative_stones",
         "I": "minecraft:iron_ingot",
         "R": "minecraft:redstone"
     },

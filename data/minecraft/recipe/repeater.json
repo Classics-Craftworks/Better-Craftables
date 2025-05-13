@@ -5,7 +5,7 @@
         "###"
     ],
     "key": {
-        "#": "#crafting:alternate_stones",
+        "#": "#crafting:alternative_stones",
         "T": "minecraft:redstone_torch",
         "R": "minecraft:redstone"
     },
