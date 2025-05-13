@@ -1,15 +1,12 @@
 {
     "type": "minecraft:crafting_shaped",
     "pattern": [
-        "S",
+        "H",
         "P"
     ],
     "key": {
-        "P": "minecraft:piston",
-        "S": [
-                "minecraft:slime_ball",
-                "minecraft:honey_bottle"
-        ]
+        "H": "minecraft:honey_bottle",
+        "P": "minecraft:piston"
     },
     "result": {
         "id": "minecraft:sticky_piston",
