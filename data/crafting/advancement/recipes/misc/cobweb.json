@@ -2,7 +2,7 @@
     "parent": "minecraft:recipes/root",
     "rewards": {
         "recipes": [
-            "crafting:string_to_cobweb"
+            "crafting:cobweb"
         ]
     },
     "criteria": {
@@ -19,7 +19,7 @@
         "has_recipe": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
-                "recipe": "crafting:string"
+                "recipe": "crafting:cobweb"
             }
         }
     },
