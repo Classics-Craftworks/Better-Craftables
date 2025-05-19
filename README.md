@@ -13,7 +13,7 @@ A Minecraft data pack and mod that adds some quality-of-life crafting and smelti
 
 ## Overview
 
-Better Craftables, available as a data pack, a Fabric/Quilt mod and a Forge/NeoForge mod, enhances the vanilla Minecraft experience with recipes such as:
+Better Craftables, available as a data pack and a Fabric, Quilt, Forge & NeoForge mod, enhances the vanilla Minecraft experience with recipes such as:
 
 * Craftable Name Tags & Bells
 * Raw Ore Block smelting
