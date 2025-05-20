@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "QD",
+        "DQ"
+    ],
+    "key": {
+        "Q": "minecraft:quartz",
+        "D": "minecraft:dripstone_block"
+    },
+    "result": {
+        "id": "minecraft:calcite",
+        "count": 2
+    }
+}
