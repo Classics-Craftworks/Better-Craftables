@@ -4,7 +4,7 @@ license="MIT"
 
 [[mods]]
 modId="better_craftables"
-version="5.0.0-pre"
+version="5.0.0"
 displayName="Better Craftables"
 logoFile="pack.png"
 displayURL="https://modrinth.com/datapack/better-craftables"
