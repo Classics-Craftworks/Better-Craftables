@@ -2,7 +2,8 @@
     "parent": "minecraft:recipes/root",
     "rewards": {
         "recipes": [
-            "crafting:alt_recovery_compass"
+            "crafting:alt_recovery_compass_1",
+            "crafting:alt_recovery_compass_2"
         ]
     },
     "criteria": {
@@ -29,7 +30,7 @@
         "has_recipe": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
-                "recipe": "crafting:alt_recovery_compass"
+                "recipe": "crafting:alt_recovery_compass_1"
             }
         }
     },
