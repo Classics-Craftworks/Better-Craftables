@@ -1,14 +1,10 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "pattern": [
-        " R ",
-        "RDR",
-        " R "
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+            "minecraft:hanging_roots",
+            "minecraft:hanging_roots",
+            "minecraft:dirt"
     ],
-    "key": {
-        "R": "minecraft:hanging_roots",
-        "D": "minecraft:dirt"
-    },
     "result": {
         "id": "minecraft:rooted_dirt",
         "count": 1
