@@ -1,0 +1,53 @@
+{
+	"parent": "minecraft:recipes/root",
+	"criteria": {
+		"has_block": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": "#redyeing:stained_glass"
+					}
+				]
+			}
+		},
+		"has_dye": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": "#redyeing:dyes"
+					}
+				]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"has_block"
+		],
+		[
+			"has_dye"
+		]
+	],
+	"rewards": {
+		"recipes": [
+			"redyeing:black_stained_glass",
+  			"redyeing:blue_stained_glass",
+  			"redyeing:brown_stained_glass",
+  			"redyeing:cyan_stained_glass",
+  			"redyeing:gray_stained_glass",
+  			"redyeing:green_stained_glass",
+  			"redyeing:light_blue_stained_glass",
+  			"redyeing:light_gray_stained_glass",
+  			"redyeing:lime_stained_glass",
+  			"redyeing:magenta_stained_glass",
+  			"redyeing:orange_stained_glass",
+  			"redyeing:pink_stained_glass",
+  			"redyeing:purple_stained_glass",
+  			"redyeing:red_stained_glass",
+  			"redyeing:white_stained_glass",
+  			"redyeing:yellow_stained_glass"
+		]
+	}
+}
