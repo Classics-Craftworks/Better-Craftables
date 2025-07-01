@@ -50,6 +50,7 @@ Found a bug or have an idea?
 	* Craftable Gravel
 	* Rotten Flesh to Leather
 	* Craftable Coral Blocks 2x2
+	* Universal Dyeing
 
 A full list of contributors is available [here](https://github.com/Classic36-Media/Better-Craftables/wiki/Credits).
 
