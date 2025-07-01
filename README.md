@@ -19,6 +19,7 @@ Better Craftables, available as a data pack and a Fabric, Quilt, Forge & NeoForg
 * Raw Ore Block smelting
 * Alternative recipes for Recovery Compasses and Sticky Pistons
 * Cheaper recipes for Smithing Templates
+* Redyeing recipes for Candles, Concrete, Terracotta and more (v5.2.0+)
 
 Check out the [Crafting Recipes](https://github.com/Classic36-Media/Better-Craftables/wiki/Crafting-Recipes) and [Smelting Recipes](https://github.com/Classic36-Media/Better-Craftables/wiki/Smelting-Recipes) pages on the wiki for a full list!
 
