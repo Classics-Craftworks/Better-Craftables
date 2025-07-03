@@ -1,43 +1,43 @@
 {
-	"parent": "minecraft:recipes/root",
-	"rewards": {
-		"recipes": [
-			"crafting:fire_coral_block"
-		]
-	},
-	"criteria": {
-		"has_coral": {
-			"trigger": "minecraft:inventory_changed",
-			"conditions": {
-				"items": [
-					{
-						"items": "minecraft:fire_coral"
-					}
-				]
-			}
-		},
-		"has_fan": {
-			"trigger": "minecraft:inventory_changed",
-			"conditions": {
-				"items": [
-					{
-						"items": "minecraft:fire_coral_fan"
-					}
-				]
-			}
-		},
-		"has_recipe": {
+    "parent": "minecraft:recipes/root",
+    "rewards": {
+        "recipes": [
+            "crafting:fire_coral_block"
+        ]
+    },
+    "criteria": {
+        "has_coral": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:fire_coral"
+                    }
+                ]
+            }
+        },
+        "has_fan": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:fire_coral_fan"
+                    }
+                ]
+            }
+        },
+        "has_recipe": {
 			"trigger": "minecraft:recipe_unlocked",
 			"conditions": {
-				"recipe": "crafting:fire_coral_block"
-			}
-		}
-	},
-	"requirements": [
-		[
+                "recipe": "crafting:fire_coral_block"
+            }
+        }
+    },
+    "requirements": [
+        [
 			"has_coral",
 			"has_fan",
 			"has_recipe"
-		]
-	]
+        ]
+    ]
 }
