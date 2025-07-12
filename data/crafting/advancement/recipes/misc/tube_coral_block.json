@@ -27,17 +27,17 @@
             }
         },
         "has_recipe": {
-			"trigger": "minecraft:recipe_unlocked",
-			"conditions": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
                 "recipe": "crafting:tube_coral_block"
             }
         }
     },
     "requirements": [
         [
-			"has_coral",
-			"has_fan",
-			"has_recipe"
+            "has_coral",
+            "has_fan",
+            "has_recipe"
         ]
     ]
 }

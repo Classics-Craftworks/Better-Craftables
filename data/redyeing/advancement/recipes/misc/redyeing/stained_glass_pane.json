@@ -1,53 +1,53 @@
 {
-	"parent": "minecraft:recipes/root",
-	"criteria": {
-		"has_block": {
-			"trigger": "minecraft:inventory_changed",
-			"conditions": {
-				"items": [
-					{
-						"items": "#redyeing:stained_glass_pane"
-					}
-				]
-			}
-		},
-		"has_dye": {
-			"trigger": "minecraft:inventory_changed",
-			"conditions": {
-				"items": [
-					{
-						"items": "#redyeing:dyes"
-					}
-				]
-			}
-		}
-	},
-	"requirements": [
-		[
-			"has_block"
-		],
-		[
-			"has_dye"
-		]
-	],
-	"rewards": {
-		"recipes": [
-			"redyeing:black_stained_glass_pane",
-  			"redyeing:blue_stained_glass_pane",
-  			"redyeing:brown_stained_glass_pane",
-  			"redyeing:cyan_stained_glass_pane",
-  			"redyeing:gray_stained_glass_pane",
-  			"redyeing:green_stained_glass_pane",
-  			"redyeing:light_blue_stained_glass_pane",
-  			"redyeing:light_gray_stained_glass_pane",
-  			"redyeing:lime_stained_glass_pane",
-  			"redyeing:magenta_stained_glass_pane",
-  			"redyeing:orange_stained_glass_pane",
-  			"redyeing:pink_stained_glass_pane",
-  			"redyeing:purple_stained_glass_pane",
-  			"redyeing:red_stained_glass_pane",
-  			"redyeing:white_stained_glass_pane",
-  			"redyeing:yellow_stained_glass_pane"
-		]
-	}
+    "parent": "minecraft:recipes/root",
+    "criteria": {
+        "has_block": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": "#redyeing:stained_glass_pane"
+                    }
+                ]
+            }
+        },
+        "has_dye": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": "#redyeing:dyes"
+                    }
+                ]
+            }
+        }
+    },
+    "requirements": [
+        [
+            "has_block"
+        ],
+        [
+            "has_dye"
+        ]
+    ],
+    "rewards": {
+        "recipes": [
+            "redyeing:black_stained_glass_pane",
+            "redyeing:blue_stained_glass_pane",
+            "redyeing:brown_stained_glass_pane",
+            "redyeing:cyan_stained_glass_pane",
+            "redyeing:gray_stained_glass_pane",
+            "redyeing:green_stained_glass_pane",
+            "redyeing:light_blue_stained_glass_pane",
+            "redyeing:light_gray_stained_glass_pane",
+            "redyeing:lime_stained_glass_pane",
+            "redyeing:magenta_stained_glass_pane",
+            "redyeing:orange_stained_glass_pane",
+            "redyeing:pink_stained_glass_pane",
+            "redyeing:purple_stained_glass_pane",
+            "redyeing:red_stained_glass_pane",
+            "redyeing:white_stained_glass_pane",
+            "redyeing:yellow_stained_glass_pane"
+        ]
+    }
 }

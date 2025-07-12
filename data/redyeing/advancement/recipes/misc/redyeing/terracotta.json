@@ -1,53 +1,53 @@
 {
-	"parent": "minecraft:recipes/root",
-	"criteria": {
-		"has_block": {
-			"trigger": "minecraft:inventory_changed",
-			"conditions": {
-				"items": [
-					{
-						"items": "#redyeing:terracotta"
-					}
-				]
-			}
-		},
-		"has_dye": {
-			"trigger": "minecraft:inventory_changed",
-			"conditions": {
-				"items": [
-					{
-						"items": "#redyeing:dyes"
-					}
-				]
-			}
-		}
-	},
-	"requirements": [
-		[
-			"has_block"
-		],
-		[
-			"has_dye"
-		]
-	],
-	"rewards": {
-		"recipes": [
-			"redyeing:black_terracotta",
-  			"redyeing:blue_terracotta",
-  			"redyeing:brown_terracotta",
-  			"redyeing:cyan_terracotta",
-  			"redyeing:gray_terracotta",
-  			"redyeing:green_terracotta",
-  			"redyeing:light_blue_terracotta",
-  			"redyeing:light_gray_terracotta",
-  			"redyeing:lime_terracotta",
-  			"redyeing:magenta_terracotta",
-  			"redyeing:orange_terracotta",
-  			"redyeing:pink_terracotta",
-  			"redyeing:purple_terracotta",
-  			"redyeing:red_terracotta",
-  			"redyeing:white_terracotta",
-  			"redyeing:yellow_terracotta"
-		]
-	}
+    "parent": "minecraft:recipes/root",
+    "criteria": {
+        "has_block": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": "#redyeing:terracotta"
+                    }
+                ]
+            }
+        },
+        "has_dye": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": "#redyeing:dyes"
+                    }
+                ]
+            }
+        }
+    },
+    "requirements": [
+        [
+            "has_block"
+        ],
+        [
+            "has_dye"
+        ]
+    ],
+    "rewards": {
+        "recipes": [
+            "redyeing:black_terracotta",
+            "redyeing:blue_terracotta",
+            "redyeing:brown_terracotta",
+            "redyeing:cyan_terracotta",
+            "redyeing:gray_terracotta",
+            "redyeing:green_terracotta",
+            "redyeing:light_blue_terracotta",
+            "redyeing:light_gray_terracotta",
+            "redyeing:lime_terracotta",
+            "redyeing:magenta_terracotta",
+            "redyeing:orange_terracotta",
+            "redyeing:pink_terracotta",
+            "redyeing:purple_terracotta",
+            "redyeing:red_terracotta",
+            "redyeing:white_terracotta",
+            "redyeing:yellow_terracotta"
+        ]
+    }
 }

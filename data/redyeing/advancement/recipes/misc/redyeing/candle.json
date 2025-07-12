@@ -1,53 +1,53 @@
 {
-	"parent": "minecraft:recipes/root",
-	"criteria": {
-		"has_block": {
-			"trigger": "minecraft:inventory_changed",
-			"conditions": {
-				"items": [
-					{
-						"items": "#minecraft:candles"
-					}
-				]
-			}
-		},
-		"has_dye": {
-			"trigger": "minecraft:inventory_changed",
-			"conditions": {
-				"items": [
-					{
-						"items": "#redyeing:dyes"
-					}
-				]
-			}
-		}
-	},
-	"requirements": [
-		[
-			"has_block"
-		],
-		[
-			"has_dye"
-		]
-	],
-	"rewards": {
-		"recipes": [
-			"redyeing:black_candle",
-  			"redyeing:blue_candle",
-  			"redyeing:brown_candle",
-  			"redyeing:cyan_candle",
-  			"redyeing:gray_candle",
-  			"redyeing:green_candle",
-  			"redyeing:light_blue_candle",
-  			"redyeing:light_gray_candle",
-  			"redyeing:lime_candle",
-  			"redyeing:magenta_candle",
-  			"redyeing:orange_candle",
-  			"redyeing:pink_candle",
-  			"redyeing:purple_candle",
-  			"redyeing:red_candle",
-  			"redyeing:white_candle",
-  			"redyeing:yellow_candle"
-		]
-	}
+    "parent": "minecraft:recipes/root",
+    "criteria": {
+        "has_block": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": "#minecraft:candles"
+                    }
+                ]
+            }
+        },
+        "has_dye": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": "#redyeing:dyes"
+                    }
+                ]
+            }
+        }
+    },
+    "requirements": [
+        [
+            "has_block"
+        ],
+        [
+            "has_dye"
+        ]
+    ],
+    "rewards": {
+        "recipes": [
+            "redyeing:black_candle",
+            "redyeing:blue_candle",
+            "redyeing:brown_candle",
+            "redyeing:cyan_candle",
+            "redyeing:gray_candle",
+            "redyeing:green_candle",
+            "redyeing:light_blue_candle",
+            "redyeing:light_gray_candle",
+            "redyeing:lime_candle",
+            "redyeing:magenta_candle",
+            "redyeing:orange_candle",
+            "redyeing:pink_candle",
+            "redyeing:purple_candle",
+            "redyeing:red_candle",
+            "redyeing:white_candle",
+            "redyeing:yellow_candle"
+        ]
+    }
 }

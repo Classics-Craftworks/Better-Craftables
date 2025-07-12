@@ -1,32 +1,32 @@
 {
-	"parent": "minecraft:recipes/root",
-	"rewards": {
-		"recipes": [
-			"smelting:leather"
-		]
-	},
-	"criteria": {
-		"has_flesh": {
-			"trigger": "minecraft:inventory_changed",
-			"conditions": {
-				"items": [
-					{
-						"items": "minecraft:rotten_flesh"
-					}
-				]
-			}
-		},
-		"has_recipe": {
-			"trigger": "minecraft:recipe_unlocked",
-			"conditions": {
-				"recipe": "smelting:leather"
-			}
-		}
-	},
-	"requirements": [
-		[
-			"has_flesh",
-			"has_recipe"
-		]
-	]
+    "parent": "minecraft:recipes/root",
+    "rewards": {
+        "recipes": [
+            "smelting:leather"
+        ]
+    },
+    "criteria": {
+        "has_flesh": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": "minecraft:rotten_flesh"
+                    }
+                ]
+            }
+        },
+        "has_recipe": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "smelting:leather"
+            }
+        }
+    },
+    "requirements": [
+        [
+            "has_flesh",
+            "has_recipe"
+        ]
+    ]
 }

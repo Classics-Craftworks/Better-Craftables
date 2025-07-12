@@ -1,53 +1,53 @@
 {
-	"parent": "minecraft:recipes/root",
-	"criteria": {
-		"has_block": {
-			"trigger": "minecraft:inventory_changed",
-			"conditions": {
-				"items": [
-					{
-						"items": "#redyeing:glazed_terracotta"
-					}
-				]
-			}
-		},
-		"has_dye": {
-			"trigger": "minecraft:inventory_changed",
-			"conditions": {
-				"items": [
-					{
-						"items": "#redyeing:dyes"
-					}
-				]
-			}
-		}
-	},
-	"requirements": [
-		[
-			"has_block"
-		],
-		[
-			"has_dye"
-		]
-	],
-	"rewards": {
-		"recipes": [
-			"redyeing:black_glazed_terracotta",
-  			"redyeing:blue_glazed_terracotta",
-  			"redyeing:brown_glazed_terracotta",
-  			"redyeing:cyan_glazed_terracotta",
-  			"redyeing:gray_glazed_terracotta",
-  			"redyeing:green_glazed_terracotta",
-  			"redyeing:light_blue_glazed_terracotta",
-  			"redyeing:light_gray_glazed_terracotta",
-  			"redyeing:lime_glazed_terracotta",
-  			"redyeing:magenta_glazed_terracotta",
-  			"redyeing:orange_glazed_terracotta",
-  			"redyeing:pink_glazed_terracotta",
-  			"redyeing:purple_glazed_terracotta",
-  			"redyeing:red_glazed_terracotta",
-  			"redyeing:white_glazed_terracotta",
-  			"redyeing:yellow_glazed_terracotta"
-		]
-	}
+    "parent": "minecraft:recipes/root",
+    "criteria": {
+        "has_block": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": "#redyeing:glazed_terracotta"
+                    }
+                ]
+            }
+        },
+        "has_dye": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": "#redyeing:dyes"
+                    }
+                ]
+            }
+        }
+    },
+    "requirements": [
+        [
+            "has_block"
+        ],
+        [
+            "has_dye"
+        ]
+    ],
+    "rewards": {
+        "recipes": [
+            "redyeing:black_glazed_terracotta",
+            "redyeing:blue_glazed_terracotta",
+            "redyeing:brown_glazed_terracotta",
+            "redyeing:cyan_glazed_terracotta",
+            "redyeing:gray_glazed_terracotta",
+            "redyeing:green_glazed_terracotta",
+            "redyeing:light_blue_glazed_terracotta",
+            "redyeing:light_gray_glazed_terracotta",
+            "redyeing:lime_glazed_terracotta",
+            "redyeing:magenta_glazed_terracotta",
+            "redyeing:orange_glazed_terracotta",
+            "redyeing:pink_glazed_terracotta",
+            "redyeing:purple_glazed_terracotta",
+            "redyeing:red_glazed_terracotta",
+            "redyeing:white_glazed_terracotta",
+            "redyeing:yellow_glazed_terracotta"
+        ]
+    }
 }
