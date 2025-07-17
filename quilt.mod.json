@@ -3,7 +3,7 @@
   "quilt_loader": {
     "group": "org.classic36media",
     "id": "better_craftables",
-    "version": "5.3.0-pre",
+    "version": "5.3.0",
     "metadata": {
       "name": "Better Craftables",
       "description": "Adds some quality-of-life crafting and smelting recipes to the game.",
