@@ -4,7 +4,7 @@
             "minecraft:diamond",
             "minecraft:diamond",
             "minecraft:diamond",
-            "minecraft:copper_block",
+            "#minecraft:copper_blocks",
             "minecraft:bolt_armor_trim_smithing_template"
     ],
     "result": {
