@@ -1,15 +1,12 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "pattern": [
-        " T ",
-        " B ",
-        "DDD"
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+            "minecraft:diamond",
+            "minecraft:diamond",
+            "minecraft:diamond",
+            "minecraft:blackstone",
+            "minecraft:snout_armor_trim_smithing_template"
     ],
-    "key": {
-        "D": "minecraft:diamond",
-        "B": "minecraft:blackstone",
-        "T": "minecraft:snout_armor_trim_smithing_template"
-    },
     "result": {
         "id": "minecraft:snout_armor_trim_smithing_template",
         "count": 2

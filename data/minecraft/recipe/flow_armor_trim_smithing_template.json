@@ -1,15 +1,12 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "pattern": [
-        " T ",
-        " B ",
-        "DDD"
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+            "minecraft:diamond",
+            "minecraft:diamond",
+            "minecraft:diamond",
+            "minecraft:breeze_rod",
+            "minecraft:flow_armor_trim_smithing_template"
     ],
-    "key": {
-        "D": "minecraft:diamond",
-        "B": "minecraft:breeze_rod",
-        "T": "minecraft:flow_armor_trim_smithing_template"
-    },
     "result": {
         "id": "minecraft:flow_armor_trim_smithing_template",
         "count": 2

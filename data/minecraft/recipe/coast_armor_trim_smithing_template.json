@@ -1,15 +1,12 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "pattern": [
-        " T ",
-        " B ",
-        "DDD"
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+            "minecraft:diamond",
+            "minecraft:diamond",
+            "minecraft:diamond",
+            "minecraft:cobblestone",
+            "minecraft:coast_armor_trim_smithing_template"
     ],
-    "key": {
-        "D": "minecraft:diamond",
-        "B": "minecraft:cobblestone",
-        "T": "minecraft:coast_armor_trim_smithing_template"
-    },
     "result": {
         "id": "minecraft:coast_armor_trim_smithing_template",
         "count": 2
