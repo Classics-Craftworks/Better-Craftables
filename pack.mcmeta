@@ -1,9 +1,7 @@
 {
 	"pack":{
-		"pack_format": 80,
-		"supported_formats": {"min_inclusive": 80, "max_inclusive": 82},
 		"min_format": 82,
 		"max_format": 82,
-		"description": "§6Better Craftables\n§7v5.4.0 §8/ §f1.21.6-25w31a"
+		"description": "§6Better Craftables\n§7v6.0.0-b1 §8/ §f25w31a"
 	}
 }
