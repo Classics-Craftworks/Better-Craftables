@@ -5,7 +5,7 @@
         "P P"
     ],
     "key": {
-        "#": "#crafting:alternative_stone_slabs",
+        "#": "#minecraft:alternative_stone_slabs",
         "/": "minecraft:stick",
         "P": "#minecraft:planks"
     },

@@ -6,7 +6,7 @@
     ],
     "key": {
         "/": "minecraft:blaze_rod",
-        "#": "#crafting:alternative_stones"
+        "#": "#minecraft:alternative_stones"
     },
     "result": {
         "id": "minecraft:brewing_stand",
