@@ -2,7 +2,7 @@
     "parent": "minecraft:recipes/root",
     "rewards": {
         "recipes": [
-            "crafting:fire_coral_block"
+            "new_recipes:brain_coral_block"
         ]
     },
     "criteria": {
@@ -11,7 +11,7 @@
             "conditions": {
                 "items": [
                     {
-                        "item": "minecraft:fire_coral"
+                        "item": "minecraft:brain_coral"
                     }
                 ]
             }
@@ -21,7 +21,7 @@
             "conditions": {
                 "items": [
                     {
-                        "item": "minecraft:fire_coral_fan"
+                        "item": "minecraft:brain_coral_fan"
                     }
                 ]
             }
@@ -29,7 +29,7 @@
         "has_recipe": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
-                "recipe": "crafting:fire_coral_block"
+                "recipe": "new_recipes:brain_coral_block"
             }
         }
     },

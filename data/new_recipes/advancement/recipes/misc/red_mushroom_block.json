@@ -2,16 +2,16 @@
     "parent": "minecraft:recipes/root",
     "rewards": {
         "recipes": [
-            "crafting:cobweb"
+            "new_recipes:red_mushroom_block"
         ]
     },
     "criteria": {
-        "has_string": {
+        "has_mushrooms": {
             "trigger": "minecraft:inventory_changed",
             "conditions": {
                 "items": [
                     {
-                        "item": "minecraft:string"
+                        "item": "minecraft:red_mushroom"
                     }
                 ]
             }
@@ -19,13 +19,13 @@
         "has_recipe": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
-                "recipe": "crafting:cobweb"
+                "recipe": "new_recipes:red_mushroom_block"
             }
         }
     },
     "requirements": [
         [
-            "has_string",
+            "has_mushrooms",
             "has_recipe"
         ]
     ]

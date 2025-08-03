@@ -2,7 +2,7 @@
     "parent": "minecraft:recipes/root",
     "rewards": {
         "recipes": [
-            "crafting:horn_coral_block"
+            "new_recipes:horn_coral_block"
         ]
     },
     "criteria": {
@@ -29,7 +29,7 @@
         "has_recipe": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
-                "recipe": "crafting:horn_coral_block"
+                "recipe": "new_recipes:horn_coral_block"
             }
         }
     },

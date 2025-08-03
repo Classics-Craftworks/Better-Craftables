@@ -2,26 +2,16 @@
     "parent": "minecraft:recipes/root",
     "rewards": {
         "recipes": [
-            "crafting:calcite"
+            "new_recipes:cobweb"
         ]
     },
     "criteria": {
-        "has_dripstone_block": {
+        "has_string": {
             "trigger": "minecraft:inventory_changed",
             "conditions": {
                 "items": [
                     {
-                        "item": "minecraft:dripstone_block"
-                    }
-                ]
-            }
-        },
-        "has_quartz": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:quartz"
+                        "item": "minecraft:string"
                     }
                 ]
             }
@@ -29,14 +19,13 @@
         "has_recipe": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
-                "recipe": "crafting:calcite"
+                "recipe": "new_recipes:cobweb"
             }
         }
     },
     "requirements": [
         [
-            "has_dripstone_block",
-            "has_quartz",
+            "has_string",
             "has_recipe"
         ]
     ]

@@ -2,26 +2,26 @@
     "parent": "minecraft:recipes/root",
     "rewards": {
         "recipes": [
-            "crafting:bubble_coral_block"
+            "new_recipes:calcite"
         ]
     },
     "criteria": {
-        "has_coral": {
+        "has_dripstone_block": {
             "trigger": "minecraft:inventory_changed",
             "conditions": {
                 "items": [
                     {
-                        "item": "minecraft:bubble_coral"
+                        "item": "minecraft:dripstone_block"
                     }
                 ]
             }
         },
-        "has_fan": {
+        "has_quartz": {
             "trigger": "minecraft:inventory_changed",
             "conditions": {
                 "items": [
                     {
-                        "item": "minecraft:bubble_coral_fan"
+                        "item": "minecraft:quartz"
                     }
                 ]
             }
@@ -29,14 +29,14 @@
         "has_recipe": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
-                "recipe": "crafting:bubble_coral_block"
+                "recipe": "new_recipes:calcite"
             }
         }
     },
     "requirements": [
         [
-            "has_coral",
-            "has_fan",
+            "has_dripstone_block",
+            "has_quartz",
             "has_recipe"
         ]
     ]

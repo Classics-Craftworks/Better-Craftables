@@ -2,26 +2,26 @@
     "parent": "minecraft:recipes/root",
     "rewards": {
         "recipes": [
-            "crafting:tube_coral_block"
+            "new_recipes:gilded_blackstone"
         ]
     },
     "criteria": {
-        "has_coral": {
+        "has_gold_nugget": {
             "trigger": "minecraft:inventory_changed",
             "conditions": {
                 "items": [
                     {
-                        "item": "minecraft:tube_coral"
+                        "item": "minecraft:gold_nugget"
                     }
                 ]
             }
         },
-        "has_fan": {
+        "has_blackstone": {
             "trigger": "minecraft:inventory_changed",
             "conditions": {
                 "items": [
                     {
-                        "item": "minecraft:tube_coral_fan"
+                        "item": "minecraft:blackstone"
                     }
                 ]
             }
@@ -29,14 +29,14 @@
         "has_recipe": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
-                "recipe": "crafting:tube_coral_block"
+                "recipe": "new_recipes:gilded_blackstone"
             }
         }
     },
     "requirements": [
         [
-            "has_coral",
-            "has_fan",
+            "has_gold_nugget",
+            "has_blackstone",
             "has_recipe"
         ]
     ]

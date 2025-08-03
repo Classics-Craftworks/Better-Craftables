@@ -2,36 +2,26 @@
     "parent": "minecraft:recipes/root",
     "rewards": {
         "recipes": [
-            "crafting:bell"
+            "new_recipes:rooted_dirt"
         ]
     },
     "criteria": {
-        "has_gold_ingot": {
+        "has_roots": {
             "trigger": "minecraft:inventory_changed",
             "conditions": {
                 "items": [
                     {
-                        "item": "minecraft:gold_ingot"
+                        "item": "minecraft:hanging_roots"
                     }
                 ]
             }
         },
-        "has_gold_nugget": {
+        "has_dirt": {
             "trigger": "minecraft:inventory_changed",
             "conditions": {
                 "items": [
                     {
-                        "item": "minecraft:gold_nugget"
-                    }
-                ]
-            }
-        },
-        "has_stick": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:stick"
+                        "item": "minecraft:dirt"
                     }
                 ]
             }
@@ -39,15 +29,14 @@
         "has_recipe": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
-                "recipe": "crafting:bell"
+                "recipe": "new_recipes:rooted_dirt"
             }
         }
     },
     "requirements": [
         [
-            "has_gold_ingot",
-            "has_gold_nugget",
-            "has_stick",
+            "has_roots",
+            "has_dirt",
             "has_recipe"
         ]
     ]

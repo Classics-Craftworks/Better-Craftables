@@ -2,26 +2,36 @@
     "parent": "minecraft:recipes/root",
     "rewards": {
         "recipes": [
-            "crafting:gilded_blackstone"
+            "new_recipes:name_tag"
         ]
     },
     "criteria": {
-        "has_gold_nugget": {
+        "has_paper": {
             "trigger": "minecraft:inventory_changed",
             "conditions": {
                 "items": [
                     {
-                        "item": "minecraft:gold_nugget"
+                        "item": "minecraft:paper"
                     }
                 ]
             }
         },
-        "has_blackstone": {
+        "has_iron_nugget": {
             "trigger": "minecraft:inventory_changed",
             "conditions": {
                 "items": [
                     {
-                        "item": "minecraft:blackstone"
+                        "item": "minecraft:iron_nugget"
+                    }
+                ]
+            }
+        },
+        "has_string": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:string"
                     }
                 ]
             }
@@ -29,14 +39,15 @@
         "has_recipe": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
-                "recipe": "crafting:gilded_blackstone"
+                "recipe": "new_recipes:name_tag"
             }
         }
     },
     "requirements": [
         [
-            "has_gold_nugget",
-            "has_blackstone",
+            "has_paper",
+            "has_iron_nugget",
+            "has_string",
             "has_recipe"
         ]
     ]

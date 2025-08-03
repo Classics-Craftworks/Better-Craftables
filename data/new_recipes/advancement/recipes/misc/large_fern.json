@@ -2,16 +2,16 @@
     "parent": "minecraft:recipes/root",
     "rewards": {
         "recipes": [
-            "crafting:brown_mushroom_block"
+            "new_recipes:large_fern"
         ]
     },
     "criteria": {
-        "has_mushrooms": {
+        "has_fern": {
             "trigger": "minecraft:inventory_changed",
             "conditions": {
                 "items": [
                     {
-                        "item": "minecraft:brown_mushroom"
+                        "item": "minecraft:fern"
                     }
                 ]
             }
@@ -19,13 +19,13 @@
         "has_recipe": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
-                "recipe": "crafting:brown_mushroom_block"
+                "recipe": "new_recipes:large_fern"
             }
         }
     },
     "requirements": [
         [
-            "has_mushrooms",
+            "has_fern",
             "has_recipe"
         ]
     ]

@@ -2,16 +2,26 @@
     "parent": "minecraft:recipes/root",
     "rewards": {
         "recipes": [
-            "crafting:large_fern"
+            "new_recipes:fire_coral_block"
         ]
     },
     "criteria": {
-        "has_fern": {
+        "has_coral": {
             "trigger": "minecraft:inventory_changed",
             "conditions": {
                 "items": [
                     {
-                        "item": "minecraft:fern"
+                        "item": "minecraft:fire_coral"
+                    }
+                ]
+            }
+        },
+        "has_fan": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:fire_coral_fan"
                     }
                 ]
             }
@@ -19,13 +29,14 @@
         "has_recipe": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
-                "recipe": "crafting:large_fern"
+                "recipe": "new_recipes:fire_coral_block"
             }
         }
     },
     "requirements": [
         [
-            "has_fern",
+            "has_coral",
+            "has_fan",
             "has_recipe"
         ]
     ]

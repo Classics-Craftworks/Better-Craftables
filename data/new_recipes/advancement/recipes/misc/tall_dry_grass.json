@@ -2,16 +2,16 @@
     "parent": "minecraft:recipes/root",
     "rewards": {
         "recipes": [
-            "crafting:tall_grass"
+            "new_recipes:tall_dry_grass"
         ]
     },
     "criteria": {
-        "has_short_grass": {
+        "has_short_dry_grass": {
             "trigger": "minecraft:inventory_changed",
             "conditions": {
                 "items": [
                     {
-                        "item": "minecraft:short_grass"
+                        "item": "minecraft:short_dry_grass"
                     }
                 ]
             }
@@ -19,13 +19,13 @@
         "has_recipe": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
-                "recipe": "crafting:tall_grass"
+                "recipe": "new_recipes:tall_dry_grass"
             }
         }
     },
     "requirements": [
         [
-            "has_short_grass",
+            "has_short_dry_grass",
             "has_recipe"
         ]
     ]

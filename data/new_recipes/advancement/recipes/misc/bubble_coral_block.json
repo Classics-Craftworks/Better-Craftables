@@ -2,26 +2,26 @@
     "parent": "minecraft:recipes/root",
     "rewards": {
         "recipes": [
-            "crafting:rooted_dirt"
+            "new_recipes:bubble_coral_block"
         ]
     },
     "criteria": {
-        "has_roots": {
+        "has_coral": {
             "trigger": "minecraft:inventory_changed",
             "conditions": {
                 "items": [
                     {
-                        "item": "minecraft:hanging_roots"
+                        "item": "minecraft:bubble_coral"
                     }
                 ]
             }
         },
-        "has_dirt": {
+        "has_fan": {
             "trigger": "minecraft:inventory_changed",
             "conditions": {
                 "items": [
                     {
-                        "item": "minecraft:dirt"
+                        "item": "minecraft:bubble_coral_fan"
                     }
                 ]
             }
@@ -29,14 +29,14 @@
         "has_recipe": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
-                "recipe": "crafting:rooted_dirt"
+                "recipe": "new_recipes:bubble_coral_block"
             }
         }
     },
     "requirements": [
         [
-            "has_roots",
-            "has_dirt",
+            "has_coral",
+            "has_fan",
             "has_recipe"
         ]
     ]

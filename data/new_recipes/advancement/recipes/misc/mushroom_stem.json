@@ -2,26 +2,22 @@
     "parent": "minecraft:recipes/root",
     "rewards": {
         "recipes": [
-            "crafting:brain_coral_block"
+            "new_recipes:mushroom_stem_1",
+            "new_recipes:mushroom_stem_2",
+            "new_recipes:mushroom_stem_3",
+            "new_recipes:mushroom_stem_4"
         ]
     },
     "criteria": {
-        "has_coral": {
+        "has_mushrooms": {
             "trigger": "minecraft:inventory_changed",
             "conditions": {
                 "items": [
                     {
-                        "item": "minecraft:brain_coral"
-                    }
-                ]
-            }
-        },
-        "has_fan": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
+                        "item": "minecraft:red_mushroom"
+                    },
                     {
-                        "item": "minecraft:brain_coral_fan"
+                        "item": "minecraft:brown_mushroom"
                     }
                 ]
             }
@@ -29,14 +25,13 @@
         "has_recipe": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
-                "recipe": "crafting:brain_coral_block"
+                "recipe": "new_recipes:mushroom_stem_1"
             }
         }
     },
     "requirements": [
         [
-            "has_coral",
-            "has_fan",
+            "has_mushrooms",
             "has_recipe"
         ]
     ]

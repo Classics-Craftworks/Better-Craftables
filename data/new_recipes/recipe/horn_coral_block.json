@@ -5,7 +5,7 @@
         "##"
     ],
     "key": {
-        "#": "#crafting:horn_coral"
+        "#": "#new_recipes:horn_coral"
     },
     "result": {
         "id": "minecraft:horn_coral_block",
