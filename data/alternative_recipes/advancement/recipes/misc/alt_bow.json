@@ -2,20 +2,10 @@
     "parent": "minecraft:recipes/root",
     "rewards": {
         "recipes": [
-            "crafting:rabbit_hide_bundle"
+            "alternative_recipes:alt_bow"
         ]
     },
     "criteria": {
-        "has_rabbit_hide": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:rabbit_hide"
-                    }
-                ]
-            }
-        },
         "has_string": {
             "trigger": "minecraft:inventory_changed",
             "conditions": {
@@ -26,17 +16,27 @@
                 ]
             }
         },
+        "has_stick": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:stick"
+                    }
+                ]
+            }
+        },
         "has_recipe": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
-                "recipe": "crafting:rabbit_hide_bundle"
+                "recipe": "alternative_recipes:alt_bow"
             }
         }
     },
     "requirements": [
         [
-            "has_rabbit_hide",
             "has_string",
+            "has_stick",
             "has_recipe"
         ]
     ]

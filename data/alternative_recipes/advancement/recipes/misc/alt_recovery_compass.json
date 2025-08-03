@@ -2,26 +2,27 @@
     "parent": "minecraft:recipes/root",
     "rewards": {
         "recipes": [
-            "crafting:alt_bow"
+            "alternative_recipes:alt_recovery_compass_1",
+            "alternative_recipes:alt_recovery_compass_2"
         ]
     },
     "criteria": {
-        "has_string": {
+        "has_diamond": {
             "trigger": "minecraft:inventory_changed",
             "conditions": {
                 "items": [
                     {
-                        "item": "minecraft:string"
+                        "item": "minecraft:diamond"
                     }
                 ]
             }
         },
-        "has_stick": {
+        "has_iron_ingot": {
             "trigger": "minecraft:inventory_changed",
             "conditions": {
                 "items": [
                     {
-                        "item": "minecraft:stick"
+                        "item": "minecraft:iron_ingot"
                     }
                 ]
             }
@@ -29,14 +30,14 @@
         "has_recipe": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
-                "recipe": "crafting:alt_bow"
+                "recipe": "alternative_recipes:alt_recovery_compass_1"
             }
         }
     },
     "requirements": [
         [
-            "has_string",
-            "has_stick",
+            "has_diamond",
+            "has_iron_ingot",
             "has_recipe"
         ]
     ]

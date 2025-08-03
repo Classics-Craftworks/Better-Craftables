@@ -2,26 +2,26 @@
     "parent": "minecraft:recipes/root",
     "rewards": {
         "recipes": [
-            "crafting:honey_bottle_sticky_piston"
+            "alternative_recipes:rabbit_hide_bundle"
         ]
     },
     "criteria": {
-        "has_piston": {
+        "has_rabbit_hide": {
             "trigger": "minecraft:inventory_changed",
             "conditions": {
                 "items": [
                     {
-                        "item": "minecraft:piston"
+                        "item": "minecraft:rabbit_hide"
                     }
                 ]
             }
         },
-        "has_honey_bottle": {
+        "has_string": {
             "trigger": "minecraft:inventory_changed",
             "conditions": {
                 "items": [
                     {
-                        "item": "minecraft:honey_bottle"
+                        "item": "minecraft:string"
                     }
                 ]
             }
@@ -29,14 +29,14 @@
         "has_recipe": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
-                "recipe": "crafting:honey_bottle_sticky_piston"
+                "recipe": "alternative_recipes:rabbit_hide_bundle"
             }
         }
     },
     "requirements": [
         [
-            "has_piston",
-            "has_honey_bottle",
+            "has_rabbit_hide",
+            "has_string",
             "has_recipe"
         ]
     ]

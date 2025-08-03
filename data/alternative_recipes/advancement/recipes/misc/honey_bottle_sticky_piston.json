@@ -2,27 +2,26 @@
     "parent": "minecraft:recipes/root",
     "rewards": {
         "recipes": [
-            "crafting:alt_recovery_compass_1",
-            "crafting:alt_recovery_compass_2"
+            "alternative_recipes:honey_bottle_sticky_piston"
         ]
     },
     "criteria": {
-        "has_diamond": {
+        "has_piston": {
             "trigger": "minecraft:inventory_changed",
             "conditions": {
                 "items": [
                     {
-                        "item": "minecraft:diamond"
+                        "item": "minecraft:piston"
                     }
                 ]
             }
         },
-        "has_iron_ingot": {
+        "has_honey_bottle": {
             "trigger": "minecraft:inventory_changed",
             "conditions": {
                 "items": [
                     {
-                        "item": "minecraft:iron_ingot"
+                        "item": "minecraft:honey_bottle"
                     }
                 ]
             }
@@ -30,14 +29,14 @@
         "has_recipe": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
-                "recipe": "crafting:alt_recovery_compass_1"
+                "recipe": "alternative_recipes:honey_bottle_sticky_piston"
             }
         }
     },
     "requirements": [
         [
-            "has_diamond",
-            "has_iron_ingot",
+            "has_piston",
+            "has_honey_bottle",
             "has_recipe"
         ]
     ]
