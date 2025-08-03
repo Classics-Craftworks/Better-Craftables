@@ -1,7 +1,7 @@
 {
     "type": "minecraft:crafting_shaped",
-    "group": "alt_recovery_compass",
     "category": "equipment",
+    "group": "recovery_compass",
     "pattern": [
         " D ",
         "ICI",
