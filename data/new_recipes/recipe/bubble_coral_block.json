@@ -5,7 +5,7 @@
         "##"
     ],
     "key": {
-        "#": "#crafting:bubble_coral"
+        "#": "#new_recipes:bubble_coral"
     },
     "result": {
         "id": "minecraft:bubble_coral_block",

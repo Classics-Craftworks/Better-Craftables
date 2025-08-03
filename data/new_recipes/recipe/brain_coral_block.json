@@ -5,7 +5,7 @@
         "##"
     ],
     "key": {
-        "#": "#crafting:brain_coral"
+        "#": "#new_recipes:brain_coral"
     },
     "result": {
         "id": "minecraft:brain_coral_block",

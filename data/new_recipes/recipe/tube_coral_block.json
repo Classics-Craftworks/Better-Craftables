@@ -5,7 +5,7 @@
         "##"
     ],
     "key": {
-        "#": "#crafting:tube_coral"
+        "#": "#new_recipes:tube_coral"
     },
     "result": {
         "id": "minecraft:tube_coral_block",

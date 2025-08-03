@@ -5,7 +5,7 @@
         "##"
     ],
     "key": {
-        "#": "#crafting:fire_coral"
+        "#": "#new_recipes:fire_coral"
     },
     "result": {
         "id": "minecraft:fire_coral_block",
