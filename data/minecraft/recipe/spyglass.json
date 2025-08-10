@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "equipment",
+    "ingredients": [
+            "minecraft:amethyst_shard",
+            "minecraft:copper_ingot",
+            "minecraft:copper_ingot"
+    ],
+    "result": {
+        "id": "minecraft:spyglass",
+        "count": 1
+    }
+}

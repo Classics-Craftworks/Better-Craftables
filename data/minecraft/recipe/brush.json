@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "equipment",
+    "ingredients": [
+            "minecraft:feather",
+            "minecraft:copper_ingot",
+            "minecraft:stick"
+    ],
+    "result": {
+        "id": "minecraft:brush",
+        "count": 1
+    }
+}
