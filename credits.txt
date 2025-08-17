@@ -25,3 +25,7 @@ https://github.com/Classic36-Media/Better-Craftables/issues/9
 danteragewolfington (Discord)
 - Cheaper Bell recipe
 https://github.com/Classic36-Media/Better-Craftables/issues/10
+
+TheDarkPanther (GitHub)
+- Flint recipe
+https://github.com/Classic36-Media/Better-Craftables/issues/13
