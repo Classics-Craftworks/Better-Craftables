@@ -1,0 +1,32 @@
+{
+	"parent": "minecraft:recipes/root",
+	"rewards": {
+		"recipes": [
+			"smelting:black_stained_glass"
+		]
+	},
+	"criteria": {
+		"has_powder": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": "minecraft:black_concrete_powder"
+					}
+				]
+			}
+		},
+		"has_the_recipe": {
+			"trigger": "minecraft:recipe_unlocked",
+			"conditions": {
+				"recipe": "smelting:black_stained_glass"
+			}
+		}
+	},
+	"requirements": [
+		[
+			"has_powder",
+			"has_the_recipe"
+		]
+	]
+}

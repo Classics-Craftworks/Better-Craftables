@@ -1,0 +1,32 @@
+{
+	"parent": "minecraft:recipes/root",
+	"rewards": {
+		"recipes": [
+			"smelting:white_stained_glass"
+		]
+	},
+	"criteria": {
+		"has_powder": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": "minecraft:white_concrete_powder"
+					}
+				]
+			}
+		},
+		"has_the_recipe": {
+			"trigger": "minecraft:recipe_unlocked",
+			"conditions": {
+				"recipe": "smelting:white_stained_glass"
+			}
+		}
+	},
+	"requirements": [
+		[
+			"has_powder",
+			"has_the_recipe"
+		]
+	]
+}
