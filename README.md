@@ -10,7 +10,7 @@ A Minecraft data pack and mod that adds some quality-of-life crafting and smelti
 Better Craftables is only available on the platforms listed below. Please be aware that downloading it from any other source could result in an altered or potentially malicious version of the data pack/mod.
 
 [![](https://img.shields.io/modrinth/dt/BLG002oq?label=Modrinth&style=for-the-badge&color=00AF5C&logo=modrinth)](https://modrinth.com/datapack/better-craftables/)
-[![](https://img.shields.io/github/downloads/Classic36-Media/Better-Craftables/total?label=GitHub&style=for-the-badge&color=181717&logo=github)](https://github.com/Classic36-Media/Better-Craftables/releases)
+[![](https://img.shields.io/github/downloads/Classics-Craftworks/Better-Craftables/total?label=GitHub&style=for-the-badge&color=181717&logo=github)](https://github.com/Classics-Craftworks/Better-Craftables/releases)
 [![](https://img.shields.io/spiget/downloads/108728?label=SpigotMC&style=for-the-badge&color=ED8106&logo=spigotmc)](https://www.spigotmc.org/resources/better-craftables.108728/)
 
 ## Overview
@@ -23,26 +23,26 @@ Better Craftables, available as a data pack and a Fabric, Quilt, Forge & NeoForg
 * Cheaper recipes for Smithing Templates
 * Redyeing recipes for Candles, Concrete, Terracotta and more
 
-Check out the [Crafting Recipes](https://github.com/Classic36-Media/Better-Craftables/wiki/Crafting-Recipes) and [Smelting Recipes](https://github.com/Classic36-Media/Better-Craftables/wiki/Smelting-Recipes) pages on the wiki for a full list!
+Check out the [Crafting Recipes](https://github.com/Classics-Craftworks/Better-Craftables/wiki/Crafting-Recipes) and [Smelting Recipes](https://github.com/Classics-Craftworks/Better-Craftables/wiki/Smelting-Recipes) pages on the wiki for a full list!
 
 ## Versions
 
 | Minecraft Version | Better Craftables Version |
 | :--: | :--: |
-| 25w31a - 25w34b | [v6.0.0-beta4](https://github.com/Classic36-Media/Better-Craftables/releases/tag/v6.0.0-beta4) |
-| 1.21.6 - 1.21.8 | [v5.4.0](https://github.com/Classic36-Media/Better-Craftables/releases/tag/v5.4.0) |
-| 1.21.5 | [v4.1.0](https://github.com/Classic36-Media/Better-Craftables/releases/tag/v4.1.0) |
-| 1.21.4 | [v3.1.0](https://github.com/Classic36-Media/Better-Craftables/releases/tag/v3.1.0) |
-| 1.21.2 - 1.21.3 | [v3.0.0](https://github.com/Classic36-Media/Better-Craftables/releases/tag/v3.0.0) |
+| 25w31a - 25w34b | [v6.0.0-beta4](https://github.com/Classics-Craftworks/Better-Craftables/releases/tag/v6.0.0-beta4) |
+| 1.21.6 - 1.21.8 | [v5.4.0](https://github.com/Classics-Craftworks/Better-Craftables/releases/tag/v5.4.0) |
+| 1.21.5 | [v4.1.0](https://github.com/Classics-Craftworks/Better-Craftables/releases/tag/v4.1.0) |
+| 1.21.4 | [v3.1.0](https://github.com/Classics-Craftworks/Better-Craftables/releases/tag/v3.1.0) |
+| 1.21.2 - 1.21.3 | [v3.0.0](https://github.com/Classics-Craftworks/Better-Craftables/releases/tag/v3.0.0) |
 
-Older versions and snapshots can be found [on Modrinth](https://modrinth.com/datapack/better-craftables/versions) or [here on GitHub](https://github.com/Classic36-Media/Better-Craftables/wiki/Versions).
+Older versions and snapshots can be found [on Modrinth](https://modrinth.com/datapack/better-craftables/versions) or [here on GitHub](https://github.com/Classics-Craftworks/Better-Craftables/wiki/Versions).
 
 > [!IMPORTANT]
 > Make sure you download the correct version that matches your Minecraft version and mod loader if you are using Fabric or Forge. Please note that **[Fabric API](https://modrinth.com/mod/fabric-api) is required to run the Fabric/Quilt mod version** of Better Craftables.
 
 ## Support & Feedback
 Found a bug or have an idea?
-* Open a [GitHub issue](https://github.com/Classic36-Media/Better-Craftables/issues/new/choose)
+* Open a [GitHub issue](https://github.com/Classics-Craftworks/Better-Craftables/issues/new/choose)
 * Join Discord:
 
 [![](https://img.shields.io/discord/1107084025442607206?label=Discord&style=for-the-badge&color=5865F2&logo=discord)](https://discord.gg/vZJSDjPcmu)
@@ -55,7 +55,7 @@ Found a bug or have an idea?
 	* Universal Dyeing
 	* Sandstone Dyeing
 
-A full list of contributors is available [here](https://github.com/Classic36-Media/Better-Craftables/wiki/Credits).
+A full list of contributors is available [here](https://github.com/Classics-Craftworks/Better-Craftables/wiki/Credits).
 
 ***
 

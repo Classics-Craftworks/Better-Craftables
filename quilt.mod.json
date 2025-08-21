@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "quilt_loader": {
-    "group": "org.classic36media",
+    "group": "org.classicscraftworks",
     "id": "better_craftables",
     "version": "6.0.0-beta",
     "metadata": {
@@ -12,8 +12,8 @@
       },
       "contact": {
         "homepage": "https://modrinth.com/datapack/better-craftables",
-        "sources": "https://github.com/Classic36-Media/Better-Craftables",
-        "issues": "https://github.com/Classic36-Media/Better-Craftables/issues"
+        "sources": "https://github.com/Classics-Craftworks/Better-Craftables",
+        "issues": "https://github.com/Classics-Craftworks/Better-Craftables/issues"
       },
       "icon": "pack.png"
     },

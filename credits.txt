@@ -13,20 +13,20 @@ ACCEPTED SUGGESTIONS:
 
 HexedHero (GitHub)
 - Cobweb recipe
-https://github.com/Classic36-Media/Better-Craftables/issues/1
+https://github.com/Classics-Craftworks/Better-Craftables/issues/1
 
 vgtom4 (GitHub)
 - Honey Bottle in Sticky Piston recipe
-https://github.com/Classic36-Media/Better-Craftables/issues/6
+https://github.com/Classics-Craftworks/Better-Craftables/issues/6
 
 Andre_601 (SpigotMC)
 - Cheaper Name Tag recipe
-https://github.com/Classic36-Media/Better-Craftables/issues/9
+https://github.com/Classics-Craftworks/Better-Craftables/issues/9
 
 danteragewolfington (Discord)
 - Cheaper Bell recipe
-https://github.com/Classic36-Media/Better-Craftables/issues/10
+https://github.com/Classics-Craftworks/Better-Craftables/issues/10
 
 TheDarkPanther (GitHub)
 - Flint recipe
-https://github.com/Classic36-Media/Better-Craftables/issues/13
+https://github.com/Classics-Craftworks/Better-Craftables/issues/13
