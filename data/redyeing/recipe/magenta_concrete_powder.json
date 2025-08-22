@@ -1,6 +1,7 @@
 {
     "group": "redyeing_concrete_powder",
     "type": "crafting_shaped",
+    "category": "building",
     "pattern": [
         "###",
         "#D#",

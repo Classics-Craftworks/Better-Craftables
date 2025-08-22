@@ -1,6 +1,7 @@
 {
     "group": "redyeing_candle",
     "type": "crafting_shaped",
+    "category": "misc",
     "pattern": [
         "###",
         "#D#",

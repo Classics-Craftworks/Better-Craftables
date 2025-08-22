@@ -1,6 +1,7 @@
 {
 	"group": "redyeing_glazed_terracotta",
 	"type": "crafting_shaped",
+	"category": "building",
 	"pattern": [
 		"###",
 		"#D#",
