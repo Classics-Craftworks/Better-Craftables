@@ -54,6 +54,7 @@ Found a bug or have an idea?
 	* Craftable Coral Blocks 2x2
 	* Universal Dyeing
 	* Sandstone Dyeing
+	* Powder to Glass
 
 A full list of contributors is available [here](https://github.com/Classics-Craftworks/Better-Craftables/wiki/Credits).
 
