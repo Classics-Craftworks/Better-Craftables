@@ -29,7 +29,7 @@ Check out the [Crafting Recipes](https://github.com/Classics-Craftworks/Better-C
 
 | Minecraft Version | Better Craftables Version |
 | :--: | :--: |
-| 25w35a | [v6.0.0-beta6](https://github.com/Classics-Craftworks/Better-Craftables/releases/tag/v6.0.0-beta6) |
+| 25w36a | [v6.0.0-pre1](https://github.com/Classics-Craftworks/Better-Craftables/releases/tag/v6.0.0-pre1) |
 | 1.21.6 - 1.21.8 | [v5.4.0](https://github.com/Classics-Craftworks/Better-Craftables/releases/tag/v5.4.0) |
 | 1.21.5 | [v4.1.0](https://github.com/Classics-Craftworks/Better-Craftables/releases/tag/v4.1.0) |
 | 1.21.4 | [v3.1.0](https://github.com/Classics-Craftworks/Better-Craftables/releases/tag/v3.1.0) |
