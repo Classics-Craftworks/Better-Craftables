@@ -1,4 +1,4 @@
-![image](https://i.imgur.com/5r2Gk1I.png)
+![image](https://i.postimg.cc/d33zdLQh/Banner.png)
 
 A Minecraft data pack and mod that adds some quality-of-life crafting and smelting recipes to the game.
 
