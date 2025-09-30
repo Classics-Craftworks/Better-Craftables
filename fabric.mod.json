@@ -1,7 +1,7 @@
 {
 	"schemaVersion": 1,
 	"id": "better_craftables",
-	"version": "6.0.0-pre",
+	"version": "6.0.0",
 	"name": "Better Craftables",
 	"description": "Adds some quality-of-life crafting and smelting recipes to the game.",
 	"authors": [
