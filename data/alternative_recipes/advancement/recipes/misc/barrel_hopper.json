@@ -1,0 +1,43 @@
+{
+    "parent": "minecraft:recipes/root",
+    "rewards": {
+        "recipes": [
+            "alternative_recipes:barrel_hopper"
+        ]
+    },
+    "criteria": {
+        "has_iron": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:iron_ingot"
+                    }
+                ]
+            }
+        },
+        "has_barrel": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:barrel"
+                    }
+                ]
+            }
+        },
+        "has_recipe": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "alternative_recipes:barrel_hopper"
+            }
+        }
+    },
+    "requirements": [
+        [
+            "has_iron",
+            "has_barrel",
+            "has_recipe"
+        ]
+    ]
+}
