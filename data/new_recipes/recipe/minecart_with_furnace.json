@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+        "I#I",
+        "III"
+    ],
+    "key": {
+        "#": "minecraft:furnace",
+        "I": "minecraft:iron_ingot"
+    },
+    "result": {
+        "id": "minecraft:furnace_minecart",
+        "count": 1
+    }
+}
