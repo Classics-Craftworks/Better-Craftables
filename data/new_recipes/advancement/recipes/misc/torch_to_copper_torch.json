@@ -1,0 +1,43 @@
+{
+    "parent": "minecraft:recipes/root",
+    "rewards": {
+        "recipes": [
+            "new_recipes:torch_to_copper_torch"
+        ]
+    },
+    "criteria": {
+        "has_torch": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:torch"
+                    }
+                ]
+            }
+        },
+        "has_ingredient": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:copper_nugget"
+                    }
+                ]
+            }
+        },
+        "has_recipe": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "new_recipes:torch_to_copper_torch"
+            }
+        }
+    },
+    "requirements": [
+        [
+            "has_torch",
+            "has_ingredient",
+            "has_recipe"
+        ]
+    ]
+}
