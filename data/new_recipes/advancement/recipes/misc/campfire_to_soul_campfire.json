@@ -1,0 +1,43 @@
+{
+    "parent": "minecraft:recipes/root",
+    "rewards": {
+        "recipes": [
+            "new_recipes:campfire_to_soul_campfire"
+        ]
+    },
+    "criteria": {
+        "has_campfire": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:campfire"
+                    }
+                ]
+            }
+        },
+        "has_ingredient": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "tag": "minecraft:soul_fire_base_blocks"
+                    }
+                ]
+            }
+        },
+        "has_recipe": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "new_recipes:campfire_to_soul_campfire"
+            }
+        }
+    },
+    "requirements": [
+        [
+            "has_campfire",
+            "has_ingredient",
+            "has_recipe"
+        ]
+    ]
+}
