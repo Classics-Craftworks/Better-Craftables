@@ -1,15 +1,15 @@
 {
 	"pack": {
 		"min_format": 88,
-		"max_format": 90,
-		"description": "§6Better Craftables\n§7v6.1.0-b4 §8/ §f1.21.9-25w42a"
+		"max_format": 91,
+		"description": "§6Better Craftables\n§7v6.1.0-b4 §8/ §f1.21.9-25w43a"
 	},
 	"overlays": {
 		"entries": [
 			{
 		 		"directory": "data_1.21.11",
 				"min_format": 89,
-		 		"max_format": 90
+		 		"max_format": 91
 			}
 		]
 	}
