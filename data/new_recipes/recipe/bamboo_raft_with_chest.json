@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+        "PCP",
+        "PPP"
+    ],
+    "key": {
+        "C": "minecraft:chest",
+        "P": "minecraft:bamboo_planks"
+    },
+    "result": {
+        "id": "minecraft:bamboo_chest_raft",
+        "count": 1
+    }
+}

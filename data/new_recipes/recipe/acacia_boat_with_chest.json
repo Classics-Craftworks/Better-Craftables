@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+        "PCP",
+        "PPP"
+    ],
+    "key": {
+        "C": "minecraft:chest",
+        "P": "minecraft:acacia_planks"
+    },
+    "result": {
+        "id": "minecraft:acacia_chest_boat",
+        "count": 1
+    }
+}

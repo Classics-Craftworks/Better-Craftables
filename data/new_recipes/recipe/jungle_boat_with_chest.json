@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+        "PCP",
+        "PPP"
+    ],
+    "key": {
+        "C": "minecraft:chest",
+        "P": "minecraft:jungle_planks"
+    },
+    "result": {
+        "id": "minecraft:jungle_chest_boat",
+        "count": 1
+    }
+}

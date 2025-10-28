@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+        "PCP",
+        "PPP"
+    ],
+    "key": {
+        "C": "minecraft:chest",
+        "P": "minecraft:pale_oak_planks"
+    },
+    "result": {
+        "id": "minecraft:pale_oak_chest_boat",
+        "count": 1
+    }
+}

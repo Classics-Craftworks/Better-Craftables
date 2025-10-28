@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+        "PCP",
+        "PPP"
+    ],
+    "key": {
+        "C": "minecraft:chest",
+        "P": "minecraft:mangrove_planks"
+    },
+    "result": {
+        "id": "minecraft:mangrove_chest_boat",
+        "count": 1
+    }
+}
