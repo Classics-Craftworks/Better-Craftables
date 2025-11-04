@@ -55,6 +55,9 @@ Found a bug or have an idea?
 	* Universal Dyeing
 	* Sandstone Dyeing
 	* Powder to Glass
+* [PhoenixSC](https://youtu.be/05uLclRxLpU)
+    * Green Dye from Blue & Yellow Dyes
+    * Brown Dye from Blue, Yellow & Red Dyes
 
 A full list of contributors is available [here](https://github.com/Classics-Craftworks/Better-Craftables/wiki/Credits).
 
