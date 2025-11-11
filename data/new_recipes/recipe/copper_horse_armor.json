@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "pattern": [
+        "  C",
+        "CSC",
+        "CCC"
+    ],
+    "key": {
+        "C": "minecraft:copper_ingot",
+        "S": "minecraft:saddle"
+    },
+    "result": {
+        "id": "minecraft:copper_horse_armor",
+        "count": 1
+    }
+}
