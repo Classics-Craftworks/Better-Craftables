@@ -16,12 +16,12 @@
                 ]
             }
         },
-        "has_saddle": {
+        "has_wool": {
             "trigger": "minecraft:inventory_changed",
             "conditions": {
                 "items": [
                     {
-                        "item": "minecraft:saddle"
+                        "tag": "minecraft:wool"
                     }
                 ]
             }
@@ -36,7 +36,7 @@
     "requirements": [
         [
             "has_copper",
-            "has_saddle",
+            "has_wool",
             "has_recipe"
         ]
     ]

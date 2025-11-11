@@ -8,7 +8,7 @@
     ],
     "key": {
         "C": "minecraft:copper_ingot",
-        "S": "minecraft:saddle"
+        "S": "#minecraft:wool"
     },
     "result": {
         "id": "minecraft:copper_horse_armor",
