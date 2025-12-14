@@ -9,7 +9,8 @@
 	],
 	"key": {
 		"#": [
-  			"minecraft:blue_candle",
+  			"minecraft:candle",
+			"minecraft:blue_candle",
   			"minecraft:brown_candle",
   			"minecraft:cyan_candle",
   			"minecraft:gray_candle",
