@@ -31,9 +31,6 @@ Check out the [Crafting Recipes](https://github.com/Classics-Craftworks/Better-C
 | 1.21.9 - 26.1-snapshot-1 | [v6.3.0-beta1](https://modrinth.com/datapack/better-craftables/version/v6.3.0-beta1) | N/A |
 | 1.21.9 - 1.21.11 | [v6.2.0](https://modrinth.com/datapack/better-craftables/version/v6.2.0) | [v6.2.0+mod](https://modrinth.com/datapack/better-craftables/version/v6.2.0+mod) |
 | 1.21.6 - 1.21.8 | [v5.4.0](https://modrinth.com/datapack/better-craftables/version/v5.4.0) | [v5.4.0+mod](https://modrinth.com/datapack/better-craftables/version/v5.4.0+mod) |
-| 1.21.5 | [v4.1.0](https://modrinth.com/datapack/better-craftables/version/v4.1.0) | [v4.1.0+mod](https://modrinth.com/datapack/better-craftables/version/v4.1.0+mod) |
-| 1.21.4 | [v3.1.0](https://modrinth.com/datapack/better-craftables/version/v3.1.0) | [v3.1.0+mod](https://modrinth.com/datapack/better-craftables/version/v3.1.0+mod) |
-| 1.21.2 - 1.21.3 | [v3.0.0](https://modrinth.com/datapack/better-craftables/version/v3.0.0) | [v3.0.0+mod](https://modrinth.com/datapack/better-craftables/version/v3.0.0+mod) |
 
 Older versions and snapshots can be found [on Modrinth](https://modrinth.com/datapack/better-craftables/versions) or [here on GitHub](https://github.com/Classics-Craftworks/Better-Craftables/wiki/Versions).
 
