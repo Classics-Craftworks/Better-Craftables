@@ -1,0 +1,43 @@
+{
+    "parent": "minecraft:recipes/root",
+    "rewards": {
+        "recipes": [
+            "pottery_sherd_dupe:mourner_pottery_sherd"
+        ]
+    },
+    "criteria": {
+        "has_sherd": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:mourner_pottery_sherd"
+                    }
+                ]
+            }
+        },
+        "has_brick": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:brick"
+                    }
+                ]
+            }
+        },
+        "has_recipe": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "pottery_sherd_dupe:mourner_pottery_sherd"
+            }
+        }
+    },
+    "requirements": [
+        [
+            "has_sherd",
+            "has_brick",
+            "has_recipe"
+        ]
+    ]
+}
