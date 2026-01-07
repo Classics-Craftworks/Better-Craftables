@@ -28,7 +28,7 @@ Check out the [Crafting Recipes](https://github.com/Classics-Craftworks/Better-C
 
 | Minecraft Version | Data Pack Version | Mod Version |
 | :--: | :--: | :--: |
-| 26.1-snapshot-2 | [v7.0.0-beta1](https://modrinth.com/datapack/better-craftables/version/v7.0.0-beta1) | N/A |
+| 26.1-snapshot-2 | [v7.0.0-beta1](https://modrinth.com/datapack/better-craftables/version/v7.0.0-beta1) | [v7.0.0+mod-alpha1](https://modrinth.com/datapack/better-craftables/version/v7.0.0+mod-alpha1) |
 | 1.21.9 - 1.21.11 | [v6.3.0](https://modrinth.com/datapack/better-craftables/version/v6.3.0) | [v6.3.0+mod](https://modrinth.com/datapack/better-craftables/version/v6.3.0+mod) |
 | 1.21.6 - 1.21.8 | [v5.4.0](https://modrinth.com/datapack/better-craftables/version/v5.4.0) | [v5.4.0+mod](https://modrinth.com/datapack/better-craftables/version/v5.4.0+mod) |
 
