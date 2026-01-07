@@ -24,10 +24,6 @@ vgtom4 (GitHub)
 - Honey Bottle in Sticky Piston recipe
 https://github.com/Classics-Craftworks/Better-Craftables/issues/6
 
-Andre_601 (SpigotMC)
-- Cheaper Name Tag recipe
-https://github.com/Classics-Craftworks/Better-Craftables/issues/9
-
 danteragewolfington (Discord)
 - Cheaper Bell recipe
 https://github.com/Classics-Craftworks/Better-Craftables/issues/10
