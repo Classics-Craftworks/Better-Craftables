@@ -16,7 +16,7 @@ Better Craftables is only available on the platforms listed below. Please be awa
 
 Better Craftables, available as a data pack and a Fabric, Quilt, Forge & NeoForge mod, enhances the vanilla Minecraft experience with recipes such as:
 
-* Craftable Name Tags & Bells
+* Craftable Coral Blocks & Bells
 * Raw Ore Block smelting
 * Alternative recipes for Recovery Compasses and Sticky Pistons
 * Cheaper recipes for Smithing Templates
@@ -28,6 +28,7 @@ Check out the [Crafting Recipes](https://github.com/Classics-Craftworks/Better-C
 
 | Minecraft Version | Data Pack Version | Mod Version |
 | :--: | :--: | :--: |
+| 26.1-snapshot-2 | [v7.0.0-beta1](https://modrinth.com/datapack/better-craftables/version/v7.0.0-beta1) | N/A |
 | 1.21.9 - 1.21.11 | [v6.3.0](https://modrinth.com/datapack/better-craftables/version/v6.3.0) | [v6.3.0+mod](https://modrinth.com/datapack/better-craftables/version/v6.3.0+mod) |
 | 1.21.6 - 1.21.8 | [v5.4.0](https://modrinth.com/datapack/better-craftables/version/v5.4.0) | [v5.4.0+mod](https://modrinth.com/datapack/better-craftables/version/v5.4.0+mod) |
 
