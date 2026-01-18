@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "building",
+    "pattern": [
+        "DS",
+        "SD"
+    ],
+    "key": {
+        "D": "minecraft:dirt",
+        "S": "minecraft:soul_sand"
+    },
+    "result": {
+        "id": "minecraft:soul_soil",
+        "count": 2
+    }
+}

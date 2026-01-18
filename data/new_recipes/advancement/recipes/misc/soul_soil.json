@@ -1,0 +1,43 @@
+{
+    "parent": "minecraft:recipes/root",
+    "rewards": {
+        "recipes": [
+            "new_recipes:soul_soil"
+        ]
+    },
+    "criteria": {
+        "has_soul_sand": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:soul_sand"
+                    }
+                ]
+            }
+        },
+        "has_dirt": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:dirt"
+                    }
+                ]
+            }
+        },
+        "has_recipe": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "new_recipes:soul_soil"
+            }
+        }
+    },
+    "requirements": [
+        [
+            "has_soul_sand",
+            "has_dirt",
+            "has_recipe"
+        ]
+    ]
+}
