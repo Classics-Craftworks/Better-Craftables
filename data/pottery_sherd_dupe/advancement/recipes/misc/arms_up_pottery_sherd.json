@@ -11,7 +11,7 @@
             "conditions": {
                 "items": [
                     {
-                        "item": "minecraft:arms_up_pottery_sherd"
+                        "items": "minecraft:arms_up_pottery_sherd"
                     }
                 ]
             }
@@ -21,7 +21,7 @@
             "conditions": {
                 "items": [
                     {
-                        "item": "minecraft:brick"
+                        "items": "minecraft:brick"
                     }
                 ]
             }

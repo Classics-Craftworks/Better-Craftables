@@ -11,7 +11,7 @@
             "conditions": {
                 "items": [
                     {
-                        "item": "minecraft:cherry_planks"
+                        "items": "minecraft:cherry_planks"
                     }
                 ]
             }
@@ -21,7 +21,7 @@
             "conditions": {
                 "items": [
                     {
-                        "item": "minecraft:chest"
+                        "items": "minecraft:chest"
                     }
                 ]
             }

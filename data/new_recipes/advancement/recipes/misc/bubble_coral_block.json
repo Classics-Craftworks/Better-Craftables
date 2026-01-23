@@ -11,7 +11,7 @@
             "conditions": {
                 "items": [
                     {
-                        "item": "minecraft:bubble_coral"
+                        "items": "minecraft:bubble_coral"
                     }
                 ]
             }
@@ -21,7 +21,7 @@
             "conditions": {
                 "items": [
                     {
-                        "item": "minecraft:bubble_coral_fan"
+                        "items": "minecraft:bubble_coral_fan"
                     }
                 ]
             }

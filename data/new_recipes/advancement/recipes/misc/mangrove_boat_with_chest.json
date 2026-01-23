@@ -11,7 +11,7 @@
             "conditions": {
                 "items": [
                     {
-                        "item": "minecraft:mangrove_planks"
+                        "items": "minecraft:mangrove_planks"
                     }
                 ]
             }
@@ -21,7 +21,7 @@
             "conditions": {
                 "items": [
                     {
-                        "item": "minecraft:chest"
+                        "items": "minecraft:chest"
                     }
                 ]
             }

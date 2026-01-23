@@ -11,7 +11,7 @@
             "conditions": {
                 "items": [
                     {
-                        "item": "minecraft:spruce_planks"
+                        "items": "minecraft:spruce_planks"
                     }
                 ]
             }
@@ -21,7 +21,7 @@
             "conditions": {
                 "items": [
                     {
-                        "item": "minecraft:chest"
+                        "items": "minecraft:chest"
                     }
                 ]
             }

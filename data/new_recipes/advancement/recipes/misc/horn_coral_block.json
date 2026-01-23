@@ -11,7 +11,7 @@
             "conditions": {
                 "items": [
                     {
-                        "item": "minecraft:horn_coral"
+                        "items": "minecraft:horn_coral"
                     }
                 ]
             }
@@ -21,7 +21,7 @@
             "conditions": {
                 "items": [
                     {
-                        "item": "minecraft:horn_coral_fan"
+                        "items": "minecraft:horn_coral_fan"
                     }
                 ]
             }

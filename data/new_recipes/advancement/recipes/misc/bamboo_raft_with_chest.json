@@ -11,7 +11,7 @@
             "conditions": {
                 "items": [
                     {
-                        "item": "minecraft:bamboo_planks"
+                        "items": "minecraft:bamboo_planks"
                     }
                 ]
             }
@@ -21,7 +21,7 @@
             "conditions": {
                 "items": [
                     {
-                        "item": "minecraft:chest"
+                        "items": "minecraft:chest"
                     }
                 ]
             }

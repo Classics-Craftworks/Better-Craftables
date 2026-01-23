@@ -11,7 +11,7 @@
             "conditions": {
                 "items": [
                     {
-                        "item": "minecraft:blue_dye"
+                        "items": "minecraft:blue_dye"
                     }
                 ]
             }
@@ -21,7 +21,7 @@
             "conditions": {
                 "items": [
                     {
-                        "item": "minecraft:yellow_dye"
+                        "items": "minecraft:yellow_dye"
                     }
                 ]
             }
@@ -31,7 +31,7 @@
             "conditions": {
                 "items": [
                     {
-                        "item": "minecraft:red_dye"
+                        "items": "minecraft:red_dye"
                     }
                 ]
             }
