@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "pattern": [
+        " CC",
+        " SC",
+        "CCC"
+    ],
+    "key": {
+        "C": "minecraft:copper_ingot",
+        "S": "minecraft:nautilus_shell"
+    },
+    "result": {
+        "id": "minecraft:copper_nautilus_armor",
+        "count": 1
+    }
+}

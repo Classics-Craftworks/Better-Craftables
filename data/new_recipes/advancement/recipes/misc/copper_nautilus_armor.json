@@ -1,0 +1,43 @@
+{
+    "parent": "minecraft:recipes/root",
+    "rewards": {
+        "recipes": [
+            "new_recipes:copper_nautilus_armor"
+        ]
+    },
+    "criteria": {
+        "has_copper": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": "minecraft:copper_ingot"
+                    }
+                ]
+            }
+        },
+        "has_shell": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": "minecraft:nautilus_shell"
+                    }
+                ]
+            }
+        },
+        "has_recipe": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "new_recipes:copper_nautilus_armor"
+            }
+        }
+    },
+    "requirements": [
+        [
+            "has_copper",
+            "has_shell",
+            "has_recipe"
+        ]
+    ]
+}
