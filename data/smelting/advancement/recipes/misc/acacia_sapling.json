@@ -1,0 +1,32 @@
+{
+    "parent": "minecraft:recipes/root",
+    "rewards": {
+        "recipes": [
+            "smelting:acacia_sapling"
+        ]
+    },
+    "criteria": {
+        "has_sapling": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": "minecraft:acacia_sapling"
+                    }
+                ]
+            }
+        },
+        "has_recipe": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "smelting:acacia_sapling"
+            }
+        }
+    },
+    "requirements": [
+        [
+            "has_sapling",
+            "has_recipe"
+        ]
+    ]
+}
