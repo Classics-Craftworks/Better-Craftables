@@ -2,7 +2,7 @@
     "parent": "minecraft:recipes/root",
     "rewards": {
         "recipes": [
-            "smelting:birch_sapling"
+            "smelting:saplings"
         ]
     },
     "criteria": {
@@ -11,7 +11,7 @@
             "conditions": {
                 "items": [
                     {
-                        "items": "minecraft:birch_sapling"
+                        "items": "#minecraft:saplings"
                     }
                 ]
             }
@@ -19,7 +19,7 @@
         "has_recipe": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
-                "recipe": "smelting:birch_sapling"
+                "recipe": "smelting:saplings"
             }
         }
     },
