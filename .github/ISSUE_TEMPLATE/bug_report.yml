@@ -18,7 +18,7 @@ body:
       label: Version
       description: Which version of Better Craftables are you using? If it's not listed, please consider updating!
       options:
-        - v7.1.0-beta.5
+        - v7.1.0-beta.6
         - v7.0.2
         - v7.0.2+mod
         - v6.3.1
