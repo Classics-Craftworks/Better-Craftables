@@ -1,0 +1,43 @@
+{
+    "parent": "minecraft:recipes/root",
+    "rewards": {
+        "recipes": [
+            "alternative_recipes:green_dye_from_lime_black"
+        ]
+    },
+    "criteria": {
+        "has_lime": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": "minecraft:lime_dye"
+                    }
+                ]
+            }
+        },
+        "has_black": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": "minecraft:black_dye"
+                    }
+                ]
+            }
+        },
+        "has_recipe": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "alternative_recipes:green_dye_from_lime_black"
+            }
+        }
+    },
+    "requirements": [
+        [
+            "has_lime",
+            "has_black",
+            "has_recipe"
+        ]
+    ]
+}

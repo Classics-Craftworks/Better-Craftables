@@ -1,0 +1,32 @@
+{
+    "parent": "minecraft:recipes/root",
+    "rewards": {
+        "recipes": [
+            "alternative_recipes:pink_dye_from_spore_blossom"
+        ]
+    },
+    "criteria": {
+        "has_spore_blossom": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": "minecraft:spore_blossom"
+                    }
+                ]
+            }
+        },
+        "has_recipe": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "alternative_recipes:pink_dye_from_spore_blossom"
+            }
+        }
+    },
+    "requirements": [
+        [
+            "has_spore_blossom",
+            "has_recipe"
+        ]
+    ]
+}

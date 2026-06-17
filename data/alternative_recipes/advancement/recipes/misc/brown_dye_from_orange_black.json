@@ -1,0 +1,43 @@
+{
+    "parent": "minecraft:recipes/root",
+    "rewards": {
+        "recipes": [
+            "alternative_recipes:brown_dye_from_orange_black"
+        ]
+    },
+    "criteria": {
+        "has_orange": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": "minecraft:orange_dye"
+                    }
+                ]
+            }
+        },
+        "has_black": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": "minecraft:black_dye"
+                    }
+                ]
+            }
+        },
+        "has_recipe": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "alternative_recipes:brown_dye_from_orange_black"
+            }
+        }
+    },
+    "requirements": [
+        [
+            "has_orange",
+            "has_black",
+            "has_recipe"
+        ]
+    ]
+}

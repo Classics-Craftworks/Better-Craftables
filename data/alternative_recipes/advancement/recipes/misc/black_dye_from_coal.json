@@ -1,0 +1,32 @@
+{
+    "parent": "minecraft:recipes/root",
+    "rewards": {
+        "recipes": [
+            "alternative_recipes:black_dye_from_coal"
+        ]
+    },
+    "criteria": {
+        "has_coal": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": "minecraft:coal"
+                    }
+                ]
+            }
+        },
+        "has_recipe": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "alternative_recipes:black_dye_from_coal"
+            }
+        }
+    },
+    "requirements": [
+        [
+            "has_coal",
+            "has_recipe"
+        ]
+    ]
+}
