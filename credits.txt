@@ -35,5 +35,5 @@ https://github.com/Classics-Craftworks/Better-Craftables/issues/13
 Rufubi (GitHub)
 - Alternative Dyes: Charcoal -> Black Dye & Carrot -> Orange Dye
 https://github.com/Classics-Craftworks/Better-Craftables/issues/17
-- Alternative/cheaper map recipe
+- Alternative/cheaper Map recipe
 https://github.com/Classics-Craftworks/Better-Craftables/issues/18
