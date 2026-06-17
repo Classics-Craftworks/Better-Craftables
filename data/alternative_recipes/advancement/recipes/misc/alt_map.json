@@ -1,0 +1,43 @@
+{
+    "parent": "minecraft:recipes/root",
+    "rewards": {
+        "recipes": [
+            "alternative_recipes:alt_map"
+        ]
+    },
+    "criteria": {
+        "has_paper": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": "minecraft:paper"
+                    }
+                ]
+            }
+        },
+        "has_redstone": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": "minecraft:redstone"
+                    }
+                ]
+            }
+        },
+        "has_recipe": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "alternative_recipes:alt_map"
+            }
+        }
+    },
+    "requirements": [
+        [
+            "has_paper",
+            "has_redstone",
+            "has_recipe"
+        ]
+    ]
+}

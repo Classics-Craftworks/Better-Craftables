@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "group": "map",
+    "pattern": [
+        "PPP",
+        "PRP",
+        "PPP"
+    ],
+    "key": {
+        "P": "minecraft:paper",
+        "R": "minecraft:redstone"
+    },
+    "result": {
+        "id": "minecraft:map",
+        "count": 1
+    }
+}
