@@ -31,3 +31,9 @@ https://github.com/Classics-Craftworks/Better-Craftables/issues/10
 TheDarkPanther (GitHub)
 - Flint recipe
 https://github.com/Classics-Craftworks/Better-Craftables/issues/13
+
+Rufubi (GitHub)
+- Alternative Dyes: Charcoal -> Black Dye & Carrot -> Orange Dye
+https://github.com/Classics-Craftworks/Better-Craftables/issues/17
+- Alternative/cheaper map recipe
+https://github.com/Classics-Craftworks/Better-Craftables/issues/18
