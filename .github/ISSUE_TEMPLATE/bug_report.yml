@@ -28,12 +28,11 @@ body:
       label: Version
       description: Which version of Better Craftables are you using? If it's not listed, please consider updating!
       options:
+        - v7.3.0-beta.1
         - v7.2.0
         - v7.2.0+mod
         - v7.0.2
         - v7.0.2+mod
-        - v6.3.1
-        - v6.3.1+mod
     validations:
       required: true
   - type: input
@@ -49,7 +48,7 @@ body:
     attributes:
       label: Mod Loader Version
       description: If running as a mod, which mod loader (and Fabric API version, if running Fabric/Quilt) are you using?
-      placeholder: "Examples: 'Fabric Loader 0.19.3 with Fabric API 0.152.2 for Minecraft 26.2' or 'NeoForge 26.2.0.6'"
+      placeholder: "Examples: 'Fabric Loader 0.19.3 with Fabric API 0.153.0 for Minecraft 26.2' or 'NeoForge 26.2.0.7'"
     validations:
       required: false
   - type: input
