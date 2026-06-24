@@ -3,7 +3,7 @@
 A Minecraft data pack and mod that adds some quality-of-life crafting and smelting recipes to the game.
 
 > [!TIP]
-> Want some unpacking recipes? Check out [Better Unpackables](https://modrinth.com/datapack/better-unpackables)!
+> Want some unpacking or reversible recipes? Check out [Better Unpackables](https://modrinth.com/datapack/better-unpackables)!
 
 ## Downloads
 
