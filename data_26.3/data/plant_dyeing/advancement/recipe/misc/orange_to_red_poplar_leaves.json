@@ -1,0 +1,43 @@
+{
+    "parent": "minecraft:recipes/root",
+    "rewards": {
+        "recipes": [
+            "plant_dyeing:orange_to_red_poplar_leaves"
+        ]
+    },
+    "criteria": {
+        "has_leaves": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": "minecraft:orange_poplar_leaves"
+                    }
+                ]
+            }
+        },
+        "has_dye": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": "minecraft:red_dye"
+                    }
+                ]
+            }
+        },
+        "has_recipe": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "plant_dyeing:orange_to_red_poplar_leaves"
+            }
+        }
+    },
+    "requirements": [
+        [
+            "has_leaves",
+            "has_dye",
+            "has_recipe"
+        ]
+    ]
+}

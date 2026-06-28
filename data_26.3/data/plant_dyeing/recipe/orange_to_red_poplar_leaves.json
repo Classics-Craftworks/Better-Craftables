@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "misc",
+    "group": "leaf_dyeing",
+    "ingredients": [
+            "minecraft:orange_poplar_leaves",
+            "minecraft:red_dye"
+    ],
+    "result": {
+        "id": "minecraft:red_poplar_leaves",
+        "count": 1
+    }
+}

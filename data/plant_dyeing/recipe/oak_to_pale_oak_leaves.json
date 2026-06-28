@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "misc",
+    "group": "leaf_dyeing",
+    "ingredients": [
+            "minecraft:oak_leaves",
+            "minecraft:light_gray_dye"
+    ],
+    "result": {
+        "id": "minecraft:pale_oak_leaves",
+        "count": 1
+    }
+}
