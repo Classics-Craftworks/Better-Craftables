@@ -7,6 +7,11 @@
     "overlays": {
         "entries": [
             {
+                "directory": "data_26.2",
+                "min_format": 102,
+                "max_format": 109
+            },
+            {
                 "directory": "data_26.3",
                 "min_format": 108,
                 "max_format": 109
