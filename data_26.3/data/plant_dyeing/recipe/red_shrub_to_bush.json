@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "misc",
+    "group": "shrub_dyeing",
+    "ingredients": [
+            "minecraft:red_shrub",
+            "minecraft:green_dye"
+    ],
+    "result": {
+        "id": "minecraft:bush",
+        "count": 1
+    }
+}

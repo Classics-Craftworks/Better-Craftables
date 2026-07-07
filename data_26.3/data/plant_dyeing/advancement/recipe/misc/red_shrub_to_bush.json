@@ -1,0 +1,43 @@
+{
+    "parent": "minecraft:recipes/root",
+    "rewards": {
+        "recipes": [
+            "plant_dyeing:red_shrub_to_bush"
+        ]
+    },
+    "criteria": {
+        "has_shrub": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": "minecraft:red_shrub"
+                    }
+                ]
+            }
+        },
+        "has_dye": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": "minecraft:green_dye"
+                    }
+                ]
+            }
+        },
+        "has_recipe": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "plant_dyeing:red_shrub_to_bush"
+            }
+        }
+    },
+    "requirements": [
+        [
+            "has_shrub",
+            "has_dye",
+            "has_recipe"
+        ]
+    ]
+}
