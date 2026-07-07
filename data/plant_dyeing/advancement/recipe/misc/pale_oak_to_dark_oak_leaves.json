@@ -1,0 +1,54 @@
+{
+    "parent": "minecraft:recipes/root",
+    "rewards": {
+        "recipes": [
+            "plant_dyeing:pale_oak_to_dark_oak_leaves"
+        ]
+    },
+    "criteria": {
+        "has_leaves": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": "minecraft:pale_oak_leaves"
+                    }
+                ]
+            }
+        },
+        "has_green_dye": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": "minecraft:green_dye"
+                    }
+                ]
+            }
+        },
+        "has_black_dye": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": "minecraft:black_dye"
+                    }
+                ]
+            }
+        },
+        "has_recipe": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "plant_dyeing:pale_oak_to_dark_oak_leaves"
+            }
+        }
+    },
+    "requirements": [
+        [
+            "has_leaves",
+            "has_green_dye",
+            "has_black_dye",
+            "has_recipe"
+        ]
+    ]
+}
