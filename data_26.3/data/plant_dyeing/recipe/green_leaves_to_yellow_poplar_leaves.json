@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "misc",
+    "group": "yellow_poplar_leaf_dyeing",
+    "ingredients": [
+            "#plant_dyeing:green_leaves",
+            "minecraft:yellow_dye"
+    ],
+    "result": {
+        "id": "minecraft:yellow_poplar_leaves",
+        "count": 1
+    }
+}

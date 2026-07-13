@@ -1,0 +1,43 @@
+{
+    "parent": "minecraft:recipes/root",
+    "rewards": {
+        "recipes": [
+            "plant_dyeing:green_leaves_to_yellow_poplar_leaves"
+        ]
+    },
+    "criteria": {
+        "has_leaves": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "tag": "plant_dyeing:green_leaves"
+                    }
+                ]
+            }
+        },
+        "has_dye": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": "minecraft:yellow_dye"
+                    }
+                ]
+            }
+        },
+        "has_recipe": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "plant_dyeing:green_leaves_to_yellow_poplar_leaves"
+            }
+        }
+    },
+    "requirements": [
+        [
+            "has_leaves",
+            "has_dye",
+            "has_recipe"
+        ]
+    ]
+}
