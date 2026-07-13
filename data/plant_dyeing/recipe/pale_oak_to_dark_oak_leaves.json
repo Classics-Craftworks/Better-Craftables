@@ -1,7 +1,7 @@
 {
     "type": "minecraft:crafting_shapeless",
     "category": "misc",
-    "group": "leaf_dyeing",
+    "group": "oak_leaf_dyeing",
     "ingredients": [
             "minecraft:pale_oak_leaves",
             "minecraft:green_dye",

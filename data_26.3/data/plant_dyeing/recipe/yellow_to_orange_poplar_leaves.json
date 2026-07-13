@@ -1,7 +1,7 @@
 {
     "type": "minecraft:crafting_shapeless",
     "category": "misc",
-    "group": "leaf_dyeing",
+    "group": "orange_poplar_leaf_dyeing",
     "ingredients": [
             "minecraft:yellow_poplar_leaves",
             "minecraft:orange_dye"
