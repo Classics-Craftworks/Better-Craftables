@@ -39,7 +39,7 @@
         "has_recipe": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
-                "recipe": "new_recipes:bell"
+                "recipes": "new_recipes:bell"
             }
         }
     },

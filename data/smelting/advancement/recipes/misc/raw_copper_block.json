@@ -20,7 +20,7 @@
         "has_recipe": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
-                "recipe": "smelting:raw_copper_block"
+                "recipes": "smelting:raw_copper_block"
             }
         }
     },

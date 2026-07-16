@@ -19,7 +19,7 @@
         "has_recipe": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
-                "recipe": "alternative_recipes:purple_dye_from_popped_chorus_fruit"
+                "recipes": "alternative_recipes:purple_dye_from_popped_chorus_fruit"
             }
         }
     },

@@ -19,7 +19,7 @@
 		"has_the_recipe": {
 			"trigger": "minecraft:recipe_unlocked",
 			"conditions": {
-				"recipe": "smelting:white_stained_glass"
+				"recipes": "smelting:white_stained_glass"
 			}
 		}
 	},

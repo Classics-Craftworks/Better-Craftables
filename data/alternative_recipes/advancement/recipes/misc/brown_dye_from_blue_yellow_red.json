@@ -39,7 +39,7 @@
         "has_recipe": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
-                "recipe": "alternative_recipes:brown_dye_from_blue_yellow_red"
+                "recipes": "alternative_recipes:brown_dye_from_blue_yellow_red"
             }
         }
     },

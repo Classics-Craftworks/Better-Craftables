@@ -19,7 +19,7 @@
         "has_recipe": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
-                "recipe": "new_recipes:tall_grass"
+                "recipes": "new_recipes:tall_grass"
             }
         }
     },

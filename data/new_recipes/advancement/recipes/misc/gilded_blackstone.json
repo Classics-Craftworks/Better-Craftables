@@ -29,7 +29,7 @@
         "has_recipe": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
-                "recipe": "new_recipes:gilded_blackstone"
+                "recipes": "new_recipes:gilded_blackstone"
             }
         }
     },

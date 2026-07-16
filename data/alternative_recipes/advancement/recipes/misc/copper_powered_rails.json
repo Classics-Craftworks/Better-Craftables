@@ -39,7 +39,7 @@
         "has_recipe": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
-                "recipe": "alternative_recipes:copper_powered_rails"
+                "recipes": "alternative_recipes:copper_powered_rails"
             }
         }
     },

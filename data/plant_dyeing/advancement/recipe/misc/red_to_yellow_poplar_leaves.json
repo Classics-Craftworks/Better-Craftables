@@ -29,7 +29,7 @@
         "has_recipe": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
-                "recipe": "plant_dyeing:red_to_yellow_poplar_leaves"
+                "recipes": "plant_dyeing:red_to_yellow_poplar_leaves"
             }
         }
     },

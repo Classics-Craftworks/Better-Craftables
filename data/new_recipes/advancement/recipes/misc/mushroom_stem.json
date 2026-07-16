@@ -25,9 +25,14 @@
         "has_recipe": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
-                "recipe": "new_recipes:mushroom_stem_1"
-            }
-        }
+                "recipes": [
+                    "new_recipes:mushroom_stem_1",
+                    "new_recipes:mushroom_stem_2",
+                    "new_recipes:mushroom_stem_3",
+                    "new_recipes:mushroom_stem_4"
+        ]
+    }
+}
     },
     "requirements": [
         [

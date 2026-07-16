@@ -29,7 +29,7 @@
         "has_recipe": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
-                "recipe": "new_recipes:bamboo_raft_with_chest"
+                "recipes": "new_recipes:bamboo_raft_with_chest"
             }
         }
     },

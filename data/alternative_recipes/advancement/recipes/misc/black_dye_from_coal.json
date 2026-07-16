@@ -19,7 +19,7 @@
         "has_recipe": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
-                "recipe": "alternative_recipes:black_dye_from_coal"
+                "recipes": "alternative_recipes:black_dye_from_coal"
             }
         }
     },

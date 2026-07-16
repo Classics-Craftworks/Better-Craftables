@@ -39,7 +39,7 @@
         "has_recipe": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
-                "recipe": "plant_dyeing:pale_oak_to_dark_oak_leaves"
+                "recipes": "plant_dyeing:pale_oak_to_dark_oak_leaves"
             }
         }
     },

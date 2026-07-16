@@ -29,7 +29,7 @@
         "has_recipe": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
-                "recipe": "new_recipes:copper_nautilus_armor"
+                "recipes": "new_recipes:copper_nautilus_armor"
             }
         }
     },

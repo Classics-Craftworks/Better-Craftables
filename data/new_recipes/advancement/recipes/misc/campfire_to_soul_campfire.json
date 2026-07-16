@@ -29,7 +29,7 @@
         "has_recipe": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
-                "recipe": "new_recipes:campfire_to_soul_campfire"
+                "recipes": "new_recipes:campfire_to_soul_campfire"
             }
         }
     },

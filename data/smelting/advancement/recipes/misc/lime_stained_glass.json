@@ -19,7 +19,7 @@
 		"has_the_recipe": {
 			"trigger": "minecraft:recipe_unlocked",
 			"conditions": {
-				"recipe": "smelting:lime_stained_glass"
+				"recipes": "smelting:lime_stained_glass"
 			}
 		}
 	},

@@ -29,7 +29,7 @@
         "has_recipe": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
-                "recipe": "alternative_recipes:rabbit_hide_bundle"
+                "recipes": "alternative_recipes:rabbit_hide_bundle"
             }
         }
     },

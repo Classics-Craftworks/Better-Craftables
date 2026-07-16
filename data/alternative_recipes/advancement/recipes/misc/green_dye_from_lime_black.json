@@ -29,7 +29,7 @@
         "has_recipe": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
-                "recipe": "alternative_recipes:green_dye_from_lime_black"
+                "recipes": "alternative_recipes:green_dye_from_lime_black"
             }
         }
     },

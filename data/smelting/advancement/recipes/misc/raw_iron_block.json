@@ -20,7 +20,7 @@
         "has_recipe": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
-                "recipe": "smelting:raw_iron_block"
+                "recipes": "smelting:raw_iron_block"
             }
         }
     },

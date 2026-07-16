@@ -29,7 +29,7 @@
         "has_recipe": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
-                "recipe": "new_recipes:tube_coral_block"
+                "recipes": "new_recipes:tube_coral_block"
             }
         }
     },

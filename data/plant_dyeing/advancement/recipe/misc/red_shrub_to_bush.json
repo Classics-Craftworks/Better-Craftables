@@ -29,7 +29,7 @@
         "has_recipe": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
-                "recipe": "plant_dyeing:red_shrub_to_bush"
+                "recipes": "plant_dyeing:red_shrub_to_bush"
             }
         }
     },

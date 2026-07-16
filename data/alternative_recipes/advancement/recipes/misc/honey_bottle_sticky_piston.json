@@ -29,7 +29,7 @@
         "has_recipe": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
-                "recipe": "alternative_recipes:honey_bottle_sticky_piston"
+                "recipes": "alternative_recipes:honey_bottle_sticky_piston"
             }
         }
     },

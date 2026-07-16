@@ -30,9 +30,12 @@
         "has_recipe": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
-                "recipe": "alternative_recipes:alt_recovery_compass_1"
-            }
-        }
+                "recipes": [
+                    "alternative_recipes:alt_recovery_compass_1",
+                    "alternative_recipes:alt_recovery_compass_2"
+        ]
+    }
+}
     },
     "requirements": [
         [

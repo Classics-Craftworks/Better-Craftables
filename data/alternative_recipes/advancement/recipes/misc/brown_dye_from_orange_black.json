@@ -29,7 +29,7 @@
         "has_recipe": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
-                "recipe": "alternative_recipes:brown_dye_from_orange_black"
+                "recipes": "alternative_recipes:brown_dye_from_orange_black"
             }
         }
     },
