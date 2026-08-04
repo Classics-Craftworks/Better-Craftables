@@ -1,0 +1,53 @@
+{
+    "parent": "minecraft:recipes/root",
+    "criteria": {
+        "has_block": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": "#redyeing:concrete_slab"
+                    }
+                ]
+            }
+        },
+        "has_dye": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": "#redyeing:dyes"
+                    }
+                ]
+            }
+        }
+    },
+    "requirements": [
+        [
+            "has_block"
+        ],
+        [
+            "has_dye"
+        ]
+    ],
+    "rewards": {
+        "recipes": [
+            "redyeing:black_concrete_slab",
+            "redyeing:blue_concrete_slab",
+            "redyeing:brown_concrete_slab",
+            "redyeing:cyan_concrete_slab",
+            "redyeing:gray_concrete_slab",
+            "redyeing:green_concrete_slab",
+            "redyeing:light_blue_concrete_slab",
+            "redyeing:light_gray_concrete_slab",
+            "redyeing:lime_concrete_slab",
+            "redyeing:magenta_concrete_slab",
+            "redyeing:orange_concrete_slab",
+            "redyeing:pink_concrete_slab",
+            "redyeing:purple_concrete_slab",
+            "redyeing:red_concrete_slab",
+            "redyeing:white_concrete_slab",
+            "redyeing:yellow_concrete_slab"
+        ]
+    }
+}
