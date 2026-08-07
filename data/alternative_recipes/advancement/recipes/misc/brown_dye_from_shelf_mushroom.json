@@ -1,0 +1,32 @@
+{
+    "parent": "minecraft:recipes/root",
+    "rewards": {
+        "recipes": [
+            "alternative_recipes:brown_dye_from_shelf_mushroom"
+        ]
+    },
+    "criteria": {
+        "has_mushroom": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": "minecraft:shelf_mushroom"
+                    }
+                ]
+            }
+        },
+        "has_recipe": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipes": "alternative_recipes:brown_dye_from_shelf_mushroom"
+            }
+        }
+    },
+    "requirements": [
+        [
+            "has_mushroom",
+            "has_recipe"
+        ]
+    ]
+}
