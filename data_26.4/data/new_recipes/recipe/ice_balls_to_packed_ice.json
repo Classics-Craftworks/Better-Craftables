@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "building",
+    "group": "packed_ice",
+    "pattern": [
+        "II",
+        "II"
+    ],
+    "key": {
+        "I": "minecraft:ice_ball"
+    },
+    "result": {
+        "id": "minecraft:packed_ice",
+        "count": 2
+    }
+}
