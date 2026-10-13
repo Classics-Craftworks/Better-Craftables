@@ -1,7 +1,7 @@
 {
     "type": "minecraft:crafting_shaped",
     "category": "building",
-    "group": "ice",
+    "group": "brittle_ice",
     "pattern": [
         "II",
         "II"
@@ -10,7 +10,7 @@
         "I": "minecraft:icicle"
     },
     "result": {
-        "id": "minecraft:ice",
+        "id": "minecraft:brittle_ice",
         "count": 1
     }
 }

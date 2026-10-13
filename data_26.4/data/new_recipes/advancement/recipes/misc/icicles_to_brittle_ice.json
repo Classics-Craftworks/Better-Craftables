@@ -2,7 +2,7 @@
     "parent": "minecraft:recipes/root",
     "rewards": {
         "recipes": [
-            "new_recipes:icicles_to_ice"
+            "new_recipes:icicles_to_brittle_ice"
         ]
     },
     "criteria": {
@@ -19,7 +19,7 @@
         "has_recipe": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
-                "recipes": "new_recipes:icicles_to_ice"
+                "recipes": "new_recipes:icicles_to_brittle_ice"
             }
         }
     },
