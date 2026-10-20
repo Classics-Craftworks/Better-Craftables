@@ -1,14 +1,11 @@
 {
-    "type": "minecraft:crafting_shaped",
+    "type": "minecraft:crafting_shapeless",
     "category": "building",
     "group": "ice",
-    "pattern": [
-        "II",
-        "II"
+    "ingredients": [
+            "minecraft:ice_crystal",
+            "minecraft:ice_crystal"
     ],
-    "key": {
-        "I": "minecraft:ice_crystal"
-    },
     "result": {
         "id": "minecraft:ice",
         "count": 1
